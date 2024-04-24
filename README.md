@@ -2,7 +2,8 @@
 <h1 align="center">Hola, soy Miguel Ángel Cáceres Ríos</a> 👋</h1>
 
 </div>
-<img src="https://ibb.co/9VhqtHK">
+<a href="https://ibb.co/9VhqtHK"><img src="https://i.ibb.co/NmrLS2D/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png" alt="Black-Minimal-Business-Personal-Profile-Linkedin-Banner" border="0">
+</a>
 
 
 ## Sobre mi
