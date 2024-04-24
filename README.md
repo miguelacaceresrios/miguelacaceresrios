@@ -4,7 +4,7 @@
 </div>
 <a href="https://ibb.co/5T5TjQL"><img src="https://i.ibb.co/tBbB20D/Black-Minimal-Business-Personal-Profile-Linkedin-Banner-2.png" 
                                       alt="Black-Minimal-Business-Personal-Profile-Linkedin-Banner-2" border="0">
-</a>>
+</a>
 </a>
 
 
