@@ -45,7 +45,7 @@ Estoy emocionado por lo que el futuro tiene reservado en el mundo del desarrollo
   </a>
   
 <a href="https://wakatime.com/@miguelacaceresrios" style="display: inline-block; margin-right: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=miguelacaceresrios&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=miguelacaceresrios&theme=dark" alt="WakaTime stats" />
 </a>
 
 
