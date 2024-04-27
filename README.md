@@ -12,8 +12,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/miguelangelcaceresr/)
 [![GitHub followers](https://img.shields.io/github/followers/miguelacaceresrios?style=social)](https://github.com/miguelacaceresrios)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-caceres-rios-393405297/)
+[![WakaTime](https://img.shields.io/badge/WakaTime-Profile-blue?style=flat-square&logo=wakatime)](https://wakatime.com/@miguelacaceresrios)
 
-
+ 
 ## Sobre mí
 
 ¡Hola a todos! Soy Miguel, también conocido como Gato. Soy un apasionado del desarrollo de software . Desde que descubrí mi interés por la programación, he estado inmerso en un emocionante viaje de aprendizaje y crecimiento profesional.
@@ -33,11 +34,20 @@ Estoy emocionado por lo que el futuro tiene reservado en el mundo del desarrollo
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div style="text-align: center;">
+  
   <a href="https://github.com/miguelacaceresrios" style="display: inline-block; margin-right: 10px;">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
+
+  
   <a href="https://github.com/miguelacaceresrios" style="display: inline-block;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&layout=compact&langs_count=8&theme=dark"/>
   </a>
+  
+<a href="https://github.com/miguelacaceresrios" style="display: inline-block; margin-right: 10px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=miguelacaceresrios&theme=dark"/>
+</a>
+
+
 </div>
 
