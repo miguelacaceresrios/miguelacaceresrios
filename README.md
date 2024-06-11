@@ -7,7 +7,7 @@
   <img src="https://i.ibb.co/6PTLrTJ/ban3r.png" alt="Banner" style="max-width: 100%;">
 </a>
 
-<!--iconos-->
+<!--iconos del perfl-->
 [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpbyCz_To5En5u0ZNTOATHQ)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/miguelangelcaceresr/)
 [![GitHub followers](https://img.shields.io/github/followers/miguelacaceresrios?style=social)](https://github.com/miguelacaceresrios)
@@ -41,7 +41,7 @@ Estoy emocionado por lo que el futuro tiene reservado en el mundo del desarrollo
 </br>
 
 <h2>Introducción</h2>
-    <p>Geo Bot es una innovadora aplicación que se integra tanto en Discord como en la web. Diseñada para mejorar la experiencia de los jugadores, Geo Bot se conecta directamente a un juego creado por nosotros en Unity para recopilar y proporcionar información valiosa y en tiempo real. Además, ofrece servicios adicionales al estilo de un asistente virtual, como pronósticos meteorológicos y acortadores de URL.</p>
+    <p>Geo Bot es una innovadora aplicación que se integra tanto en Discord como en la web. Diseñada para mejorar la experiencia de los jugadores, Geo Bot se conecta directamente a un juego creado por nosotros en Unity para recopilar y proporcionar información valiosa y en tiempo real. Además, ofrece servicios adicionales al estilo de un asistente virtual</p>
     <h2>Funcionalidades Principales</h2>
     <h3>Conexión Directa con Nuestro Juego en Unity</h3>
     <ul>
