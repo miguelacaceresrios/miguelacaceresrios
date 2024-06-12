@@ -1,10 +1,6 @@
 <div align="center">
-  <h1>Hola, soy Miguel Ángel Cáceres Ríos 👋</h1>
-</div>
-
-<div align="center">
-<a href="https://ibb.co/yyZ7dZB">
-  <img src="https://i.ibb.co/6PTLrTJ/ban3r.png" alt="Banner" style="max-width: 100%;">
+<a href="https://ibb.co/Wkq3b1V">
+  <img src="https://i.ibb.co/m91BL7N/Black-Liquid-Minimalist-Daily-Quotes-Linked-In-Banner-1.png" alt="Black-Liquid-Minimalist-Daily-Quotes-Linked-In-Banner-1"  style="max-width: 100%;">
 </a>
 
 <!--iconos del perfl-->
