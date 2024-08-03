@@ -28,34 +28,13 @@ Estoy emocionado por lo que el futuro tiene reservado en el mundo del desarrollo
 
 <br>
 
-<div align="center">
-<h1> Conoce sobre GEO </h1>
+
 
 <a href="https://ibb.co/cxTvpqk"><img src="https://i.ibb.co/PtCYbkF/img.png" alt="img" border="0" alt="Banner" style="max-width: 100%;">
 </a>
 </div>
 </br>
 
-<h2>Introducción</h2>
-    <p>Geo Bot es una innovadora aplicación que se integra tanto en Discord como en la web. Diseñada para mejorar la experiencia de los jugadores, Geo Bot se conecta directamente a un juego creado por nosotros en Unity para recopilar y proporcionar información valiosa y en tiempo real. Además, ofrece servicios adicionales al estilo de un asistente virtual</p>
-    <h2>Funcionalidades Principales</h2>
-    <h3>Conexión Directa con Nuestro Juego en Unity</h3>
-    <ul>
-        <li><strong>Recopilación de Datos del Juego:</strong> Geo Bot obtiene datos específicos directamente desde nuestro juego en Unity, permitiendo monitorear y analizar el rendimiento y las estadísticas en tiempo real.</li>
-        <li><strong>Interacciones Dinámicas:</strong> Los jugadores pueden interactuar con el bot para obtener información específica del juego sin salir de la plataforma, mejorando así la experiencia de juego.</li>
-    </ul>
-    <h3>Servicios de Asistente Virtual</h3>
-    <ul>
-        <li><strong>Información Meteorológica:</strong> Geo Bot proporciona actualizaciones meteorológicas precisas y actualizadas, ideales para planificar actividades dentro y fuera del juego basadas en condiciones climáticas reales.</li>
-        <li><strong>Acortador de URL:</strong> Facilita compartir enlaces de manera rápida y sencilla con una función de acortamiento de URL integrada.</li>
-        <li><strong>Información General:</strong> Ofrece datos importantes y actualizados que pueden ser útiles tanto dentro como fuera del contexto del juego.</li>
-    </ul>
-    <h2>Ventajas de Usar Geo Bot</h2>
-    <ul>
-        <li><strong>Eficiencia y Comodidad:</strong> Al centralizar la información del juego y otros datos importantes en un solo bot, los usuarios pueden ahorrar tiempo y esfuerzo.</li>
-        <li><strong>Interacción Mejorada:</strong> Con la integración en Discord y la web, los usuarios pueden acceder a Geo Bot desde múltiples plataformas, mejorando la accesibilidad y la experiencia de usuario.</li>
-        <li><strong>Actualizaciones en Tiempo Real:</strong> Gracias a la conexión directa con nuestro juego en Unity y servicios de datos externos, Geo Bot proporciona información actualizada de manera instantánea.</li>
-    </ul>
 
 
 <br></br>
