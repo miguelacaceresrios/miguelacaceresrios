@@ -30,8 +30,6 @@ Estoy emocionado por lo que el futuro tiene reservado en el mundo del desarrollo
 
 
 
-<a href="https://ibb.co/cxTvpqk"><img src="https://i.ibb.co/PtCYbkF/img.png" alt="img" border="0" alt="Banner" style="max-width: 100%;">
-</a>
 </div>
 </br>
 
