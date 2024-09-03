@@ -16,19 +16,26 @@
 </div>
 
 
-¡Hola a todos! Soy Miguel, también conocido como Gato. Soy un apasionado del desarrollo de software . Desde que descubrí mi interés por la programación, he estado inmerso en un emocionante viaje de aprendizaje y crecimiento profesional.
-
-Mi enfoque principal está en el desarrollo web, con experiencia en tecnologías como Angular y MVC. Me encanta crear aplicaciones que no solo sean funcionales, sino también atractivas y fáciles de usar. Creo firmemente en la importancia del diseño limpio y la experiencia del usuario para el éxito de cualquier proyecto.
-
-Además de mi experiencia en desarrollo de software, también disfruto explorando nuevas tecnologías y ampliando mis conocimientos. Siempre estoy buscando oportunidades para aprender y crecer, ya sea asistiendo a conferencias, participando en proyectos de código abierto o simplemente investigando en mi tiempo libre.
-
-En mi tiempo libre, me gusta compartir mis conocimientos y experiencias con mi comunidad de desarrollo a través de mis grupos de discord. Creo en el poder de la colaboración y el intercambio de ideas para impulsar la innovación y el progreso en nuestra industria.
-
-Estoy emocionado por lo que el futuro tiene reservado en el mundo del desarrollo de software y estoy ansioso por seguir creciendo y enfrentando nuevos desafíos. ¡Gracias por visitar mi perfil y espero tener la oportunidad de conectarme contigo pronto!
-
+soy miguel mejor conocido como gato trabajo en varias areas de la programacion empece por el desarrollo de videojuegos y actualmente me estoy certificando en temas de seguridad informatica 
 <br>
 
 
+## Proyectos *aqui invierto mi tiempo*
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">sophia.ia</h3>
+<div align="center">
+<a href="https://github.com/miguelacaceresrios/sophia.ia" target="_blank"><img src="https://i.ibb.co/jRnVxnz/sophia-ia-logo.webp" width="400" alt="sophia-soporte-emocional"></a>
+  <p>
+<a href="https://github.com/miguelacaceresrios/sophia.ia" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+
+<p>basada en una persona que me ayudo demasiado emocionalmente y me ayudo a superar mil problemas este servicio esta para ayudar y guiarte si buscas consejos o una charla casual (el chat tiene limitaciones y se encuentra 
+en pruebas).</p>
+</div>
 
 </div>
 </br>
