@@ -52,7 +52,7 @@
               <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Código Sophia.IA">
             </a>
           </p>
-          <p>Basada en una persona que me ayudó demasiado emocionalmente y me ayudó a superar mil problemas, este servicio está para ayudar y guiarte si buscas consejos o una charla casual (el chat tiene limitaciones y se encuentra en pruebas).</p>
+          <p>Sabia q una persona especial se iba a alejar de mi vida pero no estaba preparado para ese dia este chatbot fue desarrollado para recordar a esa persona y servir de ayuda emocional .</p>
         </div>
       </td>
     </tr>
