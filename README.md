@@ -28,7 +28,9 @@
 
   <div>
     <h1>Sobre mí</h1>
-    <p>Soy Miguel, mejor conocido como Gato. Trabajo en varias áreas de la programación. Empecé por el desarrollo de videojuegos y actualmente me estoy certificando en temas de seguridad informática.</p>
+    <p>programacione full stack | ciencia de datos | desarrollo de videojuegos | mejorando herramientas y entornos de hacking | solo busco estabilidad y apoyo dentro de una empresa desempeñandome en cualquier area, aprendo y me actualizo 
+continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando mi carrera universitaria (ing en sistemas), copilando desde 2016 en varios entornos , tec en servicios de la nube (azure , aws) , aprendo rapido actuamente trabajo en varios lenguajes de programacion a la vez estudio y mejoro mis capacidades sociales en varios idiomas (eng esp port rus) siempre dispuesto a darlo todo, rapido efectivo y util
+  </p>
   </div>
 
   <h2>Proyectos *usa correctamente los programas*</h2>
