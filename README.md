@@ -30,7 +30,7 @@
     <p>Soy Miguel, mejor conocido como Gato. Trabajo en varias áreas de la programación. Empecé por el desarrollo de videojuegos y actualmente me estoy certificando en temas de seguridad informática.</p>
   </div>
 
-  <h2>Proyectos *aquí invierto mi tiempo*</h2>
+  <h2>Proyectos *usa correctamente los programas*</h2>
   <table>
     <tr>
       <td width="50%">
