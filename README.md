@@ -33,7 +33,7 @@ continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando 
   </p>
   </div>
 
-  <h2>Proyectos *usa correctamente los programas*</h2>
+  <h2>Proyectos *ten cuidado con lo q descargas *</h2>
   <table>
     <tr>
       <td width="50%">
@@ -59,7 +59,7 @@ continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando 
     </tr>
   </table>
 
-  <h2>⚙️ &nbsp;GitHub Analytics</h2>
+  <h2>GitHub data</h2>
   <div style="text-align: center;">
     <!-- GitHub Data -->
     <div style="display: inline-block; margin-right: 10px;">
