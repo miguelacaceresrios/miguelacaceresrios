@@ -34,14 +34,12 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Sophia.IA</h3>
+        <h3 align="center"> --- </h3>
         <div align="center">
           <a href="https://github.com/miguelacaceresrios/sophia.ia" target="_blank">
         <div align="center">
 <div align="center">
-  <a href="https://postimg.cc/xcyg2QvD" target="_blank">
-    <img src="https://i.postimg.cc/xcyg2QvD/sophia-ia-logo.png" alt="sophia-ia-logo" border="0">
-  </a>
+
 </div>
 
   </a>
@@ -52,7 +50,7 @@
               <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Código Sophia.IA">
             </a>
           </p>
-          <p>Sabia q una persona especial se iba a alejar de mi vida pero no estaba preparado para ese dia este chatbot fue desarrollado para recordar a esa persona y servir de ayuda emocional .</p>
+          <p>.</p>
         </div>
       </td>
     </tr>
