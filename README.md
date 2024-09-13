@@ -1,7 +1,8 @@
 <div align="center">
-<a href='https://postimg.cc/c6N097T9' target='_blank'>
-  <img src='https://i.postimg.cc/pVmrdqjH/rebecca-cyber-punk.png' border='0' alt='rebecca-cyber-punk'style="max-width: 100%;"/>
+<a href="https://ibb.co/xC42DMS">
+<img src="https://i.ibb.co/smBg2Fv/Black-Liquid-Minimalist-Daily-Quotes-Linked-In-Banner-1.png" border='0' alt="Black-Liquid-Minimalist-Daily-Quotes-Linked-In-Banner-1"
   </a>
+
 
   <!-- Iconos del perfil -->
   <p>
