@@ -3,7 +3,6 @@
 <img src="https://i.ibb.co/smBg2Fv/Black-Liquid-Minimalist-Daily-Quotes-Linked-In-Banner-1.png" border='0' alt="Black-Liquid-Minimalist-Daily-Quotes-Linked-In-Banner-1"
   </a>
 
-
   <!-- Iconos del perfil -->
   <p>
     <a href="https://www.youtube.com/channel/UCpbyCz_To5En5u0ZNTOATHQ">
