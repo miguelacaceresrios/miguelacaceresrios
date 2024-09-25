@@ -5,17 +5,8 @@
 
   <!-- Iconos del perfil -->
   <p>
-    <a href="https://www.youtube.com/channel/UCpbyCz_To5En5u0ZNTOATHQ">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Channel">
-    </a>
-    <a href="https://www.instagram.com/miguelangelcaceresr/">
-      <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
     <a href="https://github.com/miguelacaceresrios">
       <img src="https://img.shields.io/github/followers/miguelacaceresrios?style=social" alt="GitHub followers">
-    </a>
-    <a href="https://www.linkedin.com/in/miguel-angel-caceres-rios-393405297/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://wakatime.com/@miguelacaceresrios">
       <img src="https://img.shields.io/badge/WakaTime-Profile-blue?style=flat-square&logo=wakatime" alt="WakaTime">
