@@ -45,26 +45,25 @@ continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando 
 
 
 
-
-  <h2>GitHub data</h2>
-  <div style="text-align: center;">
-    <!-- GitHub Data -->
-    <div style="display: inline-block; margin-right: 10px;">
-      <a href="https://github.com/miguelacaceresrios">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
-      </a>
-    </div>
-    <!-- Lenguajes -->
-    <div style="display: inline-block; margin-top: 10px;">
-      <a href="https://github.com/miguelacaceresrios">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&layout=compact&langs_count=8&theme=dark" alt="Top Languages">
-      </a>
-    </div>
-    <!-- WakaTime -->
-    <div style="display: inline-block; margin-top: 10px;">
-      <a href="https://wakatime.com/@miguelacaceresrios">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=miguelacaceresrios&theme=dark" alt="WakaTime Stats">
-      </a>
-    </div>
-  </div>
+<h2>GitHub data</h2>
+<div style="text-align: center;">
+<!-- GitHub Data -->
+<div style="display: inline-block; margin-right: 10px;">
+<a href="https://github.com/miguelacaceresrios">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</a>
+</div>
+<!-- Lenguajes -->
+<div style="display: inline-block; margin-top: 10px;">
+<a href="https://github.com/miguelacaceresrios">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&layout=compact&langs_count=8&theme=dark" alt="Top Languages">
+</a>
+</div>
+<!-- WakaTime -->
+<div style="display: inline-block; margin-top: 10px;">
+<a href="https://wakatime.com/@miguelacaceresrios">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=miguelacaceresrios&theme=dark" alt="WakaTime Stats">
+</a>
+</div>
+</div>
 </div>
