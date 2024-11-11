@@ -1,7 +1,3 @@
-<div align="center">
-<a href="https://ibb.co/xC42DMS">
-<img src="https://i.ibb.co/smBg2Fv/Black-Liquid-Minimalist-Daily-Quotes-Linked-In-Banner-1.png" border='0' alt="Black-Liquid-Minimalist-Daily-Quotes-Linked-In-Banner-1"
-</a>
 
   <!-- Iconos del perfil -->
 <p>
@@ -23,7 +19,7 @@ continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando 
 
 
 
-<h2>Proyectos (usalo todo con responsabilidad)</h2>
+<h2>Proyectos</h2>
 
 <table>
 <tr>
@@ -37,22 +33,18 @@ continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando 
 <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a>
+</table>
+  
 
-
-
-
-
-
-
-
+<!-- GitHub Data -->
 <h2>GitHub data</h2>
 <div style="text-align: center;">
-<!-- GitHub Data -->
 <div style="display: inline-block; margin-right: 10px;">
 <a href="https://github.com/miguelacaceresrios">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </a>
 </div>
+  
 <!-- Lenguajes -->
 <div style="display: inline-block; margin-top: 10px;">
 <a href="https://github.com/miguelacaceresrios">
