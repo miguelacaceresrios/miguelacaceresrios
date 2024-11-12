@@ -8,7 +8,7 @@ programacione full stack | ciencia de datos | desarrollo de videojuegos | mejora
 continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando mi carrera universitaria (ing en sistemas), copilando desde 2016 en varios entornos , tec en servicios de la nube (azure , aws) , aprendo rapido actualmente trabajo en varios lenguajes de programacion a la vez estudio y mejoro mis capacidades sociales en varios idiomas (eng esp port rus) siempre dispuesto a darlo todo, rapido efectivo y util 
 </p>
 
-  <!--estadisticas -->
+<!--estadisticas -->
 <p align="center">
 <a href="https://github.com/miguelacaceresrios">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
@@ -18,7 +18,7 @@ continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando 
 </a>
 </p>
 
-  <!-- Iconos del perfil -->
+<!-- Iconos del perfil -->
 <p>
 <p align="center">
 <a href="https://github.com/miguelacaceresrios">
@@ -31,6 +31,7 @@ continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando 
 </p>
 </div>
 
+<!-- info relacion proyectos -->
 
   
 <h1>el futuro de mis proyectos</h1>
@@ -38,19 +39,23 @@ continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando 
    actualmente con nuestra comunidad de isometrical estamos trabajando en paralelo con ciertos proyectos q esperamos q pronto seaan 
    accesibles para el publico ya q adoramos la calidad y el detalle dentro de cada uno de nuestros juegos asi q esperamos tenerlos lo 
    mas pronto posible y si nos desean apoyar podrian colaborar en nuestro patreon o en nuestro paypal
-  <!-- Badge de Patreon -->
-<a href="https://www.patreon.com/YOUR_PATREON_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon Support">
-</a>
-
-<!-- Badge de PayPal -->
-<a href="https://www.paypal.me/YOUR_PAYPAL_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donate">
-</a>
+  
+<!-- badges proyectos -->
 </p>
+<p align="center">
+<a href="https://www.patreon.com/c/user?u=104187367" target="_blank">
+<img src="https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon Support">
+</a>
+<a href="https://www.paypal.me/YOUR_PAYPAL_LINK" target="_blank">
+<img src="https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donate">
+</a></p>
 
 <!-- mis proyectos -->
-<h2>Ciberseguridad</h2>
+
+<h1>
+<p align="center">
+Ciberseguridad
+</h1>
 
 <table>
 <tr>
@@ -71,20 +76,27 @@ continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando 
 
 
 
+<h1>Programación de Videojuegoss</h1>
 
-  
-<h2>Programación de Videojuegoss</h2>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">metrop</h3>
+<div align="center">
+<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
+</a></div></td>
+    
+<td width="50%">
+<h3 align="center">ultra</h3>
+<div align="center">
+<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
+</a></div></td></tr>
+</table>
 
 
-
-
-
-
-
-
-
-
-<h2>Programación Web</h2>
+<h1>Programación Web</h1>
 
 
 <table>
