@@ -69,21 +69,21 @@ Ciberseguridad
 <td width="50%">
 <h3 align="center">Quesito</h3>
 <div align="center">
-<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+<a " target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a></div></td></tr>
 
 <td width="50%">
 <h3 align="center">meet the spy</h3>
 <div align="center">
-<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a></div></td></tr>
 
 <td width="50%">
 <h3 align="center">ramdom where</h3>
 <div align="center">
-<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a></div></td></tr>
 </table>
@@ -101,14 +101,14 @@ Programación de Videojuegos
 <td width="50%">
 <h3 align="center">metrop</h3>
 <div align="center">
-<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a></div></td>
     
 <td width="50%">
 <h3 align="center">ultra</h3>
 <div align="center">
-<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a></div></td></tr>
 </table>
@@ -125,21 +125,21 @@ Programación Web
 <td width="50%">
 <h3 align="center">caninecare</h3>
 <div align="center">
-<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a></div></td>
     
 <td width="50%">
 <h3 align="center">lunaris</h3>
 <div align="center">
-<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a></div></td></tr>
 
 <td width="50%">
 <h3 align="center">champion fitness</h3>
 <div align="center">
-<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a></div></td></tr>
 </table>
