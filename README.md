@@ -89,8 +89,12 @@ Ciberseguridad
 </table>
 
 
+<!-- videojuegos -->
+<h1>
+<p align="center">
+Programación de Videojuegos
+</h1>
 
-<h1>Programación de Videojuegoss</h1>
 
 <table>
 <tr>
@@ -110,71 +114,42 @@ Ciberseguridad
 </table>
 
 
-<h1>Programación Web</h1>
-
+<!-- web -->
+<h1>
+<p align="center">
+Programación Web
+</h1>
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">lunaris</h3>
-      <div align="center">
-        <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-      </div>
-    </td>
+<tr>
+<td width="50%">
+<h3 align="center">caninecare</h3>
+<div align="center">
+<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
+</a></div></td>
     
-  <td width="50%">
-  <h3 align="center">caninecare</h3>
-     <div align="center">
-       <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
-     <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
-     </a>
-  </div>
-   </td>
-  </tr>
-  
+<td width="50%">
+<h3 align="center">lunaris</h3>
+<div align="center">
+<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
+</a></div></td></tr>
+
+<td width="50%">
+<h3 align="center">champion fitness</h3>
+<div align="center">
+<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
+</a></div></td></tr>
 </table>
 
 
-
-
-
-
-
-
-<h2>Programación de Escritorio</h2>
-
-
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Ojo de Sauron</h3>
-      <div align="center">
-        <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-      </div>
-    </td>
-    
-  <td width="50%">
-  <h3 align="center">Quesito</h3>
-     <div align="center">
-       <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
-     <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
-     </a>
-  </div>
-   </td>
-  </tr>
-
-  
-</table>
-
-
-
-
-
+<!-- escritorio -->
+<h1>
+<p align="center">
+Programación de Escritorio
+</h1>
 
 
   
