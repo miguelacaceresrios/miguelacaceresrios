@@ -1,7 +1,10 @@
 
 <!-- sobre mi -->
 <div>
-<h1>acerca de mi</h1>
+<h1>
+<p align="center">
+acerca de mi
+</h1>
   
 <p>
 programacione full stack | ciencia de datos | desarrollo de videojuegos | mejorando herramientas y entornos de hacking | solo busco estabilidad y apoyo dentro de una empresa desempeñandome en cualquier area, aprendo y me actualizo 
@@ -33,8 +36,9 @@ continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando 
 
 <!-- info relacion proyectos -->
 
-  
-<h1>el futuro de mis proyectos</h1>
+<h1>
+   <p align="center">
+el futuro de mis proyectos</h1>
 <p>
    actualmente con nuestra comunidad de isometrical estamos trabajando en paralelo con ciertos proyectos q esperamos q pronto seaan 
    accesibles para el publico ya q adoramos la calidad y el detalle dentro de cada uno de nuestros juegos asi q esperamos tenerlos lo 
@@ -57,36 +61,48 @@ continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando 
 Ciberseguridad
 </h1>
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Ojo de Sauron</h3>
-<div align="center">
-<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
-</a></div></td>
-    
-<td width="50%">
-<h3 align="center">Quesito</h3>
-<div align="center">
-<a " target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
-</a></div></td></tr>
+<p align="center">
+  <table>
+    <tr>
+      <td width="25%">
+        <h3 align="center">Ojo de Sauron</h3>
+        <div align="center">
+          <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código">
+          </a>
+        </div>
+      </td>
+      
+<td width="25%">
+        <h3 align="center">Quesito</h3>
+     <div align="center">
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código">
+          </a>
+        </div>
+      </td>
 
-<td width="50%">
-<h3 align="center">meet the spy</h3>
-<div align="center">
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
-</a></div></td></tr>
+<td width="25%">
+        <h3 align="center">Meet the Spy</h3>
+        <div align="center">
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código">
+          </a>
+        </div>
+      </td>
 
-<td width="50%">
-<h3 align="center">ramdom where</h3>
-<div align="center">
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
-</a></div></td></tr>
-</table>
+   <td width="25%">
+        <h3 align="center">Random Where</h3>
+        <div align="center">
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código">
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 
 <!-- videojuegos -->
@@ -151,8 +167,20 @@ Programación Web
 Programación de Escritorio
 </h1>
 
+<table>
+<td width="50%">
+<h3 align="center">coloso de rodas</h3>
+<div align="center">
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
+</a></div></td></tr>
+</table>
 
-  
+<!-- rice -->
+  <h1>
+<p align="center">
+rices 
+</h1>
 
 <!-- WakaTime -->
 <div style="display: inline-block; margin-top: 10px;">
