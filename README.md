@@ -1,15 +1,25 @@
-
-<!-- sobre mi -->
 <div>
-<h1>
-<p align="center">
-acerca de mi
-</h1>
-  
-<p>
-programacione full stack | ciencia de datos | desarrollo de videojuegos | mejorando herramientas y entornos de hacking | solo busco estabilidad y apoyo dentro de una empresa desempeñandome en cualquier area, aprendo y me actualizo 
-continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando mi carrera universitaria (ing en sistemas), copilando desde 2016 en varios entornos , tec en servicios de la nube (azure , aws) , aprendo rapido actualmente trabajo en varios lenguajes de programacion a la vez estudio y mejoro mis capacidades sociales en varios idiomas (eng esp port rus) siempre dispuesto a darlo todo, rapido efectivo y util 
-</p>
+
+<!-- Sobre mí -->
+<section>
+  <h1 align="center">Sobre el desarrollador</h1>
+  <p align="justify">
+    Desde 2012 decidí la dirección que quería darle a mi vida, enfocándome desde niño en el desarrollo de videojuegos. 
+    Sin embargo, al no contar con las herramientas ni las guías necesarias, mi aprendizaje fue un proceso arduo y 
+    desorganizado. Fue en 2014 cuando comencé a explorar diversas herramientas que me permitieron crear mis primeros 
+    proyectos.
+  </p>
+  <p align="justify">
+    Con el tiempo y a través de numerosos errores, fui adquiriendo experiencia y desarrollando mejores hábitos en la 
+    programación, gestión y desarrollo de proyectos. Después de sentirme más preparado y con mayor conocimiento, empecé 
+    a explorar otras áreas de la programación.
+  </p>
+  <p align="justify">
+    En 2023, durante mi etapa técnica, logré destacar entre mis compañeros gracias a mi dedicación. Ahora, estoy listo 
+    para dar el siguiente paso y comenzar mi etapa universitaria.
+  </p>
+</section>
+
 
 <!--estadisticas -->
 <p align="center">
@@ -20,6 +30,9 @@ continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
 </p>
+
+
+}/
 
 <!-- Iconos del perfil -->
 <p>
@@ -38,11 +51,24 @@ continuamente aprendiendo las nuevas areas y tegnologias del mercado, empezando 
 
 <h1>
    <p align="center">
-el futuro de mis proyectos</h1>
+acerca de isometrical</h1>
 <p>
    actualmente con nuestra comunidad de isometrical estamos trabajando en paralelo con ciertos proyectos q esperamos q pronto seaan 
    accesibles para el publico ya q adoramos la calidad y el detalle dentro de cada uno de nuestros juegos asi q esperamos tenerlos lo 
    mas pronto posible y si nos desean apoyar podrian colaborar en nuestro patreon o en nuestro paypal
+
+
+
+
+<!-- si deseas apoyarnoss -->  
+<h1>
+   <p align="center">
+agradecemos tu apoyo</h1>
+<p>
+
+
+
+
   
 <!-- badges proyectos -->
 </p>
