@@ -124,6 +124,19 @@ agradecemos tu apoyo</h1>
 <img src="https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donate">
 </a></p>
 
+
+<!-- badges proyectos -->
+
+
+<h1>
+   <p align="center">
+donde puedes encontrar nuestro trabajo en isometrical</h1>
+<p>
+
+
+
+
+
 <!-- mis proyectos -->
 
 <h1>
@@ -252,3 +265,7 @@ Programación de Escritorio
 rices 
 </h1>
 
+<h1>
+<p align="center">
+nuestros bots en discord
+</h1>
