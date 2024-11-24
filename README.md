@@ -80,12 +80,8 @@
   <a href="https://medium.com/@miguelacaceresrios" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Profile-green?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile">
   </a>
-  <a href="https://miguelacaceresrios.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-Profile-pink?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Profile">
-  </a>
-  <a href="https://gamejolt.com/@miguelangelcaceresrios" target="_blank">
-    <img src="https://img.shields.io/badge/GameJolt-Profile-blue?style=for-the-badge&logo=gamejolt&logoColor=white" alt="GameJolt Profile">
-  </a>
+
+
   <a href="https://replit.com/@miguel-angel501" target="_blank">
     <img src="https://img.shields.io/badge/Replit-Profile-blue?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Profile">
   </a>
@@ -131,9 +127,13 @@ agradecemos tu apoyo</h1>
    <p align="center">
 donde puedes encontrar nuestro trabajo en isometrical</h1>
 <p>
+  <a href="https://gamejolt.com/@miguelangelcaceresrios" target="_blank">
+    <img src="https://img.shields.io/badge/GameJolt-Profile-blue?style=for-the-badge&logo=gamejolt&logoColor=white" alt="GameJolt Profile">
+  </a>
 
-
-
+  <a href="https://miguelacaceresrios.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-Profile-pink?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Profile">
+  </a>
 
 
 <!-- mis proyectos -->
@@ -265,6 +265,18 @@ Programación de Escritorio
 </a></div></td></tr>
 </table>
 
+
+
+
+
+
+
+<section>
+  <h1 align="center">unete a nuestros cursos</h1>
+  <p align="justify">
+  
+  </p>
+
 <!-- rice -->
   <h1>
 <p align="center">
@@ -274,4 +286,19 @@ rices
 <h1>
 <p align="center">
 nuestros bots en discord
+
+
+
+<section>
+  <h1 align="center">nuestros foros y comentarios</h1>
+  <p align="justify">
+  
+  </p>
+
+
+
+
+
+
+  
 </h1>
