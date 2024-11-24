@@ -1,5 +1,4 @@
 <div>
-
 <!-- Sobre mí -->
 <section>
   <h1 align="center">Sobre el desarrollador</h1>
