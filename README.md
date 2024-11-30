@@ -1,56 +1,68 @@
 <div>
+  
 <!-- Sobre mí -->
-<section>
-  <h1 align="center">Sobre el desarrollador</h1>
-  <p align="justify">
+<section> <h1 align="center">Sobre el desarrollador</h1>
+  
+<p align="justify">
     Desde 2012 decidí la dirección que quería darle a mi vida, enfocándome desde niño en el desarrollo de videojuegos. 
     Sin embargo, al no contar con las herramientas ni las guías necesarias, mi aprendizaje fue un proceso arduo y 
     desorganizado. Fue en 2014 cuando comencé a explorar diversas herramientas que me permitieron crear mis primeros 
     proyectos.
-  </p>
-  <p align="justify">
-    Con el tiempo y a través de numerosos errores, fui adquiriendo experiencia y desarrollando mejores hábitos en la 
-    programación, gestión y desarrollo de proyectos. Después de sentirme más preparado y con mayor conocimiento, empecé 
-    a explorar otras áreas de la programación.
-  </p>
-  <p align="justify">
-    En 2023, durante mi etapa técnica, logré destacar entre mis compañeros gracias a mi dedicación. Ahora, estoy listo 
-    para dar el siguiente paso y comenzar mi etapa universitaria.
-  </p>
-</section>
-<br></br>
-
-<!--estadisticas -->
-<p align="center">
-<a href="https://github.com/miguelacaceresrios">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
-</a>
-<a href="https://github.com/miguelacaceresrios">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</a>
 </p>
 
-<br></br>
+<a href="https://github.com/miguelacaceresrios"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/> </a>  
+
+<p align="justify">
+    Con el tiempo y a través de numerosos errores, fui adquiriendo experiencia y desarrollando mejores hábitos en la 
+    programación, gestión y desarrollo de proyectos. Después de sentirme más preparado y con mayor conocimiento, empecé 
+    a explorar otras áreas de la programación.
+</p>
+
+<a href="https://github.com/miguelacaceresrios"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/> </a> 
+
+<p align="justify">
+    En 2023, durante mi etapa técnica, logré destacar entre mis compañeros gracias a mi dedicación. Ahora, estoy listo 
+    para dar el siguiente paso y comenzar mi etapa universitaria.
+</p>
+
+
+<br></br> </section>
+
+
+
+
+
 
 <!-- preparacion academica -->
-<section>
-  <h1 align="center">estudios</h1>
-  <p align="justify">
+<section> <h1 align="center">estudios</h1>
+<p align="justify">
     Desde 2012 decidí la dirección que quería darle a mi vida, enfocándome desde niño en el desarrollo de videojuegos. 
     Sin embargo, al no contar con las herramientas ni las guías necesarias, mi aprendizaje fue un proceso arduo y 
     desorganizado. Fue en 2014 cuando comencé a explorar diversas herramientas que me permitieron crear mis primeros 
     proyectos.
-  </p>
-  <p align="justify">
+</p>
+  
+<p align="justify">
     Con el tiempo y a través de numerosos errores, fui adquiriendo experiencia y desarrollando mejores hábitos en la 
     programación, gestión y desarrollo de proyectos. Después de sentirme más preparado y con mayor conocimiento, empecé 
     a explorar otras áreas de la programación.
-  </p>
-  <p align="justify">
+</p>
+
+<p align="justify">
     En 2023, durante mi etapa técnica, logré destacar entre mis compañeros gracias a mi dedicación. Ahora, estoy listo 
     para dar el siguiente paso y comenzar mi etapa universitaria.
-  </p>
-</section>
+</p>
+
+<br></br> </section> 
+
+
+<!-- Exp laboral -->
+
+<h1> <p align="center"> exp laboral <p>
+
+
+
+
 
 
 
@@ -88,7 +100,23 @@
 </p>
 
 
-<!-- info relacion proyectos -->
+<h1>
+   <p align="center">
+logros academicos
+<p>
+
+
+
+<h1>
+   <p align="center">
+logros profesionales
+<p>
+
+
+<h1>
+   <p align="center">
+mi ruta a futuro
+<p>
 
 <h1>
    <p align="center">
