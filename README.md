@@ -69,9 +69,26 @@
 
 <!-- logros profesionales -->  
 <section> <h1 align="center">logros profesionales</h1>
+
+desarrollo de aplicacion de una empresa grande en el departamento de arauca
+
+
+desarrollo de aplicaciones a pedido para estudiantes 
+
+
+certificaciones en :
+
+
+
   
 <!-- logros academicos -->  
 <section> <h1 align="center">logros academicos</h1>
+
+certificado aprobado de etapa lect siendo un aprendiz destacado
+
+certificacion de ingles nivel
+
+
 
 <!-- el futuro de mi carreara -->  
 <section> <h1 align="center">futuro de mi carrera </h1>
