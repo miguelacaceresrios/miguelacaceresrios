@@ -1,6 +1,6 @@
 
 <!-- Sobre mí -->
-<section> <h1 align="center">Sobre el desarrollador</h1>
+<section> <h1 align="center"> Sobre el desarrollador</h1>
   
 <p align="justify">
     Desde 2012 decidí la dirección que quería darle a mi vida, enfocándome desde niño en el desarrollo de videojuegos. 
@@ -41,8 +41,7 @@
 
 
 <!-- preparacion academica -->
-<section>
-  <h1 align="center">estudios</h1>
+<section><h1 align="center">estudios</h1>
   
   <p align="justify">
     Desde 2012 decidí la dirección que quería darle a mi vida, enfocándome desde niño en el desarrollo de videojuegos. 
@@ -67,6 +66,7 @@
 
 
 
+
 <!-- logros profesionales -->  
 <section> <h1 align="center">logros profesionales</h1>
 
@@ -80,18 +80,25 @@ certificaciones en :
 
 
 
+
   
 <!-- logros academicos -->  
 <section> <h1 align="center">logros academicos</h1>
 
 certificado aprobado de etapa lect siendo un aprendiz destacado
 
-certificacion de ingles nivel
+certificacion de ingles nivel 6 
+
+
 
 
 
 <!-- el futuro de mi carreara -->  
 <section> <h1 align="center">futuro de mi carrera </h1>
+
+actuamente busco poder ingresar a la univers
+
+
 
 
 
@@ -99,7 +106,7 @@ certificacion de ingles nivel
 
 <h1>
    <p align="center">
-acerca de isometrical</h1>
+     isometrical game company</h1>
 <p>
    actualmente con nuestra comunidad de isometrical estamos trabajando en paralelo con ciertos proyectos q esperamos q pronto seaan 
    accesibles para el publico ya q adoramos la calidad y el detalle dentro de cada uno de nuestros juegos asi q esperamos tenerlos lo 
@@ -108,11 +115,15 @@ acerca de isometrical</h1>
 
 
 
+
+
 <!-- si deseas apoyarnoss -->  
 <h1>
    <p align="center">
 agradecemos tu apoyo</h1>
 <p>
+
+
 
 
 
@@ -127,12 +138,20 @@ agradecemos tu apoyo</h1>
 </a></p>
 
 
+
+
+
 <!-- badges proyectos -->
 
 
 <h1>
    <p align="center">
 donde puedes encontrar nuestro trabajo en isometrical</h1>
+
+puedes encontrar nuestros proyectos en diferentes plataformas ya que tnemos contenido de paga con el q intentamos financiar futuros proyectos como otros q son para q cualquiera de nuestra comunidad pueda disfrutarlos
+
+
+
 <p>
   <a href="https://gamejolt.com/@miguelangelcaceresrios" target="_blank">
     <img src="https://img.shields.io/badge/GameJolt-Profile-blue?style=for-the-badge&logo=gamejolt&logoColor=white" alt="GameJolt Profile">
@@ -141,6 +160,9 @@ donde puedes encontrar nuestro trabajo en isometrical</h1>
   <a href="https://miguelacaceresrios.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-Profile-pink?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Profile">
   </a>
+
+
+
 
 
 <!-- mis proyectos -->
@@ -191,6 +213,8 @@ Ciberseguridad
     </tr>
   </table>
 </p>
+
+
 
 
 
