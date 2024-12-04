@@ -100,8 +100,6 @@ actuamente busco poder ingresar a la univers
 
 
 
-
-
 <!-- info relacion proyectos -->
 
 <h1>
@@ -203,15 +201,15 @@ Ciberseguridad
       </td>
 
    <td width="25%">
-        <h3 align="center">Random Where</h3>
-        <div align="center">
-          <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código">
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+<h3 align="center">Random Where</h3>
+<div align="center">
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código">
+</a>
+</div>
+</td>
+</tr>
+</table>
 </p>
 
 
