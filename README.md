@@ -22,10 +22,6 @@
 
 <br></br></section>
 
-
-
-
-
 <!--estadisticas -->
 <p align="center">
 <a href="https://github.com/miguelacaceresrios">
@@ -41,62 +37,27 @@
 
 
 <!-- preparacion academica -->
-<section><h1 align="center">estudios</h1>
+<section><h1 align="center">enfoque de mis estudios</h1>
   
-  <p align="justify">
+<p align="justify">
     Desde 2012 decidí la dirección que quería darle a mi vida, enfocándome desde niño en el desarrollo de videojuegos. 
     Sin embargo, al no contar con las herramientas ni las guías necesarias, mi aprendizaje fue un proceso arduo y 
     desorganizado. Fue en 2014 cuando comencé a explorar diversas herramientas que me permitieron crear mis primeros 
     proyectos.
-  </p>
+</p>
   
-  <p align="justify">
+<p align="justify">
     Con el tiempo y a través de numerosos errores, fui adquiriendo experiencia y desarrollando mejores hábitos en la 
     programación, gestión y desarrollo de proyectos. Después de sentirme más preparado y con mayor conocimiento, empecé 
     a explorar otras áreas de la programación.
-  </p>
+</p>
   
-  <p align="justify">
+<p align="justify">
     En 2023, durante mi etapa técnica, logré destacar entre mis compañeros gracias a mi dedicación. Ahora, estoy listo 
     para dar el siguiente paso y comenzar mi etapa universitaria.
-  </p>
+</p>
   
 </section>
-
-
-
-
-
-<!-- logros profesionales -->  
-<section> <h1 align="center">logros profesionales</h1>
-
-desarrollo de aplicacion de una empresa grande en el departamento de arauca
-
-
-desarrollo de aplicaciones a pedido para estudiantes 
-
-
-certificaciones en :
-
-
-
-
-  
-<!-- logros academicos -->  
-<section> <h1 align="center">logros academicos</h1>
-
-certificado aprobado de etapa lect siendo un aprendiz destacado
-
-certificacion de ingles nivel 6 
-
-
-
-
-
-<!-- el futuro de mi carreara -->  
-<section> <h1 align="center">futuro de mi carrera </h1>
-
-actuamente busco poder ingresar a la univers
 
 
 
@@ -115,26 +76,6 @@ actuamente busco poder ingresar a la univers
 
 
 
-<!-- si deseas apoyarnoss -->  
-<h1>
-   <p align="center">
-agradecemos tu apoyo</h1>
-<p>
-
-
-
-
-
-<!-- badges proyectos -->
-
-<p align="center">
-<a href="https://www.patreon.com/c/user?u=104187367" target="_blank">
-<img src="https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon Support">
-</a>
-<a href="https://www.paypal.me/YOUR_PAYPAL_LINK" target="_blank">
-<img src="https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donate">
-</a></p>
-
 
 
 
@@ -142,9 +83,7 @@ agradecemos tu apoyo</h1>
 <!-- badges proyectos -->
 
 
-<h1>
-   <p align="center">
-donde puedes encontrar nuestro trabajo en isometrical</h1>
+<h1><p align="center">proyectos</h1>
 
 puedes encontrar nuestros proyectos en diferentes plataformas ya que tnemos contenido de paga con el q intentamos financiar futuros proyectos como otros q son para q cualquiera de nuestra comunidad pueda disfrutarlos
 
@@ -354,3 +293,26 @@ nuestros bots en discord
   </a>
 
 </h1>
+
+
+
+<!-- si deseas apoyarnoss -->  
+<h1>
+   <p align="center">
+agradecemos tu apoyo</h1>
+<p>
+
+
+
+
+
+<!-- badges proyectos -->
+
+<p align="center">
+<a href="https://www.patreon.com/c/user?u=104187367" target="_blank">
+<img src="https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon Support">
+</a>
+<a href="https://www.paypal.me/YOUR_PAYPAL_LINK" target="_blank">
+<img src="https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donate">
+</a></p>
+
