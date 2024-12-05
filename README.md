@@ -274,7 +274,7 @@ nuestros bots en discord
 <section>
   <h1 align="center">nuestros foros y comentarios</h1>
   <p align="justify">
-  
+  actualmente tenemos foros publicaciones y comentarios en diferentes plataformas en los que abordamos como tema principal la tecnologia 
   </p>
 
 
@@ -297,14 +297,10 @@ nuestros bots en discord
 
 
 <!-- si deseas apoyarnoss -->  
-<h1>
-   <p align="center">
-agradecemos tu apoyo</h1>
-<p>
-
-
-
-
+<section>
+  <h1 align="center">unete a nuestros cursos</h1>
+  <p align="justify">
+  </p>
 
 <!-- badges proyectos -->
 
