@@ -106,19 +106,20 @@ puedes encontrar nuestros proyectos en diferentes plataformas ya que tnemos cont
 <h1>
 <p align="center">
 Ciberseguridad
+</p>
 </h1>
 
 <p align="center">
-  <table>
-    <tr>
-      <td width="25%">
-        <h3 align="center">Ojo de Sauron</h3>
-        <div align="center">
-          <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código">
-          </a>
-        </div>
-      </td>
+<table>
+<tr>
+<td width="25%">
+<h3 align="center">Ojo de Sauron</h3>
+<div align="center">
+<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código">
+</a>
+</div>
+</td>
       
 <td width="25%">
         <h3 align="center">Quesito</h3>
