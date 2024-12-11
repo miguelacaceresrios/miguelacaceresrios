@@ -86,9 +86,7 @@
 
 puedes encontrar nuestros proyectos en diferentes plataformas ya que tnemos contenido de paga con el q intentamos financiar futuros proyectos como otros q son para q cualquiera de nuestra comunidad pueda disfrutarlos
 
-
-
-<p>
+</p>
   <a href="https://gamejolt.com/@miguelangelcaceresrios" target="_blank">
     <img src="https://img.shields.io/badge/GameJolt-Profile-blue?style=for-the-badge&logo=gamejolt&logoColor=white" alt="GameJolt Profile">
   </a>
