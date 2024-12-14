@@ -82,7 +82,7 @@
 
 </section>
 
-<!-- mis proyectos -->
+<!-- software -->
 <section>
   
 <h1><p align="center">Ciberseguridad</p></h1>
@@ -132,7 +132,7 @@
 <!-- videojuegos -->
 <section>
   
-<h1><p align="center">Ciberseguridad</p></h1>
+<h1><p align="center">desarrollo de videojuegos</p></h1>
 
 <p>
   ten en cuenta q mucho de mis proyectos los subo para q muchos entiendan la 
@@ -147,27 +147,27 @@
 <div align="center"> <table>  <tr> 
          
 <td width="25%"> 
-   <h3 align="center">Ojo de Sauron</h3> <div align="center">
+   <h3 align="center">carnival</h3> <div align="center">
       <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
         <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
     
 <td width="25%">
-   <h3 align="center">Quesito</h3>
+   <h3 align="center">gambit overdrive</h3>
       <div align="center">
           <a href="" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
 
 <td width="25%">
-   <h3 align="center">Meet the Spy</h3>
+   <h3 align="center">casino and chill</h3>
       <div align="center">
           <a href="" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
 
 <td width="25%">
-   <h3 align="center">Random Where</h3>
+   <h3 align="center">rythm combat</h3>
       <div align="center">
           <a href="" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
@@ -178,13 +178,11 @@
 
 <section>
   
-<h1><p align="center">Ciberseguridad</p></h1>
+<h1><p align="center">programas de escritorio</p></h1>
 
 <p>
-  ten en cuenta q mucho de mis proyectos los subo para q muchos entiendan la 
-  estructura del codigo y aunque los use no todos los subo completos por q son 
-  herramientas personales mas de una la subire completa y lo dejare claro en su 
-  propio .README
+  aplicacions q uso tanto para trabajo como para uso personal
+  muchas las usan amigos o gente q las descarga
 </p>
 
 
@@ -193,27 +191,27 @@
 <div align="center"> <table>  <tr> 
          
 <td width="25%"> 
-   <h3 align="center">Ojo de Sauron</h3> <div align="center">
+   <h3 align="center">mmeeting jagger</h3> <div align="center">
       <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
         <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
     
 <td width="25%">
-   <h3 align="center">Quesito</h3>
+   <h3 align="center">coloso de rodas</h3>
       <div align="center">
           <a href="" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
 
 <td width="25%">
-   <h3 align="center">Meet the Spy</h3>
+   <h3 align="center">org life</h3>
       <div align="center">
           <a href="" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
 
 <td width="25%">
-   <h3 align="center">Random Where</h3>
+   <h3 align="center">isometrics stats</h3>
       <div align="center">
           <a href="" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
@@ -221,17 +219,16 @@
 </tr></table></p></section>
 
 
-
+<!-- web-->
 
 <section>
   
-<h1><p align="center">Ciberseguridad</p></h1>
+<h1><p align="center">web</p></h1>
 
 <p>
-  ten en cuenta q mucho de mis proyectos los subo para q muchos entiendan la 
-  estructura del codigo y aunque los use no todos los subo completos por q son 
-  herramientas personales mas de una la subire completa y lo dejare claro en su 
-  propio .README
+  estas son algunas de las paginas q me pidieron varios clientes y q al 
+  final solo publico una version vieja de lo q fue la version final entre 
+  estas esta la pagina de isometrial q cuenta con modelos 3d dentro de esta
 </p>
 
 
@@ -240,30 +237,31 @@
 <div align="center"> <table>  <tr> 
          
 <td width="25%"> 
-   <h3 align="center">Ojo de Sauron</h3> <div align="center">
+   <h3 align="center">canine care</h3> <div align="center">
       <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
         <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
     
 <td width="25%">
-   <h3 align="center">Quesito</h3>
+   <h3 align="center">lunaris</h3>
       <div align="center">
           <a href="" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
 
 <td width="25%">
-   <h3 align="center">Meet the Spy</h3>
+   <h3 align="center">champion page</h3>
       <div align="center">
           <a href="" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
 
 <td width="25%">
-   <h3 align="center">Random Where</h3>
+   <h3 align="center">isometrical oficial page</h3>
       <div align="center">
           <a href="" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
+            
 
 </tr></table></p></section>
 
@@ -272,6 +270,12 @@
 
 
 
+<h1><p align="center">ayuda a la comunidad</p></h1>
+
+<p>
+  no necesita introduccion es simplemente una seccion de ayuda general
+  con problemas del comun
+</p>
 
 
 
@@ -289,23 +293,20 @@
 
 
 
-<!-- foros y publicaciones -->
+<!-- articulos -->
 
-  <a href="https://dev.to/miguelacaceresrios" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-Profile-blue?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Profile">
-  </a>
-  <a href="https://www.kaggle.com/miguelangelcacers" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile">
-  </a>
-  <a href="https://medium.com/@miguelacaceresrios" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Profile-green?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile">
-  </a>
+<h1><p align="center">articulos</p></h1>
+
+<p>
+  puedes leer varios de mis articulos relacionados a la programacion y a diferentes temas q me gusta tratar entre otros
+</p>
+
   
   <a href="https://www.linkedin.com/in/miguelacaceresrios/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
 
-</h1>
+
 
 
 
