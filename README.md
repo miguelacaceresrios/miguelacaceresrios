@@ -1,81 +1,61 @@
 
 <!-- Sobre mí -->
-<section> <h1 align="center"> Sobre el desarrollador</h1>
+<section> <h1 align="center"> Sobre el desarrollador </h1>
   
-<p align="justify">
+<p>
     Desde 2012 decidí la dirección que quería darle a mi vida, enfocándome desde niño en el desarrollo de videojuegos. 
     Sin embargo, al no contar con las herramientas ni las guías necesarias, mi aprendizaje fue un proceso arduo y 
     desorganizado. Fue en 2014 cuando comencé a explorar diversas herramientas que me permitieron crear mis primeros 
     proyectos.
 </p>
   
-<p align="justify">
+<p>
     Con el tiempo y a través de numerosos errores, fui adquiriendo experiencia y desarrollando mejores hábitos en la 
     programación, gestión y desarrollo de proyectos. Después de sentirme más preparado y con mayor conocimiento, empecé 
     a explorar otras áreas de la programación.
 </p>
 
-<p align="justify">
+<p>
     En 2023, durante mi etapa técnica, logré destacar entre mis compañeros gracias a mi dedicación. Ahora, estoy listo 
     para dar el siguiente paso y comenzar mi etapa universitaria.
 </p>
 
-<br></br></section>
+</section>
 
-
-<!--estadisticas -->
+<!--estadisticas github -->
 <p align="center">
+  
 <a href="https://github.com/miguelacaceresrios">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/> </a>
+  
 <a href="https://github.com/miguelacaceresrios">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</a>
-</p> <br></br>
-
-
-
-
-
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/> </a></p> 
+ 
+        
 <!-- preparacion academica -->
 <section><h1 align="center">enfoque de mis estudios</h1>
   
-<p align="justify">
+<p>
     Desde 2012 decidí la dirección que quería darle a mi vida, enfocándome desde niño en el desarrollo de videojuegos. 
     Sin embargo, al no contar con las herramientas ni las guías necesarias, mi aprendizaje fue un proceso arduo y 
     desorganizado. Fue en 2014 cuando comencé a explorar diversas herramientas que me permitieron crear mis primeros 
     proyectos.
-</p>
-  
-<p align="justify">
-    Con el tiempo y a través de numerosos errores, fui adquiriendo experiencia y desarrollando mejores hábitos en la 
-    programación, gestión y desarrollo de proyectos. Después de sentirme más preparado y con mayor conocimiento, empecé 
-    a explorar otras áreas de la programación.
-</p>
-  
-<p align="justify">
-    En 2023, durante mi etapa técnica, logré destacar entre mis compañeros gracias a mi dedicación. Ahora, estoy listo 
-    para dar el siguiente paso y comenzar mi etapa universitaria.
 </p>
   
 </section>
 
-
 <!-- info relacion proyectos -->
-
-<h1>
-   <p align="center">
-     isometrical game company</h1>
+<section>
+  
+<h1 align="center"> isometrical game company </h1>
+  
 <p>
    actualmente con nuestra comunidad de isometrical estamos trabajando en paralelo con ciertos proyectos q esperamos q pronto seaan 
    accesibles para el publico ya q adoramos la calidad y el detalle dentro de cada uno de nuestros juegos asi q esperamos tenerlos lo 
    mas pronto posible y si nos desean apoyar podrian colaborar en nuestro patreon o en nuestro paypal
 </p>
 
-
-
-
-
+</section> 
 
 
 
@@ -83,163 +63,218 @@
 <!-- badges proyectos -->
 
 
-<h1><p align="center">proyectos</h1>
-
-puedes encontrar nuestros proyectos en diferentes plataformas ya que tnemos contenido de paga con el q intentamos financiar futuros proyectos como otros q son para q cualquiera de nuestra comunidad pueda disfrutarlos
-
+<section>
+  
+<h1 align="center"> prueba nuestros juegos </h1>
+  
+<p>
+  adoro desarrollar juegos y puedes encontrar mis proyectos en multiples plataformas 
+  te recomiendo pasarte y probarlos ya q corren en pc's de gamma baja y siempre intento }
+  q conserven su calidad sin perder su valor 
 </p>
+
+<p align=center>
   <a href="https://gamejolt.com/@miguelangelcaceresrios" target="_blank">
-    <img src="https://img.shields.io/badge/GameJolt-Profile-blue?style=for-the-badge&logo=gamejolt&logoColor=white" alt="GameJolt Profile">
-  </a>
+    <img src="https://img.shields.io/badge/GameJolt-Profile-blue?style=for-the-badge&logo=gamejolt&logoColor=white" alt="GameJolt Profile"></a>
 
-  <a href="https://miguelacaceresrios.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-Profile-pink?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Profile">
-  </a>
+<a href="https://miguelacaceresrios.itch.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Itch.io-Profile-pink?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Profile"></a> </p>
 
-
-
-
+</section>
 
 <!-- mis proyectos -->
+<section>
+  
+<h1><p align="center">Ciberseguridad</p></h1>
 
-<h1>
-<p align="center">
-Ciberseguridad
+<p>
+  ten en cuenta q mucho de mis proyectos los subo para q muchos entiendan la 
+  estructura del codigo y aunque los use no todos los subo completos por q son 
+  herramientas personales mas de una la subire completa y lo dejare claro en su 
+  propio .README
 </p>
-</h1>
 
-<p align="center">
-<table>
-<tr>
-<td width="25%">
-<h3 align="center">Ojo de Sauron</h3>
-<div align="center">
-<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código">
-</a>
-</div>
-</td>
+
+
       
+<div align="center"> <table>  <tr> 
+         
+<td width="25%"> 
+   <h3 align="center">Ojo de Sauron</h3> <div align="center">
+      <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
+
+    
 <td width="25%">
-        <h3 align="center">Quesito</h3>
-     <div align="center">
+   <h3 align="center">Quesito</h3>
+      <div align="center">
           <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código">
-          </a>
-        </div>
-      </td>
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
+
 
 <td width="25%">
-        <h3 align="center">Meet the Spy</h3>
-        <div align="center">
+   <h3 align="center">Meet the Spy</h3>
+      <div align="center">
           <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código">
-          </a>
-        </div>
-      </td>
-
-   <td width="25%">
-<h3 align="center">Random Where</h3>
-<div align="center">
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código">
-</a>
-</div>
-</td>
-</tr>
-</table>
-</p>
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
 
+<td width="25%">
+   <h3 align="center">Random Where</h3>
+      <div align="center">
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
+
+</tr></table></p></section>
 
 
 
 <!-- videojuegos -->
-<h1>
-<p align="center">
-Programación de Videojuegos
-</h1>
+<section>
+  
+<h1><p align="center">Ciberseguridad</p></h1>
+
+<p>
+  ten en cuenta q mucho de mis proyectos los subo para q muchos entiendan la 
+  estructura del codigo y aunque los use no todos los subo completos por q son 
+  herramientas personales mas de una la subire completa y lo dejare claro en su 
+  propio .README
+</p>
 
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">metrop</h3>
-<div align="center">
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
-</a></div></td>
 
-<td width="50%">
-<h3 align="center">gambit overdrive</h3>
-<div align="center">
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
-</a></div></td></tr>
+      
+<div align="center"> <table>  <tr> 
+         
+<td width="25%"> 
+   <h3 align="center">Ojo de Sauron</h3> <div align="center">
+      <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
+
     
-<td width="50%">
-<h3 align="center">pkmn memories </h3>
-<div align="center">
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
-</a></div></td></tr>
-</table>
+<td width="25%">
+   <h3 align="center">Quesito</h3>
+      <div align="center">
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
 
-<!-- web -->
-<h1>
-<p align="center">
-Programación Web
-</h1>
+<td width="25%">
+   <h3 align="center">Meet the Spy</h3>
+      <div align="center">
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">caninecare</h3>
-<div align="center">
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
-</a></div></td>
-    
-<td width="50%">
-<h3 align="center">lunaris</h3>
-<div align="center">
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
-</a></div></td></tr>
 
-<td width="50%">
-<h3 align="center">champion fitness</h3>
-<div align="center">
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
-</a></div></td></tr>
-</table>
+<td width="25%">
+   <h3 align="center">Random Where</h3>
+      <div align="center">
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
+</tr></table></p></section>
 
 <!-- escritorio -->
-<h1>
-<p align="center">
-Programación de Escritorio
-</h1>
 
-<table>
-<td width="50%">
-<h3 align="center">coloso de rodas</h3>
-<div align="center">
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
-</a></div></td></tr>
-</table>
-
-
-
-
-<!-- discusiones y ayuda -->
 <section>
-  <h1 align="center">discusiones y ayuda</h1>
-  <p align="justify">
-  </p>
+  
+<h1><p align="center">Ciberseguridad</p></h1>
+
+<p>
+  ten en cuenta q mucho de mis proyectos los subo para q muchos entiendan la 
+  estructura del codigo y aunque los use no todos los subo completos por q son 
+  herramientas personales mas de una la subire completa y lo dejare claro en su 
+  propio .README
+</p>
+
+
+
+      
+<div align="center"> <table>  <tr> 
+         
+<td width="25%"> 
+   <h3 align="center">Ojo de Sauron</h3> <div align="center">
+      <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
+
+    
+<td width="25%">
+   <h3 align="center">Quesito</h3>
+      <div align="center">
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
+
+
+<td width="25%">
+   <h3 align="center">Meet the Spy</h3>
+      <div align="center">
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
+
+
+<td width="25%">
+   <h3 align="center">Random Where</h3>
+      <div align="center">
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
+
+</tr></table></p></section>
+
+
+
+
+<section>
+  
+<h1><p align="center">Ciberseguridad</p></h1>
+
+<p>
+  ten en cuenta q mucho de mis proyectos los subo para q muchos entiendan la 
+  estructura del codigo y aunque los use no todos los subo completos por q son 
+  herramientas personales mas de una la subire completa y lo dejare claro en su 
+  propio .README
+</p>
+
+
+
+      
+<div align="center"> <table>  <tr> 
+         
+<td width="25%"> 
+   <h3 align="center">Ojo de Sauron</h3> <div align="center">
+      <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
+
+    
+<td width="25%">
+   <h3 align="center">Quesito</h3>
+      <div align="center">
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
+
+
+<td width="25%">
+   <h3 align="center">Meet the Spy</h3>
+      <div align="center">
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
+
+
+<td width="25%">
+   <h3 align="center">Random Where</h3>
+      <div align="center">
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
+
+</tr></table></p></section>
+
+
+
+
+
+
+
+
+
 
 
   <a href="https://stackoverflow.com/users/23922871" target="_blank">
@@ -251,31 +286,10 @@ Programación de Escritorio
 
 
 
-<!-- cursos -->
-<section>
-  <h1 align="center">unete a nuestros cursos</h1>
-  <p align="justify">
-  </p>
 
-<!-- bots de discord -->
-
-<h1>
-<p align="center">
-nuestros bots en discord
-
-  <a href="https://replit.com/@miguel-angel501" target="_blank">
-    <img src="https://img.shields.io/badge/Replit-Profile-blue?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Profile">
-  </a>
-</p>
 
 
 <!-- foros y publicaciones -->
-<section>
-  <h1 align="center">nuestros foros y comentarios</h1>
-  <p align="justify">
-  actualmente tenemos foros publicaciones y comentarios en diferentes plataformas en los que abordamos como tema principal la tecnologia 
-  </p>
-
 
   <a href="https://dev.to/miguelacaceresrios" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-Profile-blue?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Profile">
@@ -294,20 +308,4 @@ nuestros bots en discord
 </h1>
 
 
-
-<!-- si deseas apoyarnoss -->  
-<section>
-  <h1 align="center">unete a nuestros cursos</h1>
-  <p align="justify">
-  </p>
-
-<!-- badges proyectos -->
-
-<p align="center">
-<a href="https://www.patreon.com/c/user?u=104187367" target="_blank">
-<img src="https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon Support">
-</a>
-<a href="https://www.paypal.me/YOUR_PAYPAL_LINK" target="_blank">
-<img src="https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donate">
-</a></p>
 
