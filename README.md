@@ -268,9 +268,9 @@
 
 
 
+<section align= "center">
 
-
-<h1><p align="center">ayuda a la comunidad</p></h1>
+<h1><p>ayuda a la comunidad</p></h1>
 
 <p>
   no necesita introduccion es simplemente una seccion de ayuda general
@@ -301,12 +301,11 @@
   puedes leer varios de mis articulos relacionados a la programacion y a diferentes temas q me gusta tratar entre otros
 </p>
 
-  
+
   <a href="https://www.linkedin.com/in/miguelacaceresrios/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
 
 
 
-
+</section>
 
