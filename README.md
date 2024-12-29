@@ -2,11 +2,12 @@
 estoy cansado de eso solo voy a tener cosas funcionales si quieres ver codigo mas limpio revisa mis 
 otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o red social-->
 
-
+       
+              
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Sobre mi   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <section align="center"> 
 
-<h1> About me </h1>
+<h1> ✦ About me ✦ </h1>
 
 
 Since 2012, I have been dedicated to shaping my life around video game development, a passion I’ve had since childhood. Without the necessary tools or guidance, my early learning process was challenging and unstructured, but in 2014, I began experimenting with various tools that enabled me to create my first projects. Over time, through trial and error, I developed better programming habits, gained valuable experience in project management, and started exploring other areas of programming. In 2023, during my technical studies, my dedication helped me stand out among my peers, and now I am ready to take the next step in my journey by pursuing a university degree.
@@ -14,12 +15,17 @@ Since 2012, I have been dedicated to shaping my life around video game developme
 
 </section>
 
-
+![Mi Banner](https://postimg.cc/pmrfF9Gz)
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx certificados xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <section align="center"> 
 
 <h1> certificates </h1>
+
+  <p>
+    estos son algunos de mis certificados actualmente no tengo demasiado orden pero cuento con muchos mas resultado de estudio en diferentes areas 
+    pronto estare pagando por certificados de mayor valor en campos deservios de la nube y ciberseguridad
+  </p>
 
 <p>
 GOOGLE CERTIFICATIONS 
@@ -44,27 +50,10 @@ GOOGLE CERTIFICATIONS
 
 
 
-  <p>
-    estos son algunos de mis certificados actualmente no tengo demasiado orden pero cuento con muchos mas resultado de estudio en diferentes areas 
-    pronto estare pagando por certificados de mayor valor en campos deservios de la nube y ciberseguridad
-  </p>
+
   
 </section>
 
-
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx estadisticas github xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-<p align="center">
-  
-  <!-- Top Languages -->
-  <a href="https://github.com/miguelacaceresrios">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
-  </a>
-  
-  <!-- GitHub Stats -->
-  <a href="https://github.com/miguelacaceresrios">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
 
 
 
@@ -383,4 +372,20 @@ GOOGLE CERTIFICATIONS
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelacaceresrios&theme=github-dark" alt="Activity Graph" />
   </a>
+
+
+
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx estadisticas github xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+<p align="center">
+  
+  <!-- Top Languages -->
+  <a href="https://github.com/miguelacaceresrios">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+  </a>
+  
+  <!-- GitHub Stats -->
+  <a href="https://github.com/miguelacaceresrios">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
 
