@@ -3,7 +3,7 @@ estoy cansado de eso solo voy a tener cosas funcionales si quieres ver codigo ma
 otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o red social-->
 
 
-<!-- Sobre mi -->
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Sobre mi   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <section align="center"> 
 
 <h1> About me </h1>
@@ -16,43 +16,43 @@ Since 2012, I have been dedicated to shaping my life around video game developme
 
 
 
-<!--certificados -->
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx certificados xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <section align="center"> 
 
 <h1> certificates </h1>
 
 <p>
-certificaciones de google  
+GOOGLE CERTIFICATIONS 
 </p>
 
-<p align="center">
+
+  <!-- ds -->
   <a href="https://coursera.org/share/dbd6d9271c48fc26bc851940be5965ec">
-    <img src="https://via.placeholder.com/150x50.png?text=Certificado+1" alt="Certificado Coursera 1" style="margin-right: 10px;"/>
-  </a>
+    <img src="https://via.placeholder.com/150x50.png?text=Certificado+1" alt="Certificado Coursera 1" style="margin-right: 10px;"/>  </a>
+  
+  <!-- ds -->
   <a href="https://coursera.org/share/6acbb01c0ffaf7cb44d1614ca8931d36">
-    <img src="https://via.placeholder.com/150x50.png?text=Certificado+2" alt="Certificado Coursera 2" style="margin-right: 10px;"/>
-  </a>
+    <img src="https://via.placeholder.com/150x50.png?text=Certificado+2" alt="Certificado Coursera 2" style="margin-right: 10px;"/> </a>
+  
+  <!-- ds -->
   <a href="https://coursera.org/share/8d12195c5dbbfe438d6200a9122a3776">
-    <img src="https://via.placeholder.com/150x50.png?text=Certificado+3" alt="Certificado Coursera 3" style="margin-right: 10px;"/>
-  </a>
+    <img src="https://via.placeholder.com/150x50.png?text=Certificado+3" alt="Certificado Coursera 3" style="margin-right: 10px;"/>  </a>
+
+  <!-- ds -->
   <a href="https://coursera.org/share/cb7c449dffacb435d2cad0bb84d92f63">
-    <img src="https://via.placeholder.com/150x50.png?text=Certificado+4" alt="Certificado Coursera 4"/>
-  </a>
-</p>
-
-
-<p>
-certificaciones de IBM  
-</p>
+    <img src="https://via.placeholder.com/150x50.png?text=Certificado+4" alt="Certificado Coursera 4"/> </a> 
 
 
 
-
-
+  <p>
+    estos son algunos de mis certificados actualmente no tengo demasiado orden pero cuento con muchos mas resultado de estudio en diferentes areas 
+    pronto estare pagando por certificados de mayor valor en campos deservios de la nube y ciberseguridad
+  </p>
+  
 </section>
 
 
-<!--estadisticas github -->
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx estadisticas github xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <p align="center">
   
   <!-- Top Languages -->
@@ -64,7 +64,7 @@ certificaciones de IBM
   <a href="https://github.com/miguelacaceresrios">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
-
+</p>
 
 
 
@@ -96,7 +96,7 @@ certificaciones de IBM
  
         
 <!-- preparacion academica -->
-<section><h1 align="center">enfoque de mis estudios</h1>
+<section><h1 align="center">experiencia laboral</h1>
   
 <p>
     Desde 2012 decidí la dirección que quería darle a mi vida, enfocándome desde niño en el desarrollo de videojuegos. 
