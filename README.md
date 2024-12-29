@@ -2,8 +2,11 @@
 estoy cansado de eso solo voy a tener cosas funcionales si quieres ver codigo mas limpio revisa mis 
 otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o red social-->
 
-       
-              
+### Network Graph
+![Network Graph](https://via.placeholder.com/400x400.png?text=Gráfico+de+Red)
+
+
+
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Sobre mi   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <section align="center"> 
 
@@ -32,7 +35,7 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
   </p>
 
 <p>
-GOOGLE CERTIFICATIONS 
+       GOOGLE CERTIFICATIONS 
 </p>
 
 
@@ -57,7 +60,7 @@ GOOGLE CERTIFICATIONS
 <br></br>
 
 <p>
-IBM CERTIFICATIONS 
+       IBM CERTIFICATIONS 
 </p>
 
   <!-- ds -->
@@ -91,16 +94,20 @@ IBM CERTIFICATIONS
 **desarrollador de software** | *2018 - actualidad*  
 Ubicación: *Colombia-Saravena-Arauca*  
 
-**Descripción breve del puesto**: 
+**♠️Descripción breve del puesto♠️**: 
+
 -desarrollo de sistema de registro de usuarios con consultas de mensualidad, diseño y seguridad de las paginas de la empresa tanto personales como para eventos.
 
-**Logro 1**: 
+**♣️Logro 1♣️**: 
+
 -desarollo de la pagina web para cobro en los eventos anuales reduciendo comisiones en paginas externas dando una ganancia total.
 
-**Logro 2**: 
+**♣️Logro 2♣️**: 
+
 -actualizacion de un sistema antigua de registro de usuarios tomando programas mas dinamicos, seguros, modernos y atractivos visualmente.
 
-**Herramientas y tecnologías utilizadas**: 
+**♦️Herramientas y tecnologías utilizadas♦️**: 
+
 -sql con arquitectura de mvc en vs2022 ademas de uso de arduinos para la automaticacion de la entrada de usuarios.
 
 
@@ -150,24 +157,20 @@ Ubicación: *Colombia-Saravena-Arauca*
 <h1> 🔒 cybersecurity 🔓 </h1>
 
 <p>
-  ten en cuenta q mucho de mis proyectos los subo para q muchos entiendan la 
-  estructura del codigo y aunque los use no todos los subo completos por q son 
-  herramientas personales mas de una la subire completa y lo dejare claro en su 
-  propio .README
+  proyectos 
 </p>
 
-
-
       
- <table>  <tr> 
+<table>  
          
 <td width="25%"> 
-   <h3 align="center">Ojo de Sauron</h3> <div align="center">
-      <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
+<h3> Ojo de Sauron </h3> 
+<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"> </td>
 
 
-</tr></table></p></section>
+</table>
+</section>
 
 
 
@@ -175,32 +178,28 @@ Ubicación: *Colombia-Saravena-Arauca*
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx web xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 
-<section>
+<section align="center">
   
-<h1><p align="center">web</p></h1>
+<h1> web </h1>
 
 <p>
-  estas son algunas de las paginas q me pidieron varios clientes y q al 
-  final solo publico una version vieja de lo q fue la version final entre 
-  estas esta la pagina de isometrial q cuenta con modelos 3d dentro de esta
+       aqui subire alguno de los proyectos q me compraron hace un tiempo y estan fuera de uso
 </p>
 
-
-
       
-<div align="center"> <table>  <tr> 
+ <table> 
 
     
 <td width="25%">
-   <h3 align="center">lunaris</h3>
-      <div align="center">
-          <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
+<h3> lunaris </h3>
+
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
 
 
 
-</tr></table></p></section>
+</table> </section>
 
 
 
@@ -209,19 +208,10 @@ Ubicación: *Colombia-Saravena-Arauca*
 ### 📄 Artículos en LinkedIn
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguelacaceresrios/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&lines=Título+del+Artículo+1;Tema+clave+del+Artículo+2;Explora+mis+análisis+en+Artículo+3" alt="LinkedIn Articles"/>
-  </a>
+<a href="https://www.linkedin.com/in/miguelacaceresrios/">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&lines=Título+del+Artículo+1;Tema+clave+del+Artículo+2;Explora+mis+análisis+en+Artículo+3" alt="LinkedIn Articles"/>
+</a>
 </p>
-
-<h1><p align="center">articulos</p></h1>
-
-<p>
-  puedes leer varios de mis articulos relacionados a la programacion y a diferentes temas q me gusta tratar entre otros
-</p>
-
-
-
 
 </section>
   <!-- Activity Graph -->
