@@ -15,6 +15,8 @@ Since 2012, I have been dedicated to shaping my life around video game developme
 
 </section>
 
+<!-- banner --> 
+
 [![a.webp](https://i.postimg.cc/7ZMmj0Ss/a.webp)](https://postimg.cc/pmrfF9Gz)
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx certificados xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
@@ -50,61 +52,73 @@ GOOGLE CERTIFICATIONS
 
 
 
+<br></br>
 
-  
-</section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-        
-<!-- preparacion academica -->
-<section><h1 align="center">experiencia laboral</h1>
-  
 <p>
-    Desde 2012 decidí la dirección que quería darle a mi vida, enfocándome desde niño en el desarrollo de videojuegos. 
-    Sin embargo, al no contar con las herramientas ni las guías necesarias, mi aprendizaje fue un proceso arduo y 
-    desorganizado. Fue en 2014 cuando comencé a explorar diversas herramientas que me permitieron crear mis primeros 
-    proyectos.
+iBM CERTIFICATIONS 
 </p>
+
+  <!-- ds -->
+  <a href="https://coursera.org/share/dbd6d9271c48fc26bc851940be5965ec">
+    <img src="https://via.placeholder.com/150x50.png?text=Certificado+1" alt="Certificado Coursera 1" style="margin-right: 10px;"/>  </a>
+  
+  <!-- ds -->
+  <a href="https://coursera.org/share/6acbb01c0ffaf7cb44d1614ca8931d36">
+    <img src="https://via.placeholder.com/150x50.png?text=Certificado+2" alt="Certificado Coursera 2" style="margin-right: 10px;"/> </a>
+  
+  <!-- ds -->
+  <a href="https://coursera.org/share/8d12195c5dbbfe438d6200a9122a3776">
+    <img src="https://via.placeholder.com/150x50.png?text=Certificado+3" alt="Certificado Coursera 3" style="margin-right: 10px;"/>  </a>
+
+  <!-- ds -->
+  <a href="https://coursera.org/share/cb7c449dffacb435d2cad0bb84d92f63">
+    <img src="https://via.placeholder.com/150x50.png?text=Certificado+4" alt="Certificado Coursera 4"/> </a> 
+
+
+
   
 </section>
 
-<!-- info relacion proyectos -->
+
+
+
+
+
+        
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx exp laboral xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+<section align="center" >
+
+<h1> experiencia laboral </h1>
+
+### ☆champion fitness center☆
+**desarrollador de software** | *2018 - actualidad*  
+Ubicación: *Colombia-Saravena-Arauca*  
+
+**Descripción breve del puesto**: 
+-desarrollo de sistema de registro de usuarios con consultas de mensualidad, diseño y seguridad de las paginas de la empresa tanto personales como para eventos.
+
+**Logro 1**: 
+-desarollo de la pagina web para cobro en los eventos anuales reduciendo comisiones en paginas externas dando una ganancia total.
+
+**Logro 2**: 
+-actualizacion de un sistema antigua de registro de usuarios tomando programas mas dinamicos, seguros, modernos y atractivos visualmente.
+
+**Herramientas y tecnologías utilizadas**: 
+-sql con arquitectura de mvc en vs2022 ademas de uso de arduinos para la automaticacion de la entrada de usuarios.
+
+
+  
+</section>
+
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx info relacion proyectos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <section>
   
 <h1 align="center"> isometrical game company </h1>
   
 <p>
-   actualmente con nuestra comunidad de isometrical estamos trabajando en paralelo con ciertos proyectos q esperamos q pronto seaan 
-   accesibles para el publico ya q adoramos la calidad y el detalle dentro de cada uno de nuestros juegos asi q esperamos tenerlos lo 
-   mas pronto posible y si nos desean apoyar podrian colaborar en nuestro patreon o en nuestro paypal
+       somos un grupo de desarrollo pequeño q toma grandes proyectos con el unico fin de aprender y mejorar habilidades
+       en varias areas tnato el diseño como la programacion esperamos pronto tener mas miembros q quieran aprender cosas nuevas
+       y ser parte de esta pequeña comunidad q busca poder tener grandes pryectos
 </p>
 
 </section> 
@@ -112,7 +126,7 @@ GOOGLE CERTIFICATIONS
 
 
 
-<!-- badges proyectos -->
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx badges proyectos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 
 
 <section>
