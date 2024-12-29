@@ -1,6 +1,13 @@
+<!-- si revisas el codigo lo voy a fragmentar y no quiero tener un codigo limpio super estetico est
+estoy cansado de eso solo voy a tener cosas funcionales si quieres ver codigo mas limpio revisa mis 
+otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o red social-->
+
+
 
 <!-- Sobre mí -->
-<section> <h1 align="center"> Sobre el desarrollador </h1>
+<section> 
+  
+<h1 align="center"> Sobre el desarrollador </h1>
   
 <p>
     Desde 2012 decidí la dirección que quería darle a mi vida, enfocándome desde niño en el desarrollo de videojuegos. 
@@ -22,7 +29,12 @@
 
 </section>
 
+
+
+
+
 <!--estadisticas github -->
+<table>
 <p align="center">
   
 <a href="https://github.com/miguelacaceresrios">
@@ -30,6 +42,8 @@
   
 <a href="https://github.com/miguelacaceresrios">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/> </a></p> 
+</table>
+
  
         
 <!-- preparacion academica -->
