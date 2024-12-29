@@ -9,11 +9,13 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
 
 <h1> ✦ About me ✦ </h1>
 
+<p>
+       Since 2012, I have been dedicated to shaping my life around video game development, a passion I’ve had since childhood. Without the necessary tools or guidance, my early learning process was challenging and unstructured, but in 2014, I began experimenting with
+       various tools that enabled me to create my first projects. Over time, through trial and error, I developed better programming habits, gained valuable experience in project management, and started exploring other areas of programming. In 2023, during my
+       technical studies, my dedication helped me stand out among my peers, and now I am ready to take the next step in my journey by pursuing a university degree.
+</p>
 
-Since 2012, I have been dedicated to shaping my life around video game development, a passion I’ve had since childhood. Without the necessary tools or guidance, my early learning process was challenging and unstructured, but in 2014, I began experimenting with various tools that enabled me to create my first projects. Over time, through trial and error, I developed better programming habits, gained valuable experience in project management, and started exploring other areas of programming. In 2023, during my technical studies, my dedication helped me stand out among my peers, and now I am ready to take the next step in my journey by pursuing a university degree.
-
-
-</section>
+<br> </br> </section>
 
 <!-- banner --> 
 
@@ -22,7 +24,7 @@ Since 2012, I have been dedicated to shaping my life around video game developme
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx certificados xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <section align="center"> 
 
-<h1> certificates </h1>
+<h1> ✔️ certificates ✔️ </h1>
 
   <p>
     estos son algunos de mis certificados actualmente no tengo demasiado orden pero cuento con muchos mas resultado de estudio en diferentes areas 
@@ -55,7 +57,7 @@ GOOGLE CERTIFICATIONS
 <br></br>
 
 <p>
-iBM CERTIFICATIONS 
+IBM CERTIFICATIONS 
 </p>
 
   <!-- ds -->
@@ -80,15 +82,10 @@ iBM CERTIFICATIONS
 </section>
 
 
-
-
-
-
-        
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx exp laboral xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <section align="center" >
 
-<h1> experiencia laboral </h1>
+<h1> 💼 experiencia laboral 📁 </h1>
 
 ### ☆champion fitness center☆
 **desarrollador de software** | *2018 - actualidad*  
@@ -110,10 +107,10 @@ Ubicación: *Colombia-Saravena-Arauca*
   
 </section>
 
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx info relacion proyectos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-<section>
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx isometrical game company xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+<section align="center">
   
-<h1 align="center"> isometrical game company </h1>
+<h1> isometrical game company </h1>
   
 <p>
        somos un grupo de desarrollo pequeño q toma grandes proyectos con el unico fin de aprender y mejorar habilidades
@@ -121,37 +118,36 @@ Ubicación: *Colombia-Saravena-Arauca*
        y ser parte de esta pequeña comunidad q busca poder tener grandes pryectos
 </p>
 
-</section> 
-
-
-
-
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx badges proyectos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-
-
-<section>
-  
-<h1 align="center"> prueba nuestros juegos </h1>
   
 <p>
-  adoro desarrollar juegos y puedes encontrar mis proyectos en multiples plataformas 
-  te recomiendo pasarte y probarlos ya q corren en pc's de gamma baja y siempre intento }
-  q conserven su calidad sin perder su valor 
+       prueba gratis nuestros proyectos en diferentes plataformas de igual manera agradecemos el apoyo adoramos q puedas disfrutar 
+       y esperamos pronto volver a verte disfrutando de nuestros proyectos
 </p>
 
-<p align=center>
-  <a href="https://gamejolt.com/@miguelangelcaceresrios" target="_blank">
-    <img src="https://img.shields.io/badge/GameJolt-Profile-blue?style=for-the-badge&logo=gamejolt&logoColor=white" alt="GameJolt Profile"></a>
 
-<a href="https://miguelacaceresrios.itch.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Itch.io-Profile-pink?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Profile"></a> </p>
 
+
+<!-- carnival -->
+<table>        
+<td width="25%"> 
+       
+<h3>carnival</h3> 
+
+<a href="https://github.com/miguelacaceresrios/carnival" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a> 
+
+</td> </table>
+
+
+
+</table>
 </section>
 
-<!-- software -->
-<section>
+
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx seguridad informatica xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+<section align="center">
   
-<h1><p align="center">Ciberseguridad</p></h1>
+<h1> 🔒 cybersecurity 🔓 </h1>
 
 <p>
   ten en cuenta q mucho de mis proyectos los subo para q muchos entiendan la 
@@ -163,129 +159,21 @@ Ubicación: *Colombia-Saravena-Arauca*
 
 
       
-<div align="center"> <table>  <tr> 
+ <table>  <tr> 
          
 <td width="25%"> 
    <h3 align="center">Ojo de Sauron</h3> <div align="center">
       <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
         <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
-    
-<td width="25%">
-   <h3 align="center">Quesito</h3>
-      <div align="center">
-          <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
-
-
-<td width="25%">
-   <h3 align="center">Meet the Spy</h3>
-      <div align="center">
-          <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
-
-
-<td width="25%">
-   <h3 align="center">Random Where</h3>
-      <div align="center">
-          <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
 </tr></table></p></section>
 
 
 
-<!-- videojuegos -->
-<section>
-  
-<h1><p align="center">desarrollo de videojuegos</p></h1>
-
-<p>
-  ten en cuenta q mucho de mis proyectos los subo para q muchos entiendan la 
-  estructura del codigo y aunque los use no todos los subo completos por q son 
-  herramientas personales mas de una la subire completa y lo dejare claro en su 
-  propio .README
-</p>
 
 
-
-      
-<div align="center"> <table>  <tr> 
-         
-<td width="25%"> 
-   <h3 align="center">carnival</h3> <div align="center">
-      <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
-
-    
-<td width="25%">
-   <h3 align="center">gambit overdrive</h3>
-      <div align="center">
-          <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
-
-
-<td width="25%">
-   <h3 align="center">casino and chill</h3>
-      <div align="center">
-          <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
-
-
-<td width="25%">
-   <h3 align="center">rythm combat</h3>
-      <div align="center">
-          <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
-
-</tr></table></p></section>
-
-<!-- escritorio -->
-
-<section>
-  
-<h1><p align="center">programas de escritorio</p></h1>
-
-<p>
-  aplicacions q uso tanto para trabajo como para uso personal
-  muchas las usan amigos o gente q las descarga
-</p>
-
-
-
-      
-<div align="center"> <table>  <tr> 
-         
-<td width="25%"> 
-   <h3 align="center">mmeeting jagger</h3> <div align="center">
-      <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
-
-    
-<td width="25%">
-   <h3 align="center">coloso de rodas</h3>
-      <div align="center">
-          <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
-
-
-<td width="25%">
-   <h3 align="center">org life</h3>
-      <div align="center">
-          <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
-
-
-<td width="25%">
-   <h3 align="center">isometrics stats</h3>
-      <div align="center">
-          <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
-
-</tr></table></p></section>
-
-
-<!-- web-->
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx web xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 
 <section>
   
@@ -301,11 +189,6 @@ Ubicación: *Colombia-Saravena-Arauca*
 
       
 <div align="center"> <table>  <tr> 
-         
-<td width="25%"> 
-   <h3 align="center">canine care</h3> <div align="center">
-      <a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
     
 <td width="25%">
@@ -315,47 +198,13 @@ Ubicación: *Colombia-Saravena-Arauca*
             <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
 
-<td width="25%">
-   <h3 align="center">champion page</h3>
-      <div align="center">
-          <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
 
-
-<td width="25%">
-   <h3 align="center">isometrical oficial page</h3>
-      <div align="center">
-          <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
-            
 
 </tr></table></p></section>
 
 
 
-
-<section align= "center">
-
-<h1><p>ayuda a la comunidad</p></h1>
-
-<p>
-  no necesita introduccion es simplemente una seccion de ayuda general
-  con problemas del comun
-</p>
-
-
-
-
-
-  <a href="https://stackoverflow.com/users/23922871" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-Profile-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Profile">
-  </a>
-  <a href="https://leetcode.com/u/miguelacaceresrios/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile">
-  </a>
-
-
-
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx articulos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 
 ### 📄 Artículos en LinkedIn
 
@@ -365,19 +214,12 @@ Ubicación: *Colombia-Saravena-Arauca*
   </a>
 </p>
 
-
-
-<!-- articulos -->
-
 <h1><p align="center">articulos</p></h1>
 
 <p>
   puedes leer varios de mis articulos relacionados a la programacion y a diferentes temas q me gusta tratar entre otros
 </p>
 
-
-  <a href="https://www.linkedin.com/in/miguelacaceresrios/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
 
 
 
