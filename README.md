@@ -3,46 +3,95 @@ estoy cansado de eso solo voy a tener cosas funcionales si quieres ver codigo ma
 otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o red social-->
 
 
+<!-- Sobre mi -->
+<section align="center"> 
 
-<!-- Sobre mí -->
-<section> 
-  
-<h1 align="center"> Sobre el desarrollador </h1>
-  
-<p>
-    Desde 2012 decidí la dirección que quería darle a mi vida, enfocándome desde niño en el desarrollo de videojuegos. 
-    Sin embargo, al no contar con las herramientas ni las guías necesarias, mi aprendizaje fue un proceso arduo y 
-    desorganizado. Fue en 2014 cuando comencé a explorar diversas herramientas que me permitieron crear mis primeros 
-    proyectos.
-</p>
-  
-<p>
-    Con el tiempo y a través de numerosos errores, fui adquiriendo experiencia y desarrollando mejores hábitos en la 
-    programación, gestión y desarrollo de proyectos. Después de sentirme más preparado y con mayor conocimiento, empecé 
-    a explorar otras áreas de la programación.
-</p>
+<h1> About me </h1>
 
-<p>
-    En 2023, durante mi etapa técnica, logré destacar entre mis compañeros gracias a mi dedicación. Ahora, estoy listo 
-    para dar el siguiente paso y comenzar mi etapa universitaria.
-</p>
+
+Since 2012, I have been dedicated to shaping my life around video game development, a passion I’ve had since childhood. Without the necessary tools or guidance, my early learning process was challenging and unstructured, but in 2014, I began experimenting with various tools that enabled me to create my first projects. Over time, through trial and error, I developed better programming habits, gained valuable experience in project management, and started exploring other areas of programming. In 2023, during my technical studies, my dedication helped me stand out among my peers, and now I am ready to take the next step in my journey by pursuing a university degree.
+
 
 </section>
 
 
 
+<!--certificados -->
+<section align="center"> 
+
+<h1> certificates </h1>
+
+<p>
+certificaciones de google  
+</p>
+
+<p align="center">
+  <a href="https://coursera.org/share/dbd6d9271c48fc26bc851940be5965ec">
+    <img src="https://via.placeholder.com/150x50.png?text=Certificado+1" alt="Certificado Coursera 1" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://coursera.org/share/6acbb01c0ffaf7cb44d1614ca8931d36">
+    <img src="https://via.placeholder.com/150x50.png?text=Certificado+2" alt="Certificado Coursera 2" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://coursera.org/share/8d12195c5dbbfe438d6200a9122a3776">
+    <img src="https://via.placeholder.com/150x50.png?text=Certificado+3" alt="Certificado Coursera 3" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://coursera.org/share/cb7c449dffacb435d2cad0bb84d92f63">
+    <img src="https://via.placeholder.com/150x50.png?text=Certificado+4" alt="Certificado Coursera 4"/>
+  </a>
+</p>
+
+
+<p>
+certificaciones de IBM  
+</p>
+
+
+
+
+
+</section>
 
 
 <!--estadisticas github -->
-<table>
 <p align="center">
   
-<a href="https://github.com/miguelacaceresrios">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/> </a>
+  <!-- Top Languages -->
+  <a href="https://github.com/miguelacaceresrios">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+  </a>
   
-<a href="https://github.com/miguelacaceresrios">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/> </a></p> 
-</table>
+  <!-- GitHub Stats -->
+  <a href="https://github.com/miguelacaceresrios">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
         
@@ -305,6 +354,14 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
 
 
 
+### 📄 Artículos en LinkedIn
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguelacaceresrios/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&lines=Título+del+Artículo+1;Tema+clave+del+Artículo+2;Explora+mis+análisis+en+Artículo+3" alt="LinkedIn Articles"/>
+  </a>
+</p>
+
 
 
 <!-- articulos -->
@@ -322,4 +379,8 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
 
 
 </section>
+  <!-- Activity Graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelacaceresrios&theme=github-dark" alt="Activity Graph" />
+  </a>
 
