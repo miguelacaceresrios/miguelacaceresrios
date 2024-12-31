@@ -2,9 +2,6 @@
 estoy cansado de eso solo voy a tener cosas funcionales si quieres ver codigo mas limpio revisa mis 
 otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o red social-->
 
-### Network Graph
-![Network Graph](https://via.placeholder.com/400x400.png?text=Gráfico+de+Red)
-
 
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Sobre mi   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
