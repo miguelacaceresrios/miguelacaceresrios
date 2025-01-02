@@ -200,21 +200,37 @@ Ubicación: *Colombia-Saravena-Arauca*
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx articulos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+<section>
 
-### 📄 Artículos en LinkedIn
+<h1> 📄 Artículos en LinkedIn </h1>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/miguelacaceresrios/">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&lines=Título+del+Artículo+1;Tema+clave+del+Artículo+2;Explora+mis+análisis+en+Artículo+3" alt="LinkedIn Articles"/>
-</a>
-</p>
+
 
 </section>
-  <!-- Activity Graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelacaceresrios&theme=github-dark" alt="Activity Graph" />
-  </a>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -231,4 +247,10 @@ Ubicación: *Colombia-Saravena-Arauca*
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
+  <!-- Activity Graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelacaceresrios&theme=github-dark" alt="Activity Graph" />
+  </a>
+</section>
+
 
