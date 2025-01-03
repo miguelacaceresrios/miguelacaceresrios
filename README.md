@@ -61,7 +61,7 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
 </p>
 
   <!-- ds -->
-  <a href="https://coursera.org/share/dbd6d9271c48fc26bc851940be5965ec">
+  <a href="[https://coursera.org/share/dbd6d9271c48fc26bc851940be5965ec](https://coursera.org/share/01801a4256a6d7fc92b462c3336004bf)">
     <img src="https://via.placeholder.com/150x50.png?text=Certificado+1" alt="Certificado Coursera 1" style="margin-right: 10px;"/>  </a>
   
   <!-- ds -->
@@ -206,27 +206,45 @@ Ubicación: *Colombia-Saravena-Arauca*
 
 
 
-
-
-
-
-
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx articulos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-<section>
+<section align="center">
+<h1>Artículos en LinkedIn</h1>
+    
+    
+<table> <tr>  <td colspan="2">
+<h2>El Arte de la Persuasión en la Ciberseguridad: Estrategias de Manipulación Ética</h2>
+</td> </tr> <tr> <td>
+<img src="https://media.licdn.com/dms/image/v2/D4E12AQEtUCOkMYOtrA/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1735814634175?e=1741219200&v=beta&t=umGDsLhImmOmZAqW3tx3RYN44r93PUfaMdM_fg8a99Q" alt="Descripción de la Imagen" width="300"/>
+</td> <td>
+<p>La ingeniería social es una disciplina que explora cómo influir en el comportamiento humano para alcanzar objetivos específicos.</p>
+</td> </tr> <tr>
+<td colspan="2"> <a href="https://www.linkedin.com/pulse/el-arte-de-la-persuasi%25C3%25B3n-en-ciberseguridad-%25C3%25A9tica-caceres-rios-u6mge" target="_blank">
+<img src="https://img.shields.io/badge/Lee_este_artículo-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="articulo">
+</a> </td> </tr> </table> 
 
-<h1> 📄 Artículos en LinkedIn </h1>
+
+<table> <tr>  <td colspan="2">
+<h2>Fork Bomb</h2>
+</td> </tr> <tr> <td>
+<img src="https://media.licdn.com/dms/image/v2/D4E12AQGxfFzTUYJ9aw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735818143837?e=1741219200&v=beta&t=HQr-0tVej-ILdOFUWFm_o5iXawjKCc0Q5pwcGOMzKMw" alt="Descripción de la Imagen" width="300"/>
+</td> <td>
+<p>Una Fork Bomb es un tipo de ataque de denegación de servicio (DoS) que se utiliza para agotar los recursos del sistema y bloquearlo. Consiste en un proceso que se replica a sí mismo de forma continua, creando una sobrecarga del sistema que eventualmente lo hace inutilizable</p>
+</td> </tr> <tr>
+<td colspan="2"> <a href="https://www.linkedin.com/pulse/fork-bomb-miguel-angel-caceres-rios-tfsle/" target="_blank">
+<img src="https://img.shields.io/badge/Lee_este_artículo-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="articulo">
+</a> </td> </tr> </table> 
 
 
-
-</section>
-
-
-
-
-
-
-
-
+<table> <tr>  <td colspan="2">
+<h2>Keylogger: ¿Qué es y Cómo Funciona?</h2>
+</td> </tr> <tr> <td>
+<img src="https://media.licdn.com/dms/image/v2/D4E12AQHn0KLuv_YRTw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735819245673?e=1741219200&v=beta&t=y2x56IGXAUvOk-6o7gfIeGr6LFGJhRY-5h1MoBWkUkE" alt="Descripción de la Imagen" width="300"/>
+</td> <td>
+<p>Un keylogger es un tipo de software o hardware diseñado para registrar todas las teclas que un usuario presiona en su dispositivo.</p>
+</td> </tr> <tr>
+<td colspan="2"> <a href="https://www.linkedin.com/pulse/keylogger-qu%25C3%25A9-es-y-c%25C3%25B3mo-funciona-miguel-angel-caceres-rios-yfjoe/" target="_blank">
+<img src="https://img.shields.io/badge/Lee_este_artículo-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="articulo">
+</a> </td> </tr> </table> </section>
 
 
 
@@ -235,7 +253,7 @@ Ubicación: *Colombia-Saravena-Arauca*
 
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx estadisticas github xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-<p align="center">
+<section align="center">
   
   <!-- Top Languages -->
   <a href="https://github.com/miguelacaceresrios">
@@ -247,6 +265,7 @@ Ubicación: *Colombia-Saravena-Arauca*
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
+
   <!-- Activity Graph -->
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelacaceresrios&theme=github-dark" alt="Activity Graph" />
