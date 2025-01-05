@@ -55,29 +55,6 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
 
 
 <br></br>
-
-<p>
-       IBM CERTIFICATIONS 
-</p>
-
-  <!-- ds -->
-  <a href="[https://coursera.org/share/dbd6d9271c48fc26bc851940be5965ec](https://coursera.org/share/01801a4256a6d7fc92b462c3336004bf)">
-    <img src="https://via.placeholder.com/150x50.png?text=Certificado+1" alt="Certificado Coursera 1" style="margin-right: 10px;"/>  </a>
-  
-  <!-- ds -->
-  <a href="https://coursera.org/share/6acbb01c0ffaf7cb44d1614ca8931d36">
-    <img src="https://via.placeholder.com/150x50.png?text=Certificado+2" alt="Certificado Coursera 2" style="margin-right: 10px;"/> </a>
-  
-  <!-- ds -->
-  <a href="https://coursera.org/share/8d12195c5dbbfe438d6200a9122a3776">
-    <img src="https://via.placeholder.com/150x50.png?text=Certificado+3" alt="Certificado Coursera 3" style="margin-right: 10px;"/>  </a>
-
-  <!-- ds -->
-  <a href="https://coursera.org/share/cb7c449dffacb435d2cad0bb84d92f63">
-    <img src="https://via.placeholder.com/150x50.png?text=Certificado+4" alt="Certificado Coursera 4"/> </a> 
-
-
-
   
 </section>
 
@@ -146,63 +123,6 @@ Ubicación: *Colombia-Saravena-Arauca*
 
 </table>
 </section>
-
-
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx seguridad informatica xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-<section align="center">
-  
-<h1> 🔒 cybersecurity 🔓 </h1>
-
-<p>
-  proyectos 
-</p>
-
-      
-<table>  
-         
-<td width="25%"> 
-<h3> Ojo de Sauron </h3> 
-<a href="https://github.com/miguelacaceresrios/screen-logger-" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"> </td>
-
-
-</table>
-</section>
-
-
-
-
-
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx web xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-
-<section align="center">
-  
-<h1> web </h1>
-
-<p>
-       aqui subire alguno de los proyectos q me compraron hace un tiempo y estan fuera de uso
-</p>
-
-      
- <table> 
-
-    
-<td width="25%">
-<h3> lunaris </h3>
-
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a></div></td>
-
-
-
-
-</table> </section>
-
-
-
-
-
-
 
 
 
