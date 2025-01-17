@@ -21,72 +21,11 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
 
 [![a.webp](https://i.postimg.cc/7ZMmj0Ss/a.webp)](https://postimg.cc/pmrfF9Gz)
 
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx certificados xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-<section align="center"> 
 
-<h1> ✔️ certificates ✔️ </h1>
-
-  <p>
-    estos son algunos de mis certificados actualmente no tengo demasiado orden pero cuento con muchos mas resultado de estudio en diferentes areas 
-    pronto estare pagando por certificados de mayor valor en campos deservios de la nube y ciberseguridad
-  </p>
-
-<p>
-       GOOGLE CERTIFICATIONS 
-</p>
-
-
-  <!-- ds -->
-  <a href="https://coursera.org/share/dbd6d9271c48fc26bc851940be5965ec">
-    <img src="https://via.placeholder.com/150x50.png?text=Certificado+1" alt="Certificado Coursera 1" style="margin-right: 10px;"/>  </a>
-  
-  <!-- ds -->
-  <a href="https://coursera.org/share/6acbb01c0ffaf7cb44d1614ca8931d36">
-    <img src="https://via.placeholder.com/150x50.png?text=Certificado+2" alt="Certificado Coursera 2" style="margin-right: 10px;"/> </a>
-  
-  <!-- ds -->
-  <a href="https://coursera.org/share/8d12195c5dbbfe438d6200a9122a3776">
-    <img src="https://via.placeholder.com/150x50.png?text=Certificado+3" alt="Certificado Coursera 3" style="margin-right: 10px;"/>  </a>
-
-  <!-- ds -->
-  <a href="https://coursera.org/share/cb7c449dffacb435d2cad0bb84d92f63">
-    <img src="https://via.placeholder.com/150x50.png?text=Certificado+4" alt="Certificado Coursera 4"/> </a> 
-
-
-
-<br></br>
-  
-</section>
 
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx exp laboral xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-<section align="center" >
 
-<h1> 💼 experiencia laboral 📁 </h1>
-
-### ☆champion fitness center☆
-**desarrollador de software** | *2018 - actualidad*  
-Ubicación: *Colombia-Saravena-Arauca*  
-
-**♠️Descripción breve del puesto♠️**: 
-
--desarrollo de sistema de registro de usuarios con consultas de mensualidad, diseño y seguridad de las paginas de la empresa tanto personales como para eventos.
-
-**♣️Logro 1♣️**: 
-
--desarollo de la pagina web para cobro en los eventos anuales reduciendo comisiones en paginas externas dando una ganancia total.
-
-**♣️Logro 2♣️**: 
-
--actualizacion de un sistema antigua de registro de usuarios tomando programas mas dinamicos, seguros, modernos y atractivos visualmente.
-
-**♦️Herramientas y tecnologías utilizadas♦️**: 
-
--sql con arquitectura de mvc en vs2022 ademas de uso de arduinos para la automaticacion de la entrada de usuarios.
-
-
-  
-</section>
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx isometrical game company xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <section align="center">
