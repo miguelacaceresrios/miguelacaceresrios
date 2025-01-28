@@ -44,27 +44,7 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
        y esperamos pronto volver a verte disfrutando de nuestros proyectos
 </p>
 
-
-
-
-<!-- carnival -->
-<table>        
-<td width="25%"> 
-       
-<h3>carnival</h3> 
-
-<a href="https://github.com/miguelacaceresrios/carnival" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Código"></a> 
-
-</td> </table>
-
-
-
-</table>
-</section>
-
-
-
+</table></section>
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx articulos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <section align="center">
 <h1>Artículos en LinkedIn</h1>
@@ -123,12 +103,11 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
   <a href="https://github.com/miguelacaceresrios">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
-</p>
+
 
   <!-- Activity Graph -->
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelacaceresrios&theme=github-dark" alt="Activity Graph" />
   </a>
+  
 </section>
-
-
