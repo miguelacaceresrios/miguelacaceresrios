@@ -53,12 +53,12 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
 <table> <tr>  <td colspan="2">
 <h2>Ciberseguridad y OSINT: El poder de la inteligencia de fuentes abiertas en la era digital</h2>
 </td> </tr> <tr> <td>
-<img src="https://media.licdn.com/dms/image/v2/D4E12AQEtUCOkMYOtrA/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1735814634175?e=1741219200&v=beta&t=umGDsLhImmOmZAqW3tx3RYN44r93PUfaMdM_fg8a99Q" alt="Descripción de la Imagen" width="300"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQG8tR7Is7Zoyg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1738122917883?e=1743638400&v=beta&t=W0jVNibEOvL7xaDbL3-HRYhGe7aGnK-vjkRR3cetBzc" alt="Descripción de la Imagen" width="300"/>
 </td> <td>
 <p>Este artículo explora en profundidad el concepto de OSINT, sus aplicaciones en ciberseguridad, las herramientas más efectivas y las mejores prácticas para su implementación.</p>
 </td> </tr> <tr>
 <td colspan="2"> <a href="https://www.linkedin.com/pulse/ciberseguridad-y-osint-el-poder-de-la-inteligencia-en-caceres-rios-nkn8f/?trackingId=BZKxfIbNRAmZrs5q4uyZPQ%3D%3D" target="_blank">
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQG8tR7Is7Zoyg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1738122917883?e=1743638400&v=beta&t=W0jVNibEOvL7xaDbL3-HRYhGe7aGnK-vjkRR3cetBzc" alt="articulo">
+<img src="https://img.shields.io/badge/Lee_este_artículo-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="articulo">
 </a> </td> </tr> </table> 
 
 
