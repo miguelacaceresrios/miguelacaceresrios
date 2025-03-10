@@ -13,9 +13,7 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
        Since 2012, I have been dedicated to shaping my life around video game development, a passion I’ve had since childhood. Without the necessary tools or guidance, my early learning process was challenging and unstructured, but in 2014, I began experimenting with
        various tools that enabled me to create my first projects. Over time, through trial and error, I developed better programming habits, gained valuable experience in project management, and started exploring other areas of programming. In 2023, during my
        technical studies, my dedication helped me stand out among my peers, and now I am ready to take the next step in my journey by pursuing a university degree.
-</p>
-
-<br> </br> </section>
+</p> <br> </br> </section>
 
 <!-- banner --> 
 
@@ -23,8 +21,32 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
 
 
 
-
+  <!-- Activity Graph -->
+  <section align="center">
+         <h1> </h1>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelacaceresrios&theme=github-dark" alt="Activity Graph" />
+  </a>
+  
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx exp laboral xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
+
+
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx articulos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+<section align="center">
+<h1>Artículos en LinkedIn</h1>
+    
+    
+<table> <tr>  <td colspan="2">
+<h2>Ciberseguridad y OSINT: El poder de la inteligencia de fuentes abiertas en la era digital</h2>
+</td> </tr> <tr> <td>
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQG8tR7Is7Zoyg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1738122917883?e=1743638400&v=beta&t=W0jVNibEOvL7xaDbL3-HRYhGe7aGnK-vjkRR3cetBzc" alt="Descripción de la Imagen" width="300"/>
+</td> <td>
+<p>Este artículo explora en profundidad el concepto de OSINT, sus aplicaciones en ciberseguridad, las herramientas más efectivas y las mejores prácticas para su implementación.</p>
+</td> </tr> <tr>
+<td colspan="2"> <a href="https://www.linkedin.com/pulse/ciberseguridad-y-osint-el-poder-de-la-inteligencia-en-caceres-rios-nkn8f/?trackingId=BZKxfIbNRAmZrs5q4uyZPQ%3D%3D" target="_blank">
+<img src="https://img.shields.io/badge/Lee_este_artículo-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="articulo">
+</a> </td> </tr> </table> 
 
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx isometrical game company xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
@@ -45,48 +67,6 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
 </p>
 
 </table></section>
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx articulos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-<section align="center">
-<h1>Artículos en LinkedIn</h1>
-    
-    
-<table> <tr>  <td colspan="2">
-<h2>Ciberseguridad y OSINT: El poder de la inteligencia de fuentes abiertas en la era digital</h2>
-</td> </tr> <tr> <td>
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQG8tR7Is7Zoyg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1738122917883?e=1743638400&v=beta&t=W0jVNibEOvL7xaDbL3-HRYhGe7aGnK-vjkRR3cetBzc" alt="Descripción de la Imagen" width="300"/>
-</td> <td>
-<p>Este artículo explora en profundidad el concepto de OSINT, sus aplicaciones en ciberseguridad, las herramientas más efectivas y las mejores prácticas para su implementación.</p>
-</td> </tr> <tr>
-<td colspan="2"> <a href="https://www.linkedin.com/pulse/ciberseguridad-y-osint-el-poder-de-la-inteligencia-en-caceres-rios-nkn8f/?trackingId=BZKxfIbNRAmZrs5q4uyZPQ%3D%3D" target="_blank">
-<img src="https://img.shields.io/badge/Lee_este_artículo-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="articulo">
-</a> </td> </tr> </table> 
-
-
-<table> <tr>  <td colspan="2">
-<h2>Fork Bomb</h2>
-</td> </tr> <tr> <td>
-<img src="https://media.licdn.com/dms/image/v2/D4E12AQGxfFzTUYJ9aw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735818143837?e=1741219200&v=beta&t=HQr-0tVej-ILdOFUWFm_o5iXawjKCc0Q5pwcGOMzKMw" alt="Descripción de la Imagen" width="300"/>
-</td> <td>
-<p>Una Fork Bomb es un tipo de ataque de denegación de servicio (DoS) que se utiliza para agotar los recursos del sistema y bloquearlo. Consiste en un proceso que se replica a sí mismo de forma continua, creando una sobrecarga del sistema que eventualmente lo hace inutilizable</p>
-</td> </tr> <tr>
-<td colspan="2"> <a href="https://www.linkedin.com/pulse/fork-bomb-miguel-angel-caceres-rios-tfsle/" target="_blank">
-<img src="https://img.shields.io/badge/Lee_este_artículo-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="articulo">
-</a> </td> </tr> </table> 
-
-
-<table> <tr>  <td colspan="2">
-<h2>Keylogger: ¿Qué es y Cómo Funciona?</h2>
-</td> </tr> <tr> <td>
-<img src="https://media.licdn.com/dms/image/v2/D4E12AQHn0KLuv_YRTw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735819245673?e=1741219200&v=beta&t=y2x56IGXAUvOk-6o7gfIeGr6LFGJhRY-5h1MoBWkUkE" alt="Descripción de la Imagen" width="300"/>
-</td> <td>
-<p>Un keylogger es un tipo de software o hardware diseñado para registrar todas las teclas que un usuario presiona en su dispositivo.</p>
-</td> </tr> <tr>
-<td colspan="2"> <a href="https://www.linkedin.com/pulse/keylogger-qu%25C3%25A9-es-y-c%25C3%25B3mo-funciona-miguel-angel-caceres-rios-yfjoe/" target="_blank">
-<img src="https://img.shields.io/badge/Lee_este_artículo-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="articulo">
-</a> </td> </tr> </table> </section>
-
-
-
 
 
 
@@ -105,9 +85,5 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
   </a>
 
 
-  <!-- Activity Graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelacaceresrios&theme=github-dark" alt="Activity Graph" />
-  </a>
   
 </section>
