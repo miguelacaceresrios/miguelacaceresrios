@@ -37,7 +37,7 @@
    <h3>📌 <a href="https://udemy.com/tu-otro-curso">Curso de Desarrollo Web</a></h3>
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx exp laboral xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 
-[![Spotify](https://spotify-now-playing-macaceres0905-co.vercel.app/api/spotify)](https://open.spotify.com/user/macaceres0905-co)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=macaceres0905-co&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/macaceres0905-co)
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx articulos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <section align="center">
