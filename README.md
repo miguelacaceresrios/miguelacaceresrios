@@ -39,7 +39,7 @@
 | Aprende bases de datos con mysql desde cero.                                                                                      | 
 </div>
 
-   <h3>📌 <a href="https://udemy.com/tu-otro-curso">Curso de Desarrollo Web</a></h3>
+   <h3>📌 <a href="udemy.com/user/miguel-angel-caceres-rios">accede a mas cursos</a></h3>
    
 
 
