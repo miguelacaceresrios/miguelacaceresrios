@@ -19,8 +19,8 @@
 <h1>cursos</h1>
 <div align="center">
   
-### 🚀 **Mis Cursos en Udemy**  
-*¡Aprende con contenido práctico y de calidad!*  
+### 🚀 **cursos**  
+*cursos con certificacion *  
 
 | [![Curso 1](https://img.shields.io/badge/UDEMY-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://udemy.com/tu-curso-1) | [![Curso 2](https://img.shields.io/badge/UDEMY-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://udemy.com/tu-curso-2) |
 |------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
