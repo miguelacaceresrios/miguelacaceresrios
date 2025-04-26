@@ -1,8 +1,3 @@
-<!-- si revisas el codigo lo voy a fragmentar y no quiero tener un codigo limpio super estetico est
-estoy cansado de eso solo voy a tener cosas funcionales si quieres ver codigo mas limpio revisa mis 
-otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o red social-->
-
-
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Sobre mi   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <section align="center"> 
@@ -19,7 +14,19 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
 
 [![a.webp](https://i.postimg.cc/7ZMmj0Ss/a.webp)](https://postimg.cc/pmrfF9Gz)
 
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx cursos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+<section align="center">
+<h1>cursos</h1>
+<div align="center">
+  
+### 🚀 **Mis Cursos en Udemy**  
+*¡Aprende con contenido práctico y de calidad!*  
 
+| [![Curso 1](https://img.shields.io/badge/UDEMY-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://udemy.com/tu-curso-1) | [![Curso 2](https://img.shields.io/badge/UDEMY-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://udemy.com/tu-curso-2) |
+|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| **curso sql** <br> ⭐⭐⭐⭐⭐ (null/5)                                                                                        | **Nombre del Curso 2** <br> ⭐⭐⭐⭐⭐ (4.8/5)                                                                                        |
+| Aprende bases de datos con mysql desde cero.                                                                                                        | Domina [tema] con proyectos reales.                                                                                                |
+</div>
 
   <!-- Activity Graph -->
   <section align="center">
@@ -27,7 +34,7 @@ otros proyectos si te interesa trabajar puedes contactarme por cualquier medio o
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelacaceresrios&theme=github-dark" alt="Activity Graph" />
   </a>
-  
+   <h3>📌 <a href="https://udemy.com/tu-otro-curso">Curso de Desarrollo Web</a></h3>
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx exp laboral xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 
 
