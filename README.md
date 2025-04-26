@@ -14,30 +14,46 @@
 
 [![a.webp](https://i.postimg.cc/7ZMmj0Ss/a.webp)](https://postimg.cc/pmrfF9Gz)
 
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx cursos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <section align="center">
 <h1>cursos</h1>
 <div align="center">
   
-### 🚀 **cursos**  
-*cursos con certificacion *  
 
-| [![Curso 1](https://img.shields.io/badge/UDEMY-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://udemy.com/tu-curso-1) | [![Curso 2](https://img.shields.io/badge/UDEMY-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://udemy.com/tu-curso-2) |
-|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| **curso sql** <br> ⭐⭐⭐⭐⭐ (null/5)                                                                                        | **Nombre del Curso 2** <br> ⭐⭐⭐⭐⭐ (4.8/5)                                                                                        |
-| Aprende bases de datos con mysql desde cero.                                                                                                        | Domina [tema] con proyectos reales.                                                                                                |
+
+| [![Curso 1](https://img.shields.io/badge/UDEMY-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://udemy.com/tu-curso-1) |
+|-----------------------------------------------------------------------------------------------------------------------------------|
+| **curso sql** <br> ⭐⭐⭐⭐⭐ (null/5)                                                                                        | 
+| Aprende bases de datos con mysql desde cero.                                                                                      | 
 </div>
 
-  <!-- Activity Graph -->
-  <section align="center">
-         <h1> </h1>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelacaceresrios&theme=github-dark" alt="Activity Graph" />
-  </a>
    <h3>📌 <a href="https://udemy.com/tu-otro-curso">Curso de Desarrollo Web</a></h3>
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx exp laboral xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+   
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=macaceres0905-co&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/macaceres0905-co)
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx articulos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 <section align="center">
@@ -45,15 +61,37 @@
     
     
 <table> <tr>  <td colspan="2">
-<h2>Ciberseguridad y OSINT: El poder de la inteligencia de fuentes abiertas en la era digital</h2>
+<h2>4chan y el Día que el Anonimato Falló: Ciberataque, Filtraciones y una Lección para Internet</h2>
 </td> </tr> <tr> <td>
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQG8tR7Is7Zoyg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1738122917883?e=1743638400&v=beta&t=W0jVNibEOvL7xaDbL3-HRYhGe7aGnK-vjkRR3cetBzc" alt="Descripción de la Imagen" width="300"/>
+<img src="https://media.licdn.com/dms/image/v2/D4E12AQEU3zhi50nEiQ/article-cover_image-shrink_720_1280/B4EZZzJ.AZHcAI-/0/1745688717176?e=1750896000&v=beta&t=nsXgCIVuhp3S55AuLs7_5DUM1rI0qwfafzevd3fQMoo" alt="Descripción de la Imagen" width="300"/>
 </td> <td>
-<p>Este artículo explora en profundidad el concepto de OSINT, sus aplicaciones en ciberseguridad, las herramientas más efectivas y las mejores prácticas para su implementación.</p>
+<p>En los últimos días, 4chan, una de las comunidades anónimas más icónicas de Internet, sufrió uno de los peores golpes de su historia: una caída generalizada de sus servidores, seguida de una filtración masiva de datos internos.</p>
 </td> </tr> <tr>
-<td colspan="2"> <a href="https://www.linkedin.com/pulse/ciberseguridad-y-osint-el-poder-de-la-inteligencia-en-caceres-rios-nkn8f/?trackingId=BZKxfIbNRAmZrs5q4uyZPQ%3D%3D" target="_blank">
+<td colspan="2"> <a href="https://www.linkedin.com/pulse/4chan-y-el-d%25C3%25ADa-que-anonimato-fall%25C3%25B3-ciberataque-una-caceres-rios-hmi8e/?trackingId=2XvlrE7jS7GMK%2BCi52tFUA%3D%3D" target="_blank">
 <img src="https://img.shields.io/badge/Lee_este_artículo-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" alt="articulo">
 </a> </td> </tr> </table> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx isometrical game company xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
