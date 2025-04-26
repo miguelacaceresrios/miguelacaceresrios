@@ -39,7 +39,7 @@
 | Aprende bases de datos con mysql desde cero.                                                                                      | 
 </div>
 
-   <h3>📌 <a href="udemy.com/user/miguel-angel-caceres-rios">accede a mas cursos</a></h3>
+   <h3>📌 <a href="https://www.udemy.com/user/miguel-angel-caceres-rios/">accede a mas cursos</a></h3>
    
 
 
