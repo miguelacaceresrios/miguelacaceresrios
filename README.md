@@ -21,7 +21,7 @@
 <h1> ✦ pasatiempos ✦ </h1>
 
 <p>
-null
+ 
 </p> <br> </br> </section>
 
 
