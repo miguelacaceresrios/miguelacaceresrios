@@ -7,13 +7,45 @@
        Since 2012, I have been dedicated to shaping my life around video game development, a passion I’ve had since childhood. Without the necessary tools or guidance, my early learning process was challenging and unstructured, but in 2014, I began experimenting with
        various tools that enabled me to create my first projects. Over time, through trial and error, I developed better programming habits, gained valuable experience in project management, and started exploring other areas of programming. In 2023, during my
        technical studies, my dedication helped me stand out among my peers, and now I am ready to take the next step in my journey by pursuing a university degree.
-</p> <br> </br> </section>
+</p> <br> </br>
+</section>
 
 
 <!-- banner --> 
 [![a.webp](https://i.postimg.cc/7ZMmj0Ss/a.webp)](https://postimg.cc/pmrfF9Gz)
 
+<!--image -->[](url)
 
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+         <td style="border: 0";>
+                <img width="400" src="" />
+         </td>
+    <td style="border: 0";>
+      <p>
+        💻 Project focused on quality content on programming, hacking and technology <a href="https://instagram.com/ackercode">Acker Code<a/>.
+      </p>
+      <p>
+        🌙 Making daily content in <a href="https://instagram.com/ackercode">@ackercode</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCERK-uaylaDOhEDn5eBGENA?sub_confirmation=1">videos on Youtube</a>.
+      </p>
+      <h3>Other places you can find me</h3>
+      <ul>
+        <li>
+          🐦 <a href="https://twitter.com/acker_code">Follow me on Twitter</a>
+        </li>
+        <li>
+          📺 <a href="https://www.youtube.com/channel/UCERK-uaylaDOhEDn5eBGENA?sub_confirmation=1">Subscribe on Youtube</a>
+        </li>
+        <li>
+          📷 <a href="https://instagram.com/ackercode">Follow me on instagram</a>
+        </li>
+        <li>
+          📬 <a href="contato@ackercode.com">Contact-me on email</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 
