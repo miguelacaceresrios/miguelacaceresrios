@@ -3,28 +3,15 @@
 <section align="center"> 
 
 <h1> ✦ About me ✦ </h1>
-
 <p>
        Since 2012, I have been dedicated to shaping my life around video game development, a passion I’ve had since childhood. Without the necessary tools or guidance, my early learning process was challenging and unstructured, but in 2014, I began experimenting with
        various tools that enabled me to create my first projects. Over time, through trial and error, I developed better programming habits, gained valuable experience in project management, and started exploring other areas of programming. In 2023, during my
        technical studies, my dedication helped me stand out among my peers, and now I am ready to take the next step in my journey by pursuing a university degree.
 </p> <br> </br> </section>
 
+
 <!-- banner --> 
-
 [![a.webp](https://i.postimg.cc/7ZMmj0Ss/a.webp)](https://postimg.cc/pmrfF9Gz)
-
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Sobre mi   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-
-<section align="center"> 
-
-<h1> ✦ pasatiempos ✦ </h1>
-
-<p>
- 
-</p> <br> </br> </section>
-
-
 
 
 
