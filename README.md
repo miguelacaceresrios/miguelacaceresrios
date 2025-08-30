@@ -136,7 +136,7 @@
 <h1> strudel beats </h1>
 
 <p>
-prueba
+satisfaction made on strudel 
 </p>
 
 </section> 
