@@ -133,7 +133,7 @@
 
 <section align="center"> 
 
-<h1> strudel beats </h1>
+<h1> strudel beats ( ͡ᵔ ͜ʖ ͡ᵔ) </h1>
 
 <p>
 satisfaction made on strudel 
