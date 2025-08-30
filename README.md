@@ -130,3 +130,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&layout=compact&langs_count=8&theme=dark)](https://github.com/miguelacaceresrios)
 
 </div>
+
+<section align="center"> 
+
+<h1> strudel beats </h1>
+
+<p>
+prueba
+</p>
+
+</section> 
