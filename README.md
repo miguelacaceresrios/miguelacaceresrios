@@ -120,40 +120,68 @@ En 2023 destaqué en mis estudios técnicos y actualmente continúo mi formació
 
 ------------------------------------------------------------
 
+
 <section align="center">
 
-<h2> ˗ˏˋ ★ ˎˊ˗ CURSOS Y MATERIAL DE ESTUDIO ˗ˏˋ ★ ˎˊ˗ </h2>
+<h2>˗ˏˋ ★ ˎˊ˗ CURSOS Y MATERIAL DE ESTUDIO ˗ˏˋ ★ ˎˊ˗</h2>
 
-<table>
+<table align="center" width="95%" style="border-collapse:separate; border-spacing:25px; margin:auto;">
   <tr>
-    <td width="300" align="center" valign="top">
-      <a href="Nivel1">
-        <img src="https://img.shields.io/badge/Udemy-Curso_1-0078D7?style=flat-square&logo=udemy" alt="Nivel 1"/>
-      </a>
-      <br><br>
-      <b>Introducción a SQL</b>
-      <p>Curso básico de SQL desde cero. Duración: 15 horas.</p>
+    <!-- Curso 1 -->
+    <td width="300" align="center" valign="top" style="background:#0d0d0d; border:1px solid #222; border-radius:10px; padding:16px; vertical-align:top;">
+      <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp"
+           alt="Curso SQL Básico"
+           width="260" height="145"
+           style="object-fit:cover; border-radius:8px; box-shadow:0 0 8px rgba(255,255,255,0.05); margin-bottom:10px;">
+      <b style="color:#fff;">Introducción a SQL</b>
+      <div style="color:#ccc; font-size:14px; line-height:1.4; height:60px; display:flex; align-items:center; justify-content:center; text-align:center; margin:8px 0;">
+        Curso básico de SQL desde cero. <br> Duración: 15 horas.
+      </div>
+      <p align="center" style="margin-top:15px;">
+        <a href="https://udemy.com/curso-sql-basico" target="_blank">
+          <img src="https://img.shields.io/badge/Comprar_Curso-228B22?style=for-the-badge&logo=Udemy&logoColor=white" alt="Comprar Curso">
+        </a>
+      </p>
     </td>
-    <td width="300" align="center" valign="top">
-      <a href="ENLACE_CURSO_2">
-        <img src="https://img.shields.io/badge/Udemy-Curso_2-228B22?style=flat-square&logo=udemy" alt="Nivel 2"/>
-      </a>
-      <br><br>
-      <b>SQL Intermedio</b>
-      <p>Consultas relacionales, claves foráneas y optimización. Duración: 30 horas.</p>
+    <!-- Curso 2 -->
+    <td width="300" align="center" valign="top" style="background:#0d0d0d; border:1px solid #222; border-radius:10px; padding:16px; vertical-align:top;">
+      <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp"
+           alt="Curso SQL Intermedio"
+           width="260" height="145"
+           style="object-fit:cover; border-radius:8px; box-shadow:0 0 8px rgba(255,255,255,0.05); margin-bottom:10px;">
+      <b style="color:#fff;">SQL Intermedio</b>
+      <div style="color:#ccc; font-size:14px; line-height:1.4; height:60px; display:flex; align-items:center; justify-content:center; text-align:center; margin:8px 0;">
+        Consultas relacionales, claves foráneas y optimización. <br> Duración: 30 horas.
+      </div>
+      <p align="center" style="margin-top:15px;">
+        <a href="https://udemy.com/curso-sql-intermedio" target="_blank">
+          <img src="https://img.shields.io/badge/Comprar_Curso-228B22?style=for-the-badge&logo=Udemy&logoColor=white" alt="Comprar Curso">
+        </a>
+      </p>
     </td>
-    <td width="300" align="center" valign="top">
-      <a href="ENLACE_CURSO_3">
-        <img src="https://img.shields.io/badge/Udemy-Curso_3-800080?style=flat-square&logo=udemy" alt="Nivel 3"/>
-      </a>
-      <br><br>
-      <b>SQL Avanzado</b>
-      <p>Diseño de bases de datos y administración avanzada. Duración: 50 horas.</p>
+    <!-- Curso 3 -->
+    <td width="300" align="center" valign="top" style="background:#0d0d0d; border:1px solid #222; border-radius:10px; padding:16px; vertical-align:top;">
+      <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp"
+           alt="Curso SQL Avanzado"
+           width="260" height="145"
+           style="object-fit:cover; border-radius:8px; box-shadow:0 0 8px rgba(255,255,255,0.05); margin-bottom:10px;">
+      <b style="color:#fff;">SQL Avanzado</b>
+      <div style="color:#ccc; font-size:14px; line-height:1.4; height:60px; display:flex; align-items:center; justify-content:center; text-align:center; margin:8px 0;">
+        Diseño de bases de datos y administración avanzada. <br> Duración: 50 horas.
+      </div>
+      <p align="center" style="margin-top:15px;">
+        <a href="https://udemy.com/curso-sql-avanzado" target="_blank">
+          <img src="https://img.shields.io/badge/Comprar_Curso-228B22?style=for-the-badge&logo=Udemy&logoColor=white" alt="Comprar Curso">
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 </section>
+
+
+
 
 ------------------------------------------------------------
 
@@ -245,47 +273,124 @@ En su silencio vive la fuerza de quien defiende sin rencor.”</i>
 
 ------------------------------------------------------------
 
+<section align="center">
 
-<h2 align="center">Proyectos en Desarrollo</h2>
+<h2 style="font-size:1.8em; letter-spacing:1px; color:#fff; text-shadow:0 0 8px #00eaff;">
+⭐ Proyectos Favoritos
+</h2>
 
-<table align="center">
-<tr>
-<td align="center" width="200">
-
-🧩  
-<b>Proyecto I</b>  
-<sub><i>En planificación</i></sub>  
-<br><br>
-<code>concepto reservado</code>
-
-</td>
-<td align="center" width="200">
-
-🎮  
-<b>Proyecto II</b>  
-<sub><i>Prototipo</i></sub>  
-<br><br>
-<code>engine modular</code>
-
-</td>
-<td align="center" width="200">
-
-⚙️  
-<b>Proyecto III</b>  
-<sub><i>Investigación</i></sub>  
-<br><br>
-<code>IA procedural</code>
-
-</td>
-<td align="center" width="200">
-
-🌌  
-<b>Proyecto IV</b>  
-<sub><i>En espera</i></sub>  
-<br><br>
-<code>isometric systems</code>
-
-</td>
-</tr>
+<!-- ====== PROYECTO 1 ====== -->
+<table align="center" width="95%" style="border-collapse:separate; border-spacing:20px; margin:auto; margin-bottom:40px;">
+  <tr valign="middle">
+    <!-- Concepto -->
+    <td width="33%" align="left" style="color:#ccc; font-size:14px; line-height:1.6;">
+      <h3 style="color:#00ffff;">ND Project</h3>
+      <p>
+        Proyecto experimental centrado en simulaciones isométricas reactivas.  
+        Su objetivo es explorar la evolución de entornos virtuales con IA adaptativa y sistemas vivos.
+      </p>
+      <p style="color:#00eaff; font-style:italic;">“Donde el código y la naturaleza se encuentran.”</p>
+    </td>
+    <!-- Imagen Central -->
+    <td width="33%" align="center">
+      <div style="width:220px; height:220px; 
+                  background:radial-gradient(circle at 30% 30%, #0ff, #003d4d);
+                  border-radius:50%;
+                  overflow:hidden;
+                  box-shadow:0 0 25px rgba(0,255,255,0.25), inset 0 0 30px rgba(0,255,255,0.1);
+                  display:flex; align-items:center; justify-content:center; margin:auto;">
+        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp"
+             width="200" height="200" alt="ND Project"
+             style="border-radius:50%; object-fit:cover; filter:brightness(1.1) contrast(1.1);">
+      </div>
+      <p style="margin-top:10px; color:#9beefc; font-size:13px; font-style:italic;">Simulación reactiva</p>
+    </td>
+    <!-- Funciones -->
+    <td width="33%" align="left" style="color:#ccc; font-size:14px; line-height:1.6;">
+      <h3 style="color:#00ffff;">Funciones</h3>
+      <ul style="list-style-type: '✦ '; padding-left:15px;">
+        <li>IA ambiental y comportamiento emergente.</li>
+        <li>Shaders reactivos al sonido y movimiento.</li>
+        <li>Entorno orgánico en evolución constante.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
+
+<!-- ====== PROYECTO 2 ====== -->
+<table align="center" width="95%" style="border-collapse:separate; border-spacing:20px; margin:auto; margin-bottom:40px;">
+  <tr valign="middle">
+    <td width="33%" align="left" style="color:#ccc; font-size:14px; line-height:1.6;">
+      <h3 style="color:#d977ff;">Engine Modular</h3>
+      <p>
+        Motor interno diseñado para crear experiencias isométricas flexibles.  
+        Su enfoque se basa en la personalización extrema y la estabilidad técnica.
+      </p>
+      <p style="color:#d977ff; font-style:italic;">“Una base sólida para mundos imposibles.”</p>
+    </td>
+    <td width="33%" align="center">
+      <div style="width:220px; height:220px; 
+                  background:radial-gradient(circle at 30% 30%, #b400ff, #300047);
+                  border-radius:50%;
+                  overflow:hidden;
+                  box-shadow:0 0 25px rgba(186,85,255,0.25), inset 0 0 30px rgba(186,85,255,0.1);
+                  display:flex; align-items:center; justify-content:center; margin:auto;">
+        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp"
+             width="200" height="200" alt="Engine Modular"
+             style="border-radius:50%; object-fit:cover; filter:brightness(1.1) contrast(1.1);">
+      </div>
+      <p style="margin-top:10px; color:#e3caff; font-size:13px; font-style:italic;">Herramienta técnica</p>
+    </td>
+    <td width="33%" align="left" style="color:#ccc; font-size:14px; line-height:1.6;">
+      <h3 style="color:#d977ff;">Funciones</h3>
+      <ul style="list-style-type: '✦ '; padding-left:15px;">
+        <li>Arquitectura modular escalable.</li>
+        <li>Integración nativa con motores gráficos.</li>
+        <li>IA simbólica para adaptabilidad de entorno.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- ====== PROYECTO 3 ====== -->
+<table align="center" width="95%" style="border-collapse:separate; border-spacing:20px; margin:auto; margin-bottom:40px;">
+  <tr valign="middle">
+    <td width="33%" align="left" style="color:#ccc; font-size:14px; line-height:1.6;">
+      <h3 style="color:#00ff9d;">IA Procedural</h3>
+      <p>
+        Proyecto de investigación centrado en generación procedural de comportamiento.  
+        Combina IA contextual con algoritmos no deterministas para crear experiencias únicas.
+      </p>
+      <p style="color:#00ff9d; font-style:italic;">“Nada se repite, todo evoluciona.”</p>
+    </td>
+    <td width="33%" align="center">
+      <div style="width:220px; height:220px; 
+                  background:radial-gradient(circle at 30% 30%, #00ff9d, #003d29);
+                  border-radius:50%;
+                  overflow:hidden;
+                  box-shadow:0 0 25px rgba(0,255,127,0.25), inset 0 0 30px rgba(0,255,127,0.1);
+                  display:flex; align-items:center; justify-content:center; margin:auto;">
+        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp"
+             width="200" height="200" alt="IA Procedural"
+             style="border-radius:50%; object-fit:cover; filter:brightness(1.1) contrast(1.1);">
+      </div>
+      <p style="margin-top:10px; color:#b8ffd7; font-size:13px; font-style:italic;">Investigación avanzada</p>
+    </td>
+    <td width="33%" align="left" style="color:#ccc; font-size:14px; line-height:1.6;">
+      <h3 style="color:#00ff9d;">Funciones</h3>
+      <ul style="list-style-type: '✦ '; padding-left:15px;">
+        <li>Comportamientos emergentes autoorganizados.</li>
+        <li>Adaptación en tiempo real al entorno del jugador.</li>
+        <li>Uso de datos aleatorios controlados (noise maps).</li>
+      </ul>
+    </td>
+
+  </tr>
+</table>
+
+</section>
+
+
+
+
 
