@@ -431,47 +431,65 @@ $$  __$$ |$$ |$$ | $$ | $$ |$$  __$$ |$$ |    \$$\  $$\   $$ |
 <section align="center">
 
 <h2 style="font-size:1.8em; letter-spacing:1px; color:#fff; text-shadow:0 0 8px #00eaff;">
-🎮 Fan Games & Experimentos
+🎮 Fan Games & Referencias Visuales
 </h2>
 
-<table align="center" width="95%" style="border-collapse:separate; border-spacing:20px; margin:auto;">
+<table align="center" width="95%" style="border-collapse:separate; border-spacing:20px; margin:auto; margin-bottom:25px;">
   <tr valign="middle">
-    <!-- TEXTO IZQUIERDO -->
-    <td width="25%" align="left" style="background:#0d0d0d; border:1px solid #222; border-radius:10px; padding:18px;">
-      <h3 style="color:#00eaff;">Pokémon: Broken Bonds</h3>
-      <p style="color:#ccc; font-size:13px; line-height:1.5;">
-        Un fan game sobre <b>aprender a soltar</b>.  
-        Explora el duelo y los vínculos rotos como una experiencia emocional,  
-        más íntima que competitiva.
-      </p>
-    </td>
-    <!-- IMAGEN 1 -->
-    <td width="25%" align="center">
-      <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp"
-           alt="Pokémon Broken Bonds"
-           width="200" height="130"
-           style="border-radius:8px; object-fit:cover; box-shadow:0 0 10px #000;">
-    </td>
-    <!-- IMAGEN 2 -->
-    <td width="25%" align="center">
-      <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp"
-           alt="In Mind We Trust"
-           width="200" height="130"
-           style="border-radius:8px; object-fit:cover; box-shadow:0 0 10px #000;">
-    </td>
-    <!-- TEXTO DERECHO -->
-    <td width="25%" align="left" style="background:#0d0d0d; border:1px solid #222; border-radius:10px; padding:18px;">
+    <!-- TEXTO IZQUIERDA -->
+    <td width="30%" align="left" style="background:#0d0d0d; border:1px solid #222; border-radius:10px; padding:18px;">
       <h3 style="color:#ff6ec7;">In Mind We Trust</h3>
       <p style="color:#ccc; font-size:13px; line-height:1.5;">
-        Un <b>bullet hell psicológico</b> inspirado en <b>Touhou</b> y <b>Koishi Komeiji</b>.  
-        Los pensamientos son proyectiles y la introspección, tu único refugio.
+        Fan game introspectivo inspirado en <b>Touhou</b> y <b>Koishi Komeiji</b>.  
+        Una exploración de la mente humana y sus fracturas:  
+        pensamientos como proyectiles, emociones como laberintos.  
+        “No hay miedo ni emoción, solo el eco de lo que alguna vez sentimos”.
       </p>
     </td>
+    <!-- GIF KOISHI -->
+    <td width="20%" align="center">
+      <img src="https://tenor.com/es/view/koishi-komeiji-koishi-komeiji-touhou-pixel-gif-23298696"
+           alt="Koishi Komeiji GIF"
+           width="220" height="140"
+           style="border-radius:8px; object-fit:cover; box-shadow:0 0 10px #000;">
+    </td>
+    <!-- GIF GARCHOMP -->
+    <td width="20%" align="center">
+      <img src="https://media.tenor.com/h89OS7cfz8UAAAAd/garchomp-pok%C3%A9mon-pok%C3%A9mon-garchomp.gif"
+           alt="Garchomp Pokémon GIF"
+           width="220" height="140"
+           style="border-radius:8px; object-fit:cover; box-shadow:0 0 10px #000;">
+    </td>
+    <!-- TEXTO DERECHA -->
+    <td width="30%" align="left" style="background:#0d0d0d; border:1px solid #222; border-radius:10px; padding:18px;">
+      <h3 style="color:#00eaff;">Pokémon: Broken Bonds</h3>
+      <p style="color:#ccc; font-size:13px; line-height:1.5;">
+        Una reinterpretación emocional del universo <b>Pokémon</b>,  
+        centrada en el vínculo, la pérdida y la aceptación.  
+        No busca ganar, sino comprender: soltar con amor lo que ya no puede quedarse.  
+        “No se gana ni se pierde. Solo se sigue caminando”.
+      </p>
+    </td>
+  </tr>
+</table>
 
+<!-- ====== AVISO LEGAL / DESCARGO ====== -->
+<table align="center" width="85%" style="border-collapse:separate; border-spacing:10px; margin:auto; margin-top:25px;">
+  <tr>
+    <td align="center" style="background:#0d0d0d; border:1px solid #333; border-radius:10px; padding:16px;">
+      <p style="color:#ccc; font-size:13px; line-height:1.6;">
+        ⚠️ <b>Aviso importante:</b><br>
+        Los GIFs mostrados son <b>referencias visuales temporales</b> y no forman parte del producto final.  
+        Se incluyen únicamente con fines de referencia artística y educativa.  
+        <b>In Mind We Trust</b> es una obra de fans inspirada en <b>Touhou Project</b>  
+        (© Team Shanghai Alice – ZUN), mientras que <b>Pokémon: Broken Bonds</b>  
+        rinde homenaje al universo <b>Pokémon</b> (© Nintendo / Game Freak / The Pokémon Company).  
+        No hay fines comerciales, solo amor al arte y respeto a las obras originales.
+      </p>
+    </td>
   </tr>
 </table>
 
 </section>
-
 
 
