@@ -340,7 +340,7 @@ $$  __$$ |$$ |$$ | $$ | $$ |$$  __$$ |$$ |    \$$\  $$\   $$ |
         <li>Geolocalización compartida en tiempo real.</li>
         <li>Planes según distancia e intereses.</li>
         <li>Sistema de swipe y “match”.</li>
-        <li>React Native + Node.js + Firebase.</li>
+        <li>React Native + Node.js </li>
       </ul>
     </td>
   </tr>
