@@ -332,7 +332,7 @@ $$  __$$ |$$ |$$ | $$ | $$ |$$  __$$ |$$ |    \$$\  $$\   $$ |
 \$$$$$$$ |$$ |$$ | $$ | $$ |\$$$$$$$ |$$ |     \$$\ \$$$$$$  |
  \_______|\__|\__| \__| \__| \_______|\__|      \__| \______/  
       </pre>
-      <p style="color:#ffbde9; font-size:13px; font-style:italic;">App de citas inteligente</p>
+      <p style="color:#ffbde9; font-size:13px; font-style:italic;">App para citas inteligente</p>
     </td>
     <td width="33%" align="left" style="color:#ccc;">
       <h3 style="color:#ff6ec7;">Funciones</h3>
