@@ -275,122 +275,154 @@ En su silencio vive la fuerza de quien defiende sin rencor.”</i>
 
 <section align="center">
 
-<h2 style="font-size:1.8em; letter-spacing:1px; color:#fff; text-shadow:0 0 8px #00eaff;">
-⭐ Proyectos Favoritos
-</h2>
+<h1 style="font-size:1.8em; letter-spacing:1px; color:#fff; text-shadow:0 0 8px #00eaff;">
+ Proyectos favoritos
+</h1>
 
-<!-- ====== PROYECTO 1 ====== -->
+<!-- ====== PROYECTO 1: OJO DE SAURON ====== -->
 <table align="center" width="95%" style="border-collapse:separate; border-spacing:20px; margin:auto; margin-bottom:40px;">
   <tr valign="middle">
-    <!-- Concepto -->
     <td width="33%" align="left" style="color:#ccc; font-size:14px; line-height:1.6;">
-      <h3 style="color:#00ffff;">ND Project</h3>
+      <h3 style="color:#ff4040;">Ojo de Sauron</h3>
       <p>
-        Proyecto experimental centrado en simulaciones isométricas reactivas.  
-        Su objetivo es explorar la evolución de entornos virtuales con IA adaptativa y sistemas vivos.
+        Sistema de registro visual que actúa como un <b>screen logger</b> para análisis local.  
+        Permite capturar y monitorear actividad de pantalla en tiempo real con gestión de logs.
       </p>
-      <p style="color:#00eaff; font-style:italic;">“Donde el código y la naturaleza se encuentran.”</p>
+      <p style="color:#ff4040; font-style:italic;">“Nada escapa a su mirada.”</p>
+      <p>
+        <a href="https://github.com/miguelacaceresrios/ojo-de-sauron" target="_blank">
+          <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
+        </a>
+      </p>
     </td>
-    <!-- Imagen Central -->
+    <!-- ASCII CENTRAL -->
     <td width="33%" align="center">
-      <div style="width:220px; height:220px; 
-                  background:radial-gradient(circle at 30% 30%, #0ff, #003d4d);
-                  border-radius:50%;
-                  overflow:hidden;
-                  box-shadow:0 0 25px rgba(0,255,255,0.25), inset 0 0 30px rgba(0,255,255,0.1);
-                  display:flex; align-items:center; justify-content:center; margin:auto;">
-        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp"
-             width="200" height="200" alt="ND Project"
-             style="border-radius:50%; object-fit:cover; filter:brightness(1.1) contrast(1.1);">
-      </div>
-      <p style="margin-top:10px; color:#9beefc; font-size:13px; font-style:italic;">Simulación reactiva</p>
+      <pre style="background:#0a0a0a;color:#ff4040;padding:14px;border-radius:10px;
+      font-family:'Courier New',monospace;font-size:13px;line-height:1.2;white-space:pre;">
+    .:          .::.          -     
+    -:     :::--=+==:-:::     -:    
+    =:..::::+===*%#*==++::-:..::    
+    =:::::===-=:%@@#====+=::-:-:    
+   .+=*=:-=--=*=@@@%*+=-=-:-+*==    
+   .====::*=-=--@@@@:-=-=#::+=-+    
+   :==:+**-===+*%@@#*=====%%+-=+.   
+   :==:=:+*++=+**%%**+=++##*=-=+:   
+   -*-=-=.  -*#%****%##++***-==*-   
+   =*+===-      :=-:.  :=**===+*=   
+  .**++====:           :*+-==++#*   
+  .*%#*+==-+=.   ==.  :+=-+=*+#%*.  
+:::#%**+*=====:.:%%-:=*=+++**#%@#:. 
+=+:%@%#**+*====+*#%**=+++#***%@@%:=:
++#=%@%%%##%**+**%%%%****###%%@@@%=*:
+*%@@@@@@%%@***#%%%%%%%##%@%@@@@@@%%=
+-%@@@@@@@@@%%%%%@%@@%@@@@@@@@@@@@@%:
+ +%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%= 
+  :*%%@@%@@@@@@@@@@@@@%%%%%%@@%%*:  
+       :+*##%%%%%%%%%%##**+=:       
+  </pre>
+      <p style="margin-top:10px; color:#ffcaca; font-size:13px; font-style:italic;">Screen Logger</p>
     </td>
-    <!-- Funciones -->
     <td width="33%" align="left" style="color:#ccc; font-size:14px; line-height:1.6;">
-      <h3 style="color:#00ffff;">Funciones</h3>
+      <h3 style="color:#ff4040;">Funciones</h3>
       <ul style="list-style-type: '✦ '; padding-left:15px;">
-        <li>IA ambiental y comportamiento emergente.</li>
-        <li>Shaders reactivos al sonido y movimiento.</li>
-        <li>Entorno orgánico en evolución constante.</li>
+        <li>Captura periódica de pantalla con control.</li>
+        <li>Registro local en base de datos SQLite.</li>
+        <li>Análisis y almacenamiento de sesiones.</li>
+        <li>Python + OpenCV + PyAutoGUI.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<!-- ====== PROYECTO 2 ====== -->
+<!-- ====== PROYECTO 2: VOXCHA ====== -->
 <table align="center" width="95%" style="border-collapse:separate; border-spacing:20px; margin:auto; margin-bottom:40px;">
   <tr valign="middle">
     <td width="33%" align="left" style="color:#ccc; font-size:14px; line-height:1.6;">
-      <h3 style="color:#d977ff;">Engine Modular</h3>
+      <h3 style="color:#00bfff;">Voxcha</h3>
       <p>
-        Motor interno diseñado para crear experiencias isométricas flexibles.  
-        Su enfoque se basa en la personalización extrema y la estabilidad técnica.
+        Aplicación de comunicación en tiempo real inspirada en Discord.  
+        Permite crear grupos, agregar amigos, chatear y realizar llamadas de voz o video mediante WebRTC.
       </p>
-      <p style="color:#d977ff; font-style:italic;">“Una base sólida para mundos imposibles.”</p>
+      <p style="color:#00bfff; font-style:italic;">“Habla, crea y conecta sin límites.”</p>
+      <p>
+        <a href="https://github.com/miguelacaceresrios/Voxcha" target="_blank">
+          <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
+        </a>
+      </p>
     </td>
+    <!-- ASCII CENTRAL -->
     <td width="33%" align="center">
-      <div style="width:220px; height:220px; 
-                  background:radial-gradient(circle at 30% 30%, #b400ff, #300047);
-                  border-radius:50%;
-                  overflow:hidden;
-                  box-shadow:0 0 25px rgba(186,85,255,0.25), inset 0 0 30px rgba(186,85,255,0.1);
-                  display:flex; align-items:center; justify-content:center; margin:auto;">
-        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp"
-             width="200" height="200" alt="Engine Modular"
-             style="border-radius:50%; object-fit:cover; filter:brightness(1.1) contrast(1.1);">
-      </div>
-      <p style="margin-top:10px; color:#e3caff; font-size:13px; font-style:italic;">Herramienta técnica</p>
+      <pre style="background:#0a0a0a;color:#00bfff;padding:14px;border-radius:10px;
+      font-family:'Courier New',monospace;font-size:13px;line-height:1.2;white-space:pre;">
+                                         $$\                 
+                                         $$ |                
+$$\    $$\  $$$$$$\  $$\   $$\  $$$$$$$\ $$$$$$$\   $$$$$$\  
+\$$\  $$  |$$  __$$\ \$$\ $$  |$$  _____|$$  __$$\  \____$$\ 
+ \$$\$$  / $$ /  $$ | \$$$$  / $$ /      $$ |  $$ | $$$$$$$ |
+  \$$$  /  $$ |  $$ | $$  $$<  $$ |      $$ |  $$ |$$  __$$ |
+   \$  /   \$$$$$$  |$$  /\$$\ \$$$$$$$\ $$ |  $$ |\$$$$$$$ |
+    \_/     \______/ \__/  \__| \_______|\__|  \__| \_______| 
+    
+  </pre>
+      <p style="margin-top:10px; color:#9beefc; font-size:13px; font-style:italic;">App de comunicación</p>
     </td>
     <td width="33%" align="left" style="color:#ccc; font-size:14px; line-height:1.6;">
-      <h3 style="color:#d977ff;">Funciones</h3>
+      <h3 style="color:#00bfff;">Funciones</h3>
       <ul style="list-style-type: '✦ '; padding-left:15px;">
-        <li>Arquitectura modular escalable.</li>
-        <li>Integración nativa con motores gráficos.</li>
-        <li>IA simbólica para adaptabilidad de entorno.</li>
+        <li>Chat y mensajería en tiempo real (Socket.io).</li>
+        <li>Grupos, canales y sistema de amigos.</li>
+        <li>Llamadas de voz y video (WebRTC).</li>
+        <li>Frontend Tauri + React + Tailwind.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<!-- ====== PROYECTO 3 ====== -->
+
+<!-- ====== PROYECTO 3: AIMAI ====== -->
 <table align="center" width="95%" style="border-collapse:separate; border-spacing:20px; margin:auto; margin-bottom:40px;">
   <tr valign="middle">
     <td width="33%" align="left" style="color:#ccc; font-size:14px; line-height:1.6;">
-      <h3 style="color:#00ff9d;">IA Procedural</h3>
+      <h3 style="color:#ff6ec7;">Aimai</h3>
       <p>
-        Proyecto de investigación centrado en generación procedural de comportamiento.  
-        Combina IA contextual con algoritmos no deterministas para crear experiencias únicas.
+        Aplicación móvil de <b>citas para parejas</b> que recomienda planes cercanos según la ubicación compartida.  
+        Su interfaz tipo Tinder permite hacer “match” en ideas que interesen a ambos.
       </p>
-      <p style="color:#00ff9d; font-style:italic;">“Nada se repite, todo evoluciona.”</p>
+      <p style="color:#ff6ec7; font-style:italic;">“El amor se programa... y se comparte.”</p>
+      <p>
+        <a href="https://github.com/miguelacaceresrios/Aimai" target="_blank">
+          <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
+        </a>
+      </p>
     </td>
+    <!-- ASCII CENTRAL -->
     <td width="33%" align="center">
-      <div style="width:220px; height:220px; 
-                  background:radial-gradient(circle at 30% 30%, #00ff9d, #003d29);
-                  border-radius:50%;
-                  overflow:hidden;
-                  box-shadow:0 0 25px rgba(0,255,127,0.25), inset 0 0 30px rgba(0,255,127,0.1);
-                  display:flex; align-items:center; justify-content:center; margin:auto;">
-        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp"
-             width="200" height="200" alt="IA Procedural"
-             style="border-radius:50%; object-fit:cover; filter:brightness(1.1) contrast(1.1);">
-      </div>
-      <p style="margin-top:10px; color:#b8ffd7; font-size:13px; font-style:italic;">Investigación avanzada</p>
+      <pre style="background:#0a0a0a;color:#ff6ec7;padding:14px;border-radius:10px;
+      font-family:'Courier New',monospace;font-size:13px;line-height:1.2;white-space:pre;">
+          $$\                         $$\          $$\  $$$$$$\  
+          \__|                        \__|        $$  |$$ ___$$\ 
+ $$$$$$\  $$\ $$$$$$\$$$$\   $$$$$$\  $$\        $$  / \_/   $$ |
+ \____$$\ $$ |$$  _$$  _$$\  \____$$\ $$ |      $$  /    $$$$$ / 
+ $$$$$$$ |$$ |$$ / $$ / $$ | $$$$$$$ |$$ |      \$$<     \___$$\ 
+$$  __$$ |$$ |$$ | $$ | $$ |$$  __$$ |$$ |       \$$\  $$\   $$ |
+\$$$$$$$ |$$ |$$ | $$ | $$ |\$$$$$$$ |$$ |        \$$\ \$$$$$$  |
+ \_______|\__|\__| \__| \__| \_______|\__|         \__| \______/  
+   
+ </pre>
+      <p style="margin-top:10px; color:#ffbde9; font-size:13px; font-style:italic;">App de citas inteligente</p>
     </td>
     <td width="33%" align="left" style="color:#ccc; font-size:14px; line-height:1.6;">
-      <h3 style="color:#00ff9d;">Funciones</h3>
+      <h3 style="color:#ff6ec7;">Funciones</h3>
       <ul style="list-style-type: '✦ '; padding-left:15px;">
-        <li>Comportamientos emergentes autoorganizados.</li>
-        <li>Adaptación en tiempo real al entorno del jugador.</li>
-        <li>Uso de datos aleatorios controlados (noise maps).</li>
+        <li>Geolocalización en tiempo real compartida.</li>
+        <li>Recomendaciones de planes según distancia.</li>
+        <li>Sistema de swipe y “match” en pareja.</li>
+        <li>React Native + Node.js + Firebase.</li>
       </ul>
     </td>
-
   </tr>
 </table>
 
 </section>
-
-
-
 
 
