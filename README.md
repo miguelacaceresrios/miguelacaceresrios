@@ -427,7 +427,6 @@ $$  __$$ |$$ |$$ | $$ | $$ |$$  __$$ |$$ |    \$$\  $$\   $$ |
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-
 <section align="center">
 
 <h2 style="font-size:1.8em; letter-spacing:1px; color:#fff; text-shadow:0 0 8px #00eaff;">
@@ -437,37 +436,37 @@ $$  __$$ |$$ |$$ | $$ | $$ |$$  __$$ |$$ |    \$$\  $$\   $$ |
 <table align="center" width="95%" style="border-collapse:separate; border-spacing:20px; margin:auto; margin-bottom:25px;">
   <tr valign="middle">
     <!-- TEXTO IZQUIERDA -->
-    <td width="30%" align="left" style="background:#0d0d0d; border:1px solid #222; border-radius:10px; padding:18px;">
+    <td width="30%" align="left" style="background:#0d0d0d; border:1px solid #222; border-radius:10px; padding:18px; vertical-align:middle;">
       <h3 style="color:#ff6ec7;">In Mind We Trust</h3>
       <p style="color:#ccc; font-size:13px; line-height:1.5;">
         Fan game introspectivo inspirado en <b>Touhou</b> y <b>Koishi Komeiji</b>.  
-        Una exploración de la mente humana y sus fracturas:  
-        pensamientos como proyectiles, emociones como laberintos.  
-        “No hay miedo ni emoción, solo el eco de lo que alguna vez sentimos”.
+        Una exploración del inconsciente: pensamientos que colisionan como balas,  
+        emociones convertidas en ruido visual.  
+        “No hay miedo ni emoción, solo el eco de lo que alguna vez sentimos.”
       </p>
     </td>
     <!-- GIF KOISHI -->
-    <td width="20%" align="center">
-      <img src="https://tenor.com/es/view/koishi-komeiji-koishi-komeiji-touhou-pixel-gif-23298696"
+    <td width="20%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/gifs/koishi-komeiji.gif"
            alt="Koishi Komeiji GIF"
            width="220" height="140"
-           style="border-radius:8px; object-fit:cover; box-shadow:0 0 10px #000;">
+           style="border-radius:10px; object-fit:cover; box-shadow:0 0 12px #000;">
     </td>
-    <!-- GIF GARCHOMP -->
-    <td width="20%" align="center">
-      <img src="https://media.tenor.com/h89OS7cfz8UAAAAd/garchomp-pok%C3%A9mon-pok%C3%A9mon-garchomp.gif"
-           alt="Garchomp Pokémon GIF"
+    <!-- GIF LUDICOLO -->
+    <td width="20%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/gifs/png-ludicolo-dance.gif"
+           alt="Ludicolo Pokémon GIF"
            width="220" height="140"
-           style="border-radius:8px; object-fit:cover; box-shadow:0 0 10px #000;">
+           style="border-radius:10px; object-fit:cover; box-shadow:0 0 12px #000;">
     </td>
     <!-- TEXTO DERECHA -->
-    <td width="30%" align="left" style="background:#0d0d0d; border:1px solid #222; border-radius:10px; padding:18px;">
+    <td width="30%" align="left" style="background:#0d0d0d; border:1px solid #222; border-radius:10px; padding:18px; vertical-align:middle;">
       <h3 style="color:#00eaff;">Pokémon: Broken Bonds</h3>
       <p style="color:#ccc; font-size:13px; line-height:1.5;">
         Una reinterpretación emocional del universo <b>Pokémon</b>,  
         centrada en el vínculo, la pérdida y la aceptación.  
         No busca ganar, sino comprender: soltar con amor lo que ya no puede quedarse.  
-        “No se gana ni se pierde. Solo se sigue caminando”.
+        “No se gana ni se pierde. Solo se sigue caminando.”
       </p>
     </td>
   </tr>
@@ -484,12 +483,14 @@ $$  __$$ |$$ |$$ | $$ | $$ |$$  __$$ |$$ |    \$$\  $$\   $$ |
         <b>In Mind We Trust</b> es una obra de fans inspirada en <b>Touhou Project</b>  
         (© Team Shanghai Alice – ZUN), mientras que <b>Pokémon: Broken Bonds</b>  
         rinde homenaje al universo <b>Pokémon</b> (© Nintendo / Game Freak / The Pokémon Company).  
-        No hay fines comerciales, solo amor al arte y respeto a las obras originales.
+        No hay fines comerciales, solo amor al arte y respeto a las obras originales.  
+        Los GIFs alojados en este repositorio se utilizan exclusivamente como elementos temporales de referencia.
       </p>
     </td>
   </tr>
 </table>
 
 </section>
+
 
 
