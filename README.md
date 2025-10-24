@@ -191,7 +191,7 @@ En 2023 destaqué en mis estudios técnicos y actualmente continúo mi formació
   <tr>
     <td align="center" width="260">
       <a href="https://www.linkedin.com/pulse/4chan-y-el-d%C3%ADa-que-anonimato-fall%C3%B3-ciberataque-una-caceres-rios-hmi8e">
-        <img src="https://media.licdn.com/dms/image/v2/D4E12AQEU3zhi50nEiQ/article-cover_image-shrink_720_1280/B4EZZzJ.AZHcAI-/0/1745688717176?e=1761177600&v=beta&t=qaFcBCKjCP_w1WMzpj5SOxR3Z5Qi_2hAmbI6ioBMzTk" alt="Artículo 4chan" width="230" style="border-radius:10px;">
+        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/1745688717176.webp" lt="Artículo 4chan" width="230" style="border-radius:10px;">
       </a>
     </td>
     <td valign="top">
