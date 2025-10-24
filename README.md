@@ -399,14 +399,14 @@ $$\    $$\  $$$$$$\  $$\   $$\  $$$$$$$\ $$$$$$$\   $$$$$$\
     <td width="33%" align="center">
       <pre style="background:#0a0a0a;color:#ff6ec7;padding:14px;border-radius:10px;
       font-family:'Courier New',monospace;font-size:13px;line-height:1.2;white-space:pre;">
-          $$\                         $$\          $$\  $$$$$$\  
-          \__|                        \__|        $$  |$$ ___$$\ 
- $$$$$$\  $$\ $$$$$$\$$$$\   $$$$$$\  $$\        $$  / \_/   $$ |
- \____$$\ $$ |$$  _$$  _$$\  \____$$\ $$ |      $$  /    $$$$$ / 
- $$$$$$$ |$$ |$$ / $$ / $$ | $$$$$$$ |$$ |      \$$<     \___$$\ 
-$$  __$$ |$$ |$$ | $$ | $$ |$$  __$$ |$$ |       \$$\  $$\   $$ |
-\$$$$$$$ |$$ |$$ | $$ | $$ |\$$$$$$$ |$$ |        \$$\ \$$$$$$  |
- \_______|\__|\__| \__| \__| \_______|\__|         \__| \______/  
+          $$\                         $$\       $$\  $$$$$$\  
+          \__|                        \__|     $$  |$$ ___$$\ 
+ $$$$$$\  $$\ $$$$$$\$$$$\   $$$$$$\  $$\     $$  / \_/   $$ |
+ \____$$\ $$ |$$  _$$  _$$\  \____$$\ $$ |   $$  /    $$$$$ / 
+ $$$$$$$ |$$ |$$ / $$ / $$ | $$$$$$$ |$$ |   \$$<     \___$$\ 
+$$  __$$ |$$ |$$ | $$ | $$ |$$  __$$ |$$ |    \$$\  $$\   $$ |
+\$$$$$$$ |$$ |$$ | $$ | $$ |\$$$$$$$ |$$ |     \$$\ \$$$$$$  |
+ \_______|\__|\__| \__| \__| \_______|\__|      \__| \______/  
    
  </pre>
       <p style="margin-top:10px; color:#ffbde9; font-size:13px; font-style:italic;">App de citas inteligente</p>
@@ -424,5 +424,54 @@ $$  __$$ |$$ |$$ | $$ | $$ |$$  __$$ |$$ |       \$$\  $$\   $$ |
 </table>
 
 </section>
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<section align="center">
+
+<h2 style="font-size:1.8em; letter-spacing:1px; color:#fff; text-shadow:0 0 8px #00eaff;">
+🎮 Fan Games & Experimentos
+</h2>
+
+<table align="center" width="95%" style="border-collapse:separate; border-spacing:20px; margin:auto;">
+  <tr valign="middle">
+    <!-- TEXTO IZQUIERDO -->
+    <td width="25%" align="left" style="background:#0d0d0d; border:1px solid #222; border-radius:10px; padding:18px;">
+      <h3 style="color:#00eaff;">Pokémon: Broken Bonds</h3>
+      <p style="color:#ccc; font-size:13px; line-height:1.5;">
+        Un fan game sobre <b>aprender a soltar</b>.  
+        Explora el duelo y los vínculos rotos como una experiencia emocional,  
+        más íntima que competitiva.
+      </p>
+    </td>
+    <!-- IMAGEN 1 -->
+    <td width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp"
+           alt="Pokémon Broken Bonds"
+           width="200" height="130"
+           style="border-radius:8px; object-fit:cover; box-shadow:0 0 10px #000;">
+    </td>
+    <!-- IMAGEN 2 -->
+    <td width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp"
+           alt="In Mind We Trust"
+           width="200" height="130"
+           style="border-radius:8px; object-fit:cover; box-shadow:0 0 10px #000;">
+    </td>
+    <!-- TEXTO DERECHO -->
+    <td width="25%" align="left" style="background:#0d0d0d; border:1px solid #222; border-radius:10px; padding:18px;">
+      <h3 style="color:#ff6ec7;">In Mind We Trust</h3>
+      <p style="color:#ccc; font-size:13px; line-height:1.5;">
+        Un <b>bullet hell psicológico</b> inspirado en <b>Touhou</b> y <b>Koishi Komeiji</b>.  
+        Los pensamientos son proyectiles y la introspección, tu único refugio.
+      </p>
+    </td>
+
+  </tr>
+</table>
+
+</section>
+
 
 
