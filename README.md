@@ -14,9 +14,8 @@ En 2014 comencé a trabajar con distintos motores y lenguajes de programación, 
 Con el tiempo desarrollé mejores hábitos, dominio técnico y una visión más completa de la ingeniería de software.  
 En 2023 destaqué en mis estudios técnicos y actualmente continúo mi formación universitaria, con la meta de consolidar mi carrera en la industria tecnológica.
 </p>
-
-</section>
 ------------------------------------------------------------
+</section>
 
 <table align="center" style="margin:auto; border-collapse:collapse;">
 <tr>
