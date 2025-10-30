@@ -4,7 +4,7 @@
 
 <section align="center">
 
-<h1>「 ── ───── MIGUEL ÁNGEL CÁCERES RÍOS ───── ── 」</h1>
+<h1>「 ── ─MIGUEL ÁNGEL CÁCERES RÍOS─ ── 」</h1>
 <h3>Ingeniero en Sistemas | Desarrollador de Videojuegos</h3>
 
 <p align="justify" style="max-width:850px; margin:auto;">
