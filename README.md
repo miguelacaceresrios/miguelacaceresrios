@@ -97,7 +97,7 @@ En 2023 destaqué en mis estudios técnicos y actualmente continúo mi formació
       <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp"
            alt="Curso SQL Básico" width="260" height="145"
            style="object-fit:cover; border-radius:8px; box-shadow:0 0 8px rgba(255,255,255,0.05); margin-bottom:10px;">
-      <b style="color:#fff;">Introducción a SQL</b>
+      <b style="color:#fff;">SQL para los que odian los tecnicismos</b>
       <div style="color:#ccc; font-size:14px; line-height:1.4; height:60px; display:flex; align-items:center; justify-content:center;">
         Curso básico de SQL desde cero. <br> Duración: 15 horas.
       </div>
