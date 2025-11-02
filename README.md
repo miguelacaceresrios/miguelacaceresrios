@@ -57,7 +57,7 @@ En 2023 destaqué en mis estudios técnicos y actualmente continúo mi formació
         Nos especializamos en perspectivas isométricas y en la creación de experiencias interactivas que combinan arte, tecnología y narrativa.
       </p>
       <p align="center" style="margin-top:15px;">
-        <a href="#" target="_blank">
+        <a href="https://isometrical-page.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/P%C3%A1gina%20Oficial-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Página Oficial">
         </a>
       </p>
