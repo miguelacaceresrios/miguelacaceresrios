@@ -351,7 +351,7 @@ $$  __$$ |$$ |$$ | $$ | $$ |$$  __$$ |$$ |    \$$\  $$\   $$ |
 ------------------------------------------------------------
 
 <h2 align="center" style="color:#fff; text-shadow:0 0 8px #00eaff;">
-🎮 Fan Games & Referencias Visuales
+Fan Games & Referencias Visuales
 </h2>
 
 <table align="center" width="95%" style="border-spacing:20px; margin:auto;">
