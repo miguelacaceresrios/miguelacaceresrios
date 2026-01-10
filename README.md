@@ -195,7 +195,6 @@ En 2023 destaqué en mis estudios técnicos y actualmente continúo mi formació
 </table>
 
 ------------------------------------------------------------
-
 <section align="center">
 
 <h2>Oº°‘¨ ESTADÍSTICAS ¨‘°ºO</h2>
@@ -208,7 +207,7 @@ En 2023 destaqué en mis estudios técnicos y actualmente continúo mi formació
 
 <p align="center" style="margin-top:10px;">
   <a href="https://github.com/miguelacaceresrios">
-    <img src="https://github-readme-stats.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" style="max-width:400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=miguelacaceresrios&show_icons=true&theme=dark" alt="Estadísticas de GitHub" style="max-width:400px;">
   </a>
   <a href="https://github.com/miguelacaceresrios">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&layout=compact&langs_count=8&theme=dark" alt="Lenguajes más usados" style="max-width:400px;">
@@ -216,6 +215,7 @@ En 2023 destaqué en mis estudios técnicos y actualmente continúo mi formació
 </p>
 
 </section>
+
 
 ------------------------------------------------------------
 
