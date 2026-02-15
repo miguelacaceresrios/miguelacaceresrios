@@ -65,6 +65,30 @@ En 2023 destaqué en mis estudios técnicos y actualmente continúo mi formació
         </a>
       </p>
     </td>
+
+    
+<h2>ISOMETRICAL GAME COMPANY (ദ്ദി˙ᗜ˙)</h2>
+
+<table width="90%" align="center" style="border-collapse:collapse; margin:auto;">
+  <tr valign="top">
+    <!-- LOGO -->
+    <td align="center" width="300" style="padding:10px; background:#0a0a0a; border-radius:10px;">
+      <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/isometrical-blacklogo.webp"
+           alt="Logo Isometrical" width="230"
+           style="border-radius:10px; background:#000; box-shadow:0 0 12px rgba(255,255,255,0.08); border:1px solid #2a2a2a;">
+    </td>
+    <!-- DESCRIPCIÓN -->
+    <td align="justify" width="550" style="padding:20px;">
+      <p style="color:#dcdcdc; line-height:1.6;">
+        <b>Isometrical Game Company</b> es un equipo independiente fundado por mí, dedicado al desarrollo de juegos originales y experimentales con identidad propia y enfoque técnico.  
+        Nos especializamos en perspectivas isométricas y en la creación de experiencias interactivas que combinan arte, tecnología y narrativa.
+      </p>
+      <p align="center" style="margin-top:15px;">
+        <a href="https://isometrical-page.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/P%C3%A1gina%20Oficial-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Página Oficial">
+        </a>
+      </p>
+    </td>
     <!-- PRESENCIA -->
     <td align="center" width="230" style="padding-left:16px; border-left:1px solid #333;">
       <h4 style="color:#fff; margin-bottom:14px; text-shadow:0 0 6px #fff;">⫘Presencia en línea⫘</h4>
