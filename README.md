@@ -5,15 +5,6 @@
 <div align="center">
   <img src="https://i.postimg.cc/7ZMmj0Ss/a.webp" width="100%" alt="banner">
 </div>
-
-<div align="center">
-
-# 「 MIGUEL ÁNGEL CÁCERES RÍOS 」
-
-Ingeniero en Sistemas. Hago videojuegos desde 2012, código desde 2014.
-
-</div>
-
 ---
 
 <!-- ====== SPOTIFY + BIO ====== -->
