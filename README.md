@@ -67,7 +67,6 @@
         <img src="https://img.shields.io/badge/GDScript-202020?style=flat-square&logo=godotengine&logoColor=white">
         <img src="https://img.shields.io/badge/Pixel_Art-202020?style=flat-square&logoColor=white">
         <img src="https://img.shields.io/badge/Narrative_Design-202020?style=flat-square&logoColor=white">
-        <img src="https://img.shields.io/badge/Procedural_Gen-202020?style=flat-square&logoColor=white">
       </p>
       <a href="https://isometrical-page.vercel.app/"><img src="https://img.shields.io/badge/Página_Oficial-00C853?style=for-the-badge" alt="Página Oficial"></a>
     </td>
