@@ -392,7 +392,6 @@
         <img src="https://img.shields.io/badge/Godot_4-202020?style=flat-square&logo=godotengine&logoColor=white">
         <img src="https://img.shields.io/badge/RPG-202020?style=flat-square">
       </p>
-      <blockquote align="left"><i>"No se gana ni se pierde. Solo se sigue caminando."</i></blockquote>
     </td>
 
   </tr>
