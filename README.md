@@ -133,7 +133,7 @@
 
 <!-- ====== CURSOS ====== -->
 <p align="center"> 
-<img  src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/cursos.svg"  width="50%" alt="Cursos" ></p>
+<img  src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/cursos.svg"  width="60%" alt="Cursos" ></p>
 <table align="center" width="100%">
   <tr valign="top" align="center">
     <td width="33%">
