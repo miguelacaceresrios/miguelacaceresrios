@@ -1,0 +1,66 @@
+<svg width="800" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" font-family="'Georgia', 'Times New Roman', serif">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0800"/>
+      <stop offset="100%" style="stop-color:#130f02"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#6b4f10"/>
+      <stop offset="35%"  style="stop-color:#d4a830"/>
+      <stop offset="65%"  style="stop-color:#d4a830"/>
+      <stop offset="100%" style="stop-color:#6b4f10"/>
+    </linearGradient>
+    <linearGradient id="redbtn" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#7a1a08"/>
+      <stop offset="100%" style="stop-color:#4a0e04"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="320" fill="url(#bg)"/>
+  <rect x="1" y="1" width="798" height="318" fill="none" stroke="url(#gold)" stroke-width="2"/>
+  <rect x="8" y="8" width="784" height="304" fill="none" stroke="#6b4f10" stroke-width="0.8" stroke-opacity="0.5"/>
+
+  <!-- Esquinas decorativas -->
+  <line x1="8"   y1="8"   x2="44"  y2="8"   stroke="#d4a830" stroke-width="1.5"/>
+  <line x1="8"   y1="8"   x2="8"   y2="44"  stroke="#d4a830" stroke-width="1.5"/>
+  <circle cx="8"   cy="8"   r="3" fill="#d4a830"/>
+  <line x1="792" y1="8"   x2="756" y2="8"   stroke="#d4a830" stroke-width="1.5"/>
+  <line x1="792" y1="8"   x2="792" y2="44"  stroke="#d4a830" stroke-width="1.5"/>
+  <circle cx="792" cy="8"   r="3" fill="#d4a830"/>
+  <line x1="8"   y1="312" x2="44"  y2="312" stroke="#d4a830" stroke-width="1.5"/>
+  <line x1="8"   y1="312" x2="8"   y2="276" stroke="#d4a830" stroke-width="1.5"/>
+  <circle cx="8"   cy="312" r="3" fill="#d4a830"/>
+  <line x1="792" y1="312" x2="756" y2="312" stroke="#d4a830" stroke-width="1.5"/>
+  <line x1="792" y1="312" x2="792" y2="276" stroke="#d4a830" stroke-width="1.5"/>
+  <circle cx="792" cy="312" r="3" fill="#d4a830"/>
+
+  <!-- Kanji fantasma -->
+  <text x="400" y="270" fill="#d4a830" font-size="240" font-weight="bold" opacity="0.04" text-anchor="middle" font-family="serif">武</text>
+
+  <!-- Sello rojo esquina superior izquierda -->
+  <rect x="24" y="24" width="64" height="64" rx="3" fill="url(#redbtn)" stroke="#d4a830" stroke-width="1.2"/>
+  <text x="56" y="68" fill="#d4a830" font-size="34" font-weight="bold" text-anchor="middle" font-family="serif">武</text>
+
+  <!-- Estado online - esquina superior derecha -->
+  <circle cx="670" cy="38" r="4" fill="#22c55e"/>
+  <text x="680" y="43" fill="#7a6030" font-size="18" font-family="'Segoe UI', sans-serif">online</text>
+
+  <!-- Título centrado grande -->
+  <text x="400" y="118" fill="#d4a830" font-size="40" font-weight="bold" letter-spacing="4" text-anchor="middle">36 Code Chambers</text>
+
+  <!-- Divisor decorativo -->
+  <line x1="40"  y1="136" x2="310" y2="136" stroke="#6b4f10" stroke-width="1"/>
+  <text x="400"  y="154" fill="#a07828" font-size="12" letter-spacing="5" text-anchor="middle" font-family="'Segoe UI', sans-serif">ENTRA · APRENDE · SUPERA · 入</text>
+  <line x1="490" y1="136" x2="760" y2="136" stroke="#6b4f10" stroke-width="1"/>
+
+  <!-- Descripción -->
+  <text x="400" y="194" fill="#c8a860" font-size="16" text-anchor="middle" font-family="'Segoe UI', sans-serif">Comunidad donde cada lenguaje es una cámara.</text>
+  <text x="400" y="218" fill="#c8a860" font-size="16" text-anchor="middle" font-family="'Segoe UI', sans-serif">Aprende, compite y domínalos todos.</text>
+
+  <!-- Línea divisoria -->
+  <line x1="24" y1="244" x2="776" y2="244" stroke="#6b4f10" stroke-width="0.8" stroke-opacity="0.6"/>
+
+  <!-- BOTÓN CTA -->
+  <rect x="300" y="266" width="200" height="30" rx="4" fill="url(#redbtn)" stroke="#d4a830" stroke-width="1"/>
+  <text x="400" y="286" fill="#d4a830" font-size="14" font-weight="bold" text-anchor="middle" font-family="Segoe UI, sans-serif">Unirse al servidor</text>
+</svg>
