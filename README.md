@@ -24,15 +24,14 @@
         En <b>2023</b> destaqué en mis estudios técnicos y actualmente continúo mi formación universitaria, con la meta de consolidar mi carrera en la industria tecnológica.
       </p>
       <br>
-      <a href="https://www.reddit.com/user/miguelacaceresrios"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-000?style=flat-square&logo=reddit&logoColor=white"></a>
+      <a href="https://www.reddit.com/user/miguelacaceresrios"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=white"></a>
       &nbsp;
-      <a href="https://buymeacoffee.com/miguelacaca"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Coffee-000?style=flat-square&logo=buymeacoffee&logoColor=white"></a>
+      <a href="https://buymeacoffee.com/miguelacaca"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy_Me_a_Coffee-000?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
       &nbsp;
-      <a href="https://www.curseforge.com/members/miguelacaceresrios/projects"><img alt="CurseForge" src="https://img.shields.io/badge/CurseForge-000?style=flat-square&logo=curseforge&logoColor=white"></a>
-      &nbsp;&nbsp;
+      <a href="https://www.curseforge.com/members/miguelacaceresrios/projects"><img alt="CurseForge" src="https://img.shields.io/badge/CurseForge-000?style=for-the-badge&logo=curseforge&logoColor=white"></a>
       <a href="https://www.codewars.com/users/miguelacaceresrios"><img src="https://www.codewars.com/users/miguelacaceresrios/badges/large" alt="Codewars"></a>
-    </td>
-  </tr>
+               </td>
+         </tr>
 </table>
 
 ---
@@ -72,22 +71,26 @@
     </td>
     <td align="left" width="50%">
       <pre>
-miguel@pop-os
-─────────────────────────
-OS      : Pop!_OS 22.04 LTS
-Kernel  : Linux x86_64
-Shell   : bash / zsh
-WM      : GNOME (Wayland)
-Terminal: kitty
-Font    : JetBrains Mono
-Editor  : Neovim / VSCode
-─────────────────────────
-CPU     : Intel Core i5
-GPU     : dedicada
-Memory  : disponible
-Disk    : /dev/sda
-─────────────────────────
-Dotfiles: github.com/miguelacaceresrios
+       gato@nixos
+      ───────────────────────────
+      ╭─ Hardware
+      │  Host   : custom build
+      │  CPU    : AMD Ryzen 7 · 16 cores
+      │  GPU    : NVIDIA GeForce RTX
+      │  RAM    : 16.00 GiB
+      │  Disk   : /dev/nvme0n1
+      ╰─
+      ╭─ Software
+      │  OS     : NixOS (unstable)
+      │  Kernel : Linux 6.x.x-nixos
+      │  WM     : Hyprland (Wayland)
+      │  Shell  : bash
+      │  Term   : kitty
+      │  Editor : Neovim
+      ╰─
+      ╭─ dotfiles
+      │  github.com/miguelacaceresrios
+      ╰─
       </pre>
       <br>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
