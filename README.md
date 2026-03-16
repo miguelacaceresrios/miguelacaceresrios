@@ -29,9 +29,10 @@
       <a href="https://buymeacoffee.com/miguelacaca"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy_Me_a_Coffee-000?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
       &nbsp;
       <a href="https://www.curseforge.com/members/miguelacaceresrios/projects"><img alt="CurseForge" src="https://img.shields.io/badge/CurseForge-000?style=for-the-badge&logo=curseforge&logoColor=white"></a>
+      <br><br>
       <a href="https://www.codewars.com/users/miguelacaceresrios"><img src="https://www.codewars.com/users/miguelacaceresrios/badges/large" alt="Codewars"></a>
-               </td>
-         </tr>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -65,7 +66,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠉⠁⢀⠤⠊⠈⡆⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡃⠀⠰⠂⠁⠀⡠⠎⠀⠀⠀⠈⠓⠤⠋⠂⠒⠒⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠇⠀⠀⠀⠴⠋⠉⠉⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣃⠀⠀⠀⠀⢀⣤⡮⠥⠤⠤⡀⠀⠀⠀⠐⠦⠤⠖⠚⠁
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣃⠀⠀⠀⠀⢀⣤⡮⠥⠤⠤⡀⠀⠀⠀⠐⠦⠤⠖⠚⠁⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢣⡀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
       </pre>
     </td>
