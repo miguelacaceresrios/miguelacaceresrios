@@ -1,0 +1,72 @@
+<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg" font-family="'Georgia', 'Times New Roman', serif">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0800"/>
+      <stop offset="100%" style="stop-color:#130f02"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#6b4f10"/>
+      <stop offset="35%"  style="stop-color:#d4a830"/>
+      <stop offset="65%"  style="stop-color:#d4a830"/>
+      <stop offset="100%" style="stop-color:#6b4f10"/>
+    </linearGradient>
+    <linearGradient id="redbg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#7a1a08"/>
+      <stop offset="100%" style="stop-color:#4a0e04"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="160" fill="url(#bg)"/>
+
+  <!-- Outer gold border -->
+  <rect x="1" y="1" width="798" height="158" fill="none" stroke="url(#gold)" stroke-width="2"/>
+  <!-- Inner thin border -->
+  <rect x="7" y="7" width="786" height="146" fill="none" stroke="#6b4f10" stroke-width="0.8" stroke-opacity="0.6"/>
+
+  <!-- Corner bracket ornaments — top left -->
+  <line x1="7"  y1="7"  x2="36" y2="7"  stroke="#d4a830" stroke-width="1.5"/>
+  <line x1="7"  y1="7"  x2="7"  y2="36" stroke="#d4a830" stroke-width="1.5"/>
+  <circle cx="7" cy="7" r="2.5" fill="#d4a830"/>
+  <!-- top right -->
+  <line x1="793" y1="7"  x2="764" y2="7"  stroke="#d4a830" stroke-width="1.5"/>
+  <line x1="793" y1="7"  x2="793" y2="36" stroke="#d4a830" stroke-width="1.5"/>
+  <circle cx="793" cy="7" r="2.5" fill="#d4a830"/>
+  <!-- bottom left -->
+  <line x1="7"  y1="153" x2="36" y2="153" stroke="#d4a830" stroke-width="1.5"/>
+  <line x1="7"  y1="153" x2="7"  y2="124" stroke="#d4a830" stroke-width="1.5"/>
+  <circle cx="7" cy="153" r="2.5" fill="#d4a830"/>
+  <!-- bottom right -->
+  <line x1="793" y1="153" x2="764" y2="153" stroke="#d4a830" stroke-width="1.5"/>
+  <line x1="793" y1="153" x2="793" y2="124" stroke="#d4a830" stroke-width="1.5"/>
+  <circle cx="793" cy="153" r="2.5" fill="#d4a830"/>
+
+  <!-- Decorative center top line -->
+  <line x1="200" y1="7"  x2="600" y2="7"  stroke="#d4a830" stroke-width="0.5" stroke-opacity="0.4"/>
+
+  <!-- Large ghost kanji right -->
+  <text x="618" y="138" fill="#d4a830" font-size="120" font-weight="bold" opacity="0.05">武</text>
+
+  <!-- Red seal left — solo el sello, sin número repetido -->
+  <rect x="20" y="28" width="44" height="44" rx="2" fill="url(#redbg)" stroke="#d4a830" stroke-width="1"/>
+  <text x="42" y="58" fill="#d4a830" font-size="24" font-weight="bold" text-anchor="middle" font-family="serif">武</text>
+
+  <!-- Title -->
+  <text x="78" y="52" fill="#d4a830" font-size="24" font-weight="bold" letter-spacing="2">36 Code Chambers</text>
+
+  <!-- Subtitle line with ornaments -->
+  <line x1="78" y1="62" x2="440" y2="62" stroke="#6b4f10" stroke-width="0.8"/>
+  <text x="78" y="80" fill="#a07828" font-size="12" letter-spacing="3" font-family="'Segoe UI', sans-serif">ENTRA · APRENDE · SUPERA · 入</text>
+
+  <!-- Description -->
+  <text x="78" y="102" fill="#c8a860" font-size="14" font-family="'Segoe UI', sans-serif">Comunidad donde cada lenguaje es una cámara. Aprende, compite y domínalos todos.</text>
+
+  <!-- Status + link -->
+  <circle cx="78" cy="126" r="4" fill="#22c55e"/>
+  <text x="90" y="130" fill="#7a6030" font-size="12" font-family="'Segoe UI', sans-serif">Online</text>
+  <text x="134" y="130" fill="#4a3818" font-size="12" font-family="'Segoe UI', sans-serif"> · discord.gg/Da6mtxDGdJ</text>
+
+  <!-- Join button -->
+  <rect x="580" y="112" width="196" height="32" rx="3" fill="url(#redbg)" stroke="#d4a830" stroke-width="1"/>
+  <text x="678" y="132" fill="#d4a830" font-size="13" font-weight="bold" text-anchor="middle" font-family="'Segoe UI', sans-serif">Unirse al servidor →</text>
+</svg>
