@@ -1,0 +1,20 @@
+<svg width="320" height="380" viewBox="0 0 320 380" xmlns="http://www.w3.org/2000/svg" font-family="'Inter', 'Segoe UI', sans-serif">
+  <rect width="320" height="380" fill="#0d1117" rx="12"/>
+  <rect x="1" y="1" width="318" height="378" fill="none" stroke="#3d3d3d" stroke-width="1" rx="12"/>
+  
+  <text x="160" y="50" fill="#c9b37e" font-size="24" font-weight="500" text-anchor="middle">Nivel II</text>
+  <text x="160" y="80" fill="#8b949e" font-size="14" text-anchor="middle">Intermedio</text>
+  
+  <line x1="40" y1="100" x2="280" y2="100" stroke="#3d3d3d" stroke-width="1"/>
+  
+  <text x="40" y="140" fill="#f0f6fc" font-size="16" font-weight="500">SQL Intermedio</text>
+  
+  <text x="40" y="180" fill="#b1bac4" font-size="12">✓ 30 h · Nivel I recomendado</text>
+  <text x="40" y="205" fill="#b1bac4" font-size="12">✓ Relaciones entre tablas</text>
+  <text x="40" y="230" fill="#b1bac4" font-size="12">✓ Subconsultas y vistas</text>
+  <text x="40" y="255" fill="#b1bac4" font-size="12">✓ Índices y rendimiento</text>
+  <text x="40" y="280" fill="#b1bac4" font-size="12">✓ Casos reales</text>
+  
+  <rect x="80" y="315" width="160" height="36" rx="6" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <text x="160" y="340" fill="#c9b37e" font-size="14" text-anchor="middle">Continuar →</text>
+</svg>

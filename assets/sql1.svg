@@ -1,0 +1,21 @@
+<svg width="320" height="380" viewBox="0 0 320 380" xmlns="http://www.w3.org/2000/svg" font-family="'Inter', 'Segoe UI', sans-serif">
+  <rect width="320" height="380" fill="#0d1117" rx="12"/>
+  <rect x="1" y="1" width="318" height="378" fill="none" stroke="#3d3d3d" stroke-width="1" rx="12"/>
+  
+  <text x="160" y="50" fill="#c9b37e" font-size="24" font-weight="500" text-anchor="middle">Nivel I</text>
+  <text x="160" y="80" fill="#8b949e" font-size="14" text-anchor="middle">Básico</text>
+  
+  <line x1="40" y1="100" x2="280" y2="100" stroke="#3d3d3d" stroke-width="1"/>
+  
+  <text x="40" y="130" fill="#f0f6fc" font-size="14" font-weight="500">SQL para los que odian</text>
+  <text x="40" y="150" fill="#f0f6fc" font-size="14" font-weight="500">los tecnicismos</text>
+  
+  <text x="40" y="190" fill="#b1bac4" font-size="12">✓ 15 h · Sin requisitos</text>
+  <text x="40" y="215" fill="#b1bac4" font-size="12">✓ Consultas desde cero</text>
+  <text x="40" y="240" fill="#b1bac4" font-size="12">✓ SELECT, WHERE, JOIN</text>
+  <text x="40" y="265" fill="#b1bac4" font-size="12">✓ Proyectos prácticos</text>
+  <text x="40" y="290" fill="#b1bac4" font-size="12">✓ Sin jerga</text>
+  
+  <rect x="80" y="315" width="160" height="36" rx="6" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <text x="160" y="340" fill="#c9b37e" font-size="14" text-anchor="middle">Empieza aquí →</text>
+</svg>

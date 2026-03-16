@@ -1,0 +1,23 @@
+<svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg" font-family="'Inter', 'Segoe UI', sans-serif">
+  <rect width="800" height="280" fill="#0d1117"/>
+  <rect x="1" y="1" width="798" height="278" fill="none" stroke="#3d3d3d" stroke-width="1"/>
+  <rect x="10" y="10" width="780" height="260" fill="none" stroke="#3d3d3d" stroke-width="0.5" rx="4"/>
+
+  <!-- Online indicator -->
+  <circle cx="700" cy="40" r="4" fill="#3fb950"/>
+  <text x="710" y="45" fill="#8b949e" font-size="12">online</text>
+
+  <!-- Título -->
+  <text x="400" y="100" fill="#c9b37e" font-size="36" font-weight="500" text-anchor="middle" letter-spacing="1">36 Code Chambers</text>
+
+  <!-- Subtítulo -->
+  <text x="400" y="135" fill="#8b949e" font-size="14" text-anchor="middle" letter-spacing="2">ENTRA · APRENDE · SUPERA · 入</text>
+
+  <!-- Descripción -->
+  <text x="400" y="170" fill="#b1bac4" font-size="16" text-anchor="middle">Comunidad donde cada lenguaje es una cámara.</text>
+  <text x="400" y="195" fill="#b1bac4" font-size="16" text-anchor="middle">Aprende, compite y domínalos todos.</text>
+
+  <!-- Botón -->
+  <rect x="300" y="220" width="200" height="36" rx="6" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <text x="400" y="245" fill="#c9b37e" font-size="15" font-weight="500" text-anchor="middle">Unirse al servidor</text>
+</svg>
