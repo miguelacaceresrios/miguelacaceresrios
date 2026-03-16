@@ -126,7 +126,7 @@
         <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/codechambers.svg" width="100%" alt="Discord Server">
       </a>
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&theme=github_dark&hide_border=true&layout=compact&langs_count=12&card_width=600" width="100%" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&theme=gruvbox&hide_border=true&layout=compact&langs_count=12&card_width=600" width="100%" alt="Top Langs">
     </td>
   </tr>
 </table>
