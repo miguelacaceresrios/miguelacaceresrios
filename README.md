@@ -24,15 +24,11 @@
         En <b>2023</b> destaqué en mis estudios técnicos y actualmente continúo mi formación universitaria, con la meta de consolidar mi carrera en la industria tecnológica.
       </p>
       <br>
-      <a href="https://www.linkedin.com/in/miguelacaceresrios"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20"></a>
-      &nbsp;
-      <a href="https://www.youtube.com/@miguelangelcaceresrios-code"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-000?style=flat-square&logo=youtube&logoColor=white"></a>
-      &nbsp;
-      <a href="https://www.instagram.com/miguelangelcaceresr/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=flat-square&logo=instagram&logoColor=white"></a>
+      <a href="https://www.reddit.com/user/miguelacaceresrios"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-000?style=flat-square&logo=reddit&logoColor=white"></a>
       &nbsp;
       <a href="https://buymeacoffee.com/miguelacaca"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Coffee-000?style=flat-square&logo=buymeacoffee&logoColor=white"></a>
       &nbsp;
-      <a href="https://www.patreon.com/c/u104187367"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-000?style=flat-square&logo=patreon&logoColor=white"></a>
+      <a href="https://www.curseforge.com/members/miguelacaceresrios/projects"><img alt="CurseForge" src="https://img.shields.io/badge/CurseForge-000?style=flat-square&logo=curseforge&logoColor=white"></a>
       &nbsp;&nbsp;
       <a href="https://www.codewars.com/users/miguelacaceresrios"><img src="https://www.codewars.com/users/miguelacaceresrios/badges/large" alt="Codewars"></a>
     </td>
@@ -112,6 +108,10 @@ Dotfiles: github.com/miguelacaceresrios
     </td>
     <td align="center" width="60%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&theme=github_dark&hide_border=true&layout=compact&langs_count=12&card_width=600" width="100%" alt="Top Langs">
+      <br><br>
+      <a href="https://discord.gg/Da6mtxDGdJ">
+        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/discord-server.svg" width="100%" alt="Discord Server">
+      </a>
     </td>
   </tr>
 </table>
@@ -134,41 +134,11 @@ Dotfiles: github.com/miguelacaceresrios
 
 ## ✧ Proyectos ✧
 
-**🕷️ Segestria**
+[![Segestria](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/project-segestria.svg)](https://github.com/miguelacaceresrios/Segestria)
 
-Launcher custom para Minecraft no-premium. Lógica en **Rust** compartida entre escritorio y Android, UI nativa con **Tauri** en PC y **Jetpack Compose** en móvil. Autenticación vía Discord — si estás en el servidor, puedes jugar. Actualizaciones automáticas desde un manifest en la nube: el launcher compara, descarga solo lo que cambió y lanza. Sin Electron, sin cuentas propias, sin complicaciones.
+[![Aimai](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/project-aimai.svg)](https://github.com/miguelacaceresrios/Aimai)
 
-![Rust](https://img.shields.io/badge/Rust-202020?style=flat-square&logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-202020?style=flat-square&logo=tauri&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-202020?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-202020?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord_Auth-202020?style=flat-square&logo=discord&logoColor=white)
-
-[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelacaceresrios/Segestria)
-
----
-
-**💗 Aimai**
-
-App móvil con **geolocalización en tiempo real** que conecta parejas y sugiere experiencias cercanas. Backend REST con autenticación, matching por proximidad y notificaciones push.
-
-![React Native](https://img.shields.io/badge/React_Native-202020?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-202020?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-202020?style=flat-square&logo=postgresql&logoColor=white)
-![Google Maps API](https://img.shields.io/badge/Google_Maps_API-202020?style=flat-square&logo=googlemaps&logoColor=white)
-
-[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelacaceresrios/Aimai)
-
----
-
-**🔴 Ojo de Sauron**
-
-Herramienta de **monitoreo y auditoría de actividad** en sistemas locales. Logging visual, captura de pantalla programática y almacenamiento estructurado para análisis forense o control parental empresarial.
-
-![OpenCV](https://img.shields.io/badge/OpenCV-202020?style=flat-square&logo=opencv&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-202020?style=flat-square&logo=sqlite&logoColor=white)
-
-[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelacaceresrios/ojo-de-sauron)
+[![Ojo de Sauron](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/project-ojo-de-sauron.svg)](https://github.com/miguelacaceresrios/ojo-de-sauron)
 
 ---
 
@@ -222,6 +192,24 @@ Herramienta de **monitoreo y auditoría de actividad** en sistemas locales. Logg
         </a>
       </h3>
       <p>LISP no es un lenguaje muerto: es el ancestro silencioso de la inteligencia artificial moderna. Un viaje a los orígenes del pensamiento computacional.</p>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="90%">
+  <tr valign="top">
+    <td align="center" width="260">
+      <a href="https://www.linkedin.com/pulse/descubriendo-el-poder-de-wsl-puente-invisible-entre-y-caceres-rios-dzoee/">
+        <img src="https://media.licdn.com/dms/image/v2/D4E12AQG_kVWP9yRJZA/article-cover_image-shrink_720_1280/B4EZZzJi7eHkAM-/0/1745688604855?e=1775088000&v=beta&t=jTY5A65ht_Asbiz-OksUz4KELqxe6Ik-nmpwMTpNxpA" alt="Artículo WSL" width="230">
+      </a>
+    </td>
+    <td align="left" valign="middle">
+      <h3>
+        <a href="https://www.linkedin.com/pulse/descubriendo-el-poder-de-wsl-puente-invisible-entre-y-caceres-rios-dzoee/">
+          Descubriendo el Poder de WSL: el Puente Invisible entre Windows y Linux
+        </a>
+      </h3>
+      <p>WSL no es solo una terminal Linux en Windows: es el puente que permite usar lo mejor de ambos mundos sin sacrificar nada. Una guía práctica para devs.</p>
     </td>
   </tr>
 </table>
