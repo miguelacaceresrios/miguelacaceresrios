@@ -99,27 +99,26 @@
     </td>
   </tr>
 </table>
-
-<!-- ====== SPOTIFY + LANGS ====== -->
+<!-- ====== SPOTIFY + (DISCORD + LANGS) ====== -->
 
 <table align="center" width="92%">
   <tr valign="middle">
+    <!-- Columna izquierda: Spotify (40%) -->
     <td align="center" width="40%">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="100%" alt="Spotify Now Playing">
       </a>
     </td>
+    <!-- Columna derecha: Discord arriba + Top Langs abajo (60%) -->
     <td align="center" width="60%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&theme=github_dark&hide_border=true&layout=compact&langs_count=12&card_width=600" width="100%" alt="Top Langs">
-      <br><br>
       <a href="https://discord.gg/Da6mtxDGdJ">
-        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/discord server.svg" width="100%" alt="Discord Server.svg">
+        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/discord%20server.svg" width="100%" alt="Discord Server">
       </a>
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&theme=github_dark&hide_border=true&layout=compact&langs_count=12&card_width=600" width="100%" alt="Top Langs">
     </td>
   </tr>
 </table>
-
----
 
 <!-- ====== ISOMETRICAL GAME COMPANY ====== -->
 
