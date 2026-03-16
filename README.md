@@ -86,7 +86,7 @@
        gato@nixos
       ───────────────────────────
       ╭─ Hardware
-      │  CPU    : 12th Gen Intel(R) i5-12500H
+      │  CPU    : 12th Gen i5-12500H
       │  RAM    : 16.00 GiB
       │  Disk   : /dev/nvme0n1
       ╰─
