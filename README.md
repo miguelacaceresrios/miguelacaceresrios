@@ -153,7 +153,7 @@
 
 [![SQL Nivel II](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sqlintermedio.svg)](https://udemy.com/curso-sql-intermedio)
 
-[![SQL Nivel III](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sql-nivelavanzado.svg)](https://udemy.com/curso-sql-avanzado)
+[![SQL Nivel III](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sqlavanzado.svg)](https://udemy.com/curso-sql-avanzado)
 
 ---
 
