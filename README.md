@@ -226,8 +226,11 @@
 ## ✧ Fan Games ✧
 
 <table width="92%">
+  
   <tr valign="middle" align="center">
-    <td width="50%">
+
+    
+  <td width="50%">
       <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/koishi-komeiji.gif" width="200" alt="Koishi GIF"><br><br>
       <h3>💜 Koishi — In Mind We Trust</h3>
       <p align="left">Fan game introspectivo inspirado en <b>Touhou</b> y <b>Koishi Komeiji</b>. Pensamientos que colisionan como balas, emociones convertidas en ruido visual.</p>
@@ -237,7 +240,10 @@
         <img src="https://img.shields.io/badge/Bullet_Hell-202020?style=flat-square">
       </p>
     </td>
-    <td width="50%">
+
+
+    
+  <td width="50%">
       <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/png-ludicolo-dance.gif" width="200" alt="Ludicolo GIF"><br><br>
       <h3>💎 Pokémon: Broken Bonds</h3>
       <p align="left">Reinterpretación emocional del universo <b>Pokémon</b>. No busca ganar, sino comprender.</p>
@@ -247,6 +253,7 @@
         <img src="https://img.shields.io/badge/RPG-202020?style=flat-square">
       </p>
     </td>
+    
   </tr>
 </table>
 
