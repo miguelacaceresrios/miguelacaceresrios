@@ -1,0 +1,48 @@
+<svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', system-ui, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#090c12"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e3a5f"/>
+      <stop offset="100%" style="stop-color:#2d5a8e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="280" rx="10" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="799" height="279" rx="10" fill="none" stroke="#1e3a5f" stroke-width="1"/>
+  <rect x="0" y="0" width="800" height="4" rx="2" fill="url(#bar)"/>
+
+  <!-- Title -->
+  <text x="40" y="52" fill="#e8f0f8" font-size="24" font-weight="700">Isometrical Game Company</text>
+  <text x="40" y="76" fill="#4a7aaa" font-size="14">Estudio independiente de desarrollo de videojuegos</text>
+
+  <line x1="40" y1="94" x2="760" y2="94" stroke="#1a2a40" stroke-width="1"/>
+
+  <!-- Description -->
+  <text x="40" y="120" fill="#8ba8c8" font-size="14">Desarrollamos juegos originales, mods y experiencias interactivas con identidad propia.</text>
+  <text x="40" y="142" fill="#8ba8c8" font-size="14">Código limpio, diseño narrativo sólido y sistemas de juego bien pensados.</text>
+
+  <line x1="40" y1="162" x2="760" y2="162" stroke="#1a2a40" stroke-width="1"/>
+
+  <!-- Tags row -->
+  <rect x="40"  y="176" width="148" height="28" rx="5" fill="#0d1a2e" stroke="#1e3a5f" stroke-width="1"/>
+  <text x="114" y="194" fill="#7db3e8" font-size="13" text-anchor="middle">Desarrollo de Juegos</text>
+
+  <rect x="200" y="176" width="120" height="28" rx="5" fill="#0d1a2e" stroke="#1e3a5f" stroke-width="1"/>
+  <text x="260" y="194" fill="#7db3e8" font-size="13" text-anchor="middle">Diseño Narrativo</text>
+
+  <rect x="332" y="176" width="130" height="28" rx="5" fill="#0d1a2e" stroke="#1e3a5f" stroke-width="1"/>
+  <text x="397" y="194" fill="#7db3e8" font-size="13" text-anchor="middle">Diseño de Sistemas</text>
+
+  <rect x="474" y="176" width="106" height="28" rx="5" fill="#0d1a2e" stroke="#1e3a5f" stroke-width="1"/>
+  <text x="527" y="194" fill="#7db3e8" font-size="13" text-anchor="middle">Narrativa</text>
+
+  <rect x="592" y="176" width="84"  height="28" rx="5" fill="#0d1a2e" stroke="#1e3a5f" stroke-width="1"/>
+  <text x="634" y="194" fill="#7db3e8" font-size="13" text-anchor="middle">Mods</text>
+
+  <!-- CTA -->
+  <rect x="40" y="224" width="720" height="40" rx="7" fill="#1e3a5f"/>
+  <text x="400" y="249" fill="#e8f0f8" font-size="15" font-weight="700" text-anchor="middle">Visitar Isometrical Game Company →</text>
+</svg>
