@@ -36,6 +36,18 @@
 
 ---
 
+<!-- ====== PROYECTOS ====== -->
+
+## ✧ Proyectos ✧
+
+[![Segestria](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/project-segestria.svg)](https://github.com/miguelacaceresrios/Segestria)
+
+[![Aimai](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/project-aimai.svg)](https://github.com/miguelacaceresrios/Aimai)
+
+[![Ojo de Sauron](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/project-ojo-de-sauron.svg)](https://github.com/miguelacaceresrios/ojo-de-sauron)
+
+---
+
 <!-- ====== FASTFETCH ====== -->
 
 <table align="center" width="92%">
@@ -119,6 +131,29 @@
   </tr>
 </table>
 
+<!-- ====== CURSOS ====== -->
+<p align="center"> 
+<img  src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/cursos.svg"  width="50%" alt="Cursos" ></p>
+<table align="center" width="100%">
+  <tr valign="top" align="center">
+    <td width="33%">
+      <a href="https://udemy.com/curso-sql-basico">
+        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sql1.svg" width="95%" alt="SQL Nivel I">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://udemy.com/curso-sql-intermedio">
+        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sqlintermedio.svg" width="95%" alt="SQL Nivel II">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://udemy.com/curso-sql-avanzado">
+        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sqlavanzado.svg" width="95%" alt="SQL Nivel III">
+      </a>
+    </td>
+  </tr>
+</table>
+
 <!-- ====== ISOMETRICAL GAME COMPANY ====== -->
 
 [![Isometrical Game Company](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/isometrical-game-company.svg)](https://isometrical-page.vercel.app/)
@@ -128,32 +163,6 @@
 <!-- ====== ISOMETRICAL DIGITAL SOLUTIONS ====== -->
 
 [![Isometrical Digital Solutions](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/isometrical-digital-solutions.svg)](https://isometrical-page.vercel.app/)
-
----
-
-<!-- ====== PROYECTOS ====== -->
-
-## ✧ Proyectos ✧
-
-[![Segestria](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/project-segestria.svg)](https://github.com/miguelacaceresrios/Segestria)
-
-[![Aimai](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/project-aimai.svg)](https://github.com/miguelacaceresrios/Aimai)
-
-[![Ojo de Sauron](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/project-ojo-de-sauron.svg)](https://github.com/miguelacaceresrios/ojo-de-sauron)
-
----
-
-<!-- ====== CURSOS ====== -->
-
-## ˗ˏˋ ★ ˎˊ˗ CURSOS Y MATERIAL DE ESTUDIO ˗ˏˋ ★ ˎˊ˗
-
-<!-- Sube los 3 SVGs a tu carpeta assets/ y apuntan solos -->
-
-[![SQL Nivel I](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sql1.svg)](https://udemy.com/curso-sql-basico)
-
-[![SQL Nivel II](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sqlintermedio.svg)](https://udemy.com/curso-sql-intermedio)
-
-[![SQL Nivel III](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sqlavanzado.svg)](https://udemy.com/curso-sql-avanzado)
 
 ---
 
