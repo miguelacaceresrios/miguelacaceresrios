@@ -1,0 +1,70 @@
+<svg width="800" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" font-family="'Georgia', 'Times New Roman', serif">
+  <defs>
+    <!-- Fondo más opaco y cálido -->
+    <linearGradient id="bgOpaco" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a1a; stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#2a2725; stop-opacity:1"/>
+    </linearGradient>
+    <!-- Dorado mostaza (opaco) -->
+    <linearGradient id="mostaza" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#7d5e3a; stop-opacity:1"/>
+      <stop offset="35%"  style="stop-color:#b38b5d; stop-opacity:1"/>
+      <stop offset="65%"  style="stop-color:#b38b5d; stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#7d5e3a; stop-opacity:1"/>
+    </linearGradient>
+    <!-- Botón rojo opaco (terroso) -->
+    <linearGradient id="rojoOpaco" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5a4b; stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#5d3e34; stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="320" fill="url(#bgOpaco)"/>
+  <rect x="1" y="1" width="798" height="318" fill="none" stroke="url(#mostaza)" stroke-width="2"/>
+  <rect x="8" y="8" width="784" height="304" fill="none" stroke="#8b6f4c" stroke-width="0.8" stroke-opacity="0.5"/>
+
+  <!-- Esquinas decorativas con mostaza opaco -->
+  <line x1="8"   y1="8"   x2="44"  y2="8"   stroke="#b38b5d" stroke-width="1.5"/>
+  <line x1="8"   y1="8"   x2="8"   y2="44"  stroke="#b38b5d" stroke-width="1.5"/>
+  <circle cx="8"   cy="8"   r="3" fill="#b38b5d"/>
+  <line x1="792" y1="8"   x2="756" y2="8"   stroke="#b38b5d" stroke-width="1.5"/>
+  <line x1="792" y1="8"   x2="792" y2="44"  stroke="#b38b5d" stroke-width="1.5"/>
+  <circle cx="792" cy="8"   r="3" fill="#b38b5d"/>
+  <line x1="8"   y1="312" x2="44"  y2="312" stroke="#b38b5d" stroke-width="1.5"/>
+  <line x1="8"   y1="312" x2="8"   y2="276" stroke="#b38b5d" stroke-width="1.5"/>
+  <circle cx="8"   cy="312" r="3" fill="#b38b5d"/>
+  <line x1="792" y1="312" x2="756" y2="312" stroke="#b38b5d" stroke-width="1.5"/>
+  <line x1="792" y1="312" x2="792" y2="276" stroke="#b38b5d" stroke-width="1.5"/>
+  <circle cx="792" cy="312" r="3" fill="#b38b5d"/>
+
+  <!-- Ghost kanji en mostaza muy opaco -->
+  <text x="400" y="270" fill="#b38b5d" font-size="240" font-weight="bold" opacity="0.08" text-anchor="middle" font-family="serif">武</text>
+
+  <!-- Sello rojo opaco -->
+  <rect x="24" y="24" width="64" height="64" rx="3" fill="url(#rojoOpaco)" stroke="#b38b5d" stroke-width="1.2"/>
+  <text x="56" y="68" fill="#b38b5d" font-size="34" font-weight="bold" text-anchor="middle" font-family="serif">武</text>
+
+  <!-- Online y miembros con colores mostaza opacos -->
+  <circle cx="640" cy="38" r="4" fill="#5f8b4c" opacity="0.9"/>
+  <text x="650" y="43" fill="#b38b5d" font-size="12" font-family="'Segoe UI', sans-serif">online</text>
+  <text x="650" y="63" fill="#b38b5d" font-size="12" font-family="'Segoe UI', sans-serif">miembros 58</text>
+
+  <!-- Título principal en mostaza -->
+  <text x="400" y="118" fill="#b38b5d" font-size="40" font-weight="bold" letter-spacing="4" text-anchor="middle">36 Code Chambers</text>
+
+  <!-- Divisor y texto secundario en mostaza más suave -->
+  <line x1="40"  y1="136" x2="310" y2="136" stroke="#7d5e3a" stroke-width="1"/>
+  <text x="400"  y="154" fill="#a07828" font-size="12" letter-spacing="5" text-anchor="middle" font-family="'Segoe UI', sans-serif">ENTRA · APRENDE · SUPERA · 入</text>
+  <line x1="490" y1="136" x2="760" y2="136" stroke="#7d5e3a" stroke-width="1"/>
+
+  <!-- Descripción en tono claro pero opaco -->
+  <text x="400" y="194" fill="#c0a878" font-size="16" text-anchor="middle" font-family="'Segoe UI', sans-serif">Comunidad donde cada lenguaje es una cámara.</text>
+  <text x="400" y="218" fill="#c0a878" font-size="16" text-anchor="middle" font-family="'Segoe UI', sans-serif">Aprende, compite y domínalos todos.</text>
+
+  <!-- Línea divisoria -->
+  <line x1="24" y1="244" x2="776" y2="244" stroke="#7d5e3a" stroke-width="0.8" stroke-opacity="0.6"/>
+
+  <!-- Botón CTA con rojo opaco y texto mostaza -->
+  <rect x="300" y="266" width="200" height="30" rx="4" fill="url(#rojoOpaco)" stroke="#b38b5d" stroke-width="1"/>
+  <text x="400" y="286" fill="#b38b5d" font-size="14" font-weight="bold" text-anchor="middle" font-family="Segoe UI, sans-serif">Unirse al servidor</text>
+</svg>
