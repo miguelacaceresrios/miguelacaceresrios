@@ -111,7 +111,7 @@
     <!-- Columna derecha: Discord arriba + Top Langs abajo (60%) -->
     <td align="center" width="60%">
       <a href="https://discord.gg/Da6mtxDGdJ">
-        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/discord%20server.svg" width="100%" alt="Discord Server">
+        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/codechambers.svg" width="100%" alt="Discord Server">
       </a>
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&theme=github_dark&hide_border=true&layout=compact&langs_count=12&card_width=600" width="100%" alt="Top Langs">
@@ -149,11 +149,11 @@
 
 <!-- Sube los 3 SVGs a tu carpeta assets/ y apuntan solos -->
 
-[![SQL Nivel I](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sql-nivel-1.svg)](https://udemy.com/curso-sql-basico)
+[![SQL Nivel I](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sql1.svg)](https://udemy.com/curso-sql-basico)
 
-[![SQL Nivel II](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sql-nivel-2.svg)](https://udemy.com/curso-sql-intermedio)
+[![SQL Nivel II](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sqlintermedio.svg)](https://udemy.com/curso-sql-intermedio)
 
-[![SQL Nivel III](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sql-nivel-3.svg)](https://udemy.com/curso-sql-avanzado)
+[![SQL Nivel III](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sql-nivelavanzado.svg)](https://udemy.com/curso-sql-avanzado)
 
 ---
 
