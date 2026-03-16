@@ -39,36 +39,43 @@
   </tr>
 </table>
 
-<!-- ====== TROFEOS ====== -->
+---
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=miguelacaceresrios&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<!-- ====== SPOTIFY + FASTFETCH ====== -->
+<!-- ====== FASTFETCH ====== -->
 
 <table align="center" width="92%">
   <tr valign="top">
-    <td align="center" width="45%">
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="100%" alt="Spotify Now Playing">
-      </a>
+    <td align="right" width="50%">
+      <pre>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠒⠉⢀⡴⠁⢀⠜⠁⡠⠃
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠎⠀⠀⡴⠉⠀⡠⠃⡠⠏⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠔⠉⣷⠁⠀⠀⠀⠧⠔⢊⠞⠉⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠁⠀⠀⠀⠀⠀⠀⣀⠤⠋⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡔⠁⠀⠀⠀⠀⣰⣋⣁⣀⣀⣀⣀⡀⡀⣀⣀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠄⠤⠎⠀⣀⡤⠤⢄⣀⣃⣀⣀⠤⡲⠀⠀⠀⣀⠤⠋⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⠊⠈⠀⠀⠀⠀⠀⡏⠀⠀⠀⠀⠀⠀⠀⢀⡞⠀⠀⠀⠀⠈⠳⠤⣤⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠁⠀⠀⠀⠀⠀⠀⠀⢀⠄⠀⠀⠀⠀⠀⠀⢀⠔⠁⠀⠤⠤⡀⠀⠀⠐⢇⣀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠃⢀⡴⠚⡽⠃⠀⠀⠀⢸⠀⠀⠀⠀⠔⠒⠉⠀⠀⠀⠀⠀⠀⠘⡄⠀⠀⠀⢠⠞
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠐⠊⠀⠀⢀⣼⡤⠃⠀⠀⠀⠀⠀⠀⠙⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⣝⠂⠀⠀⠀⠉
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠋⠀⠀⠀⣀⡀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠤⠴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⠀⠀⠀⢣⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣀⠔⠋⣀⠠⠤⠒⠊⠁⠀⠀⠀⣀⡀⠀⠀⡖⠉⠉⠁⠀⠀⠀⠀⠀⠀⢀⠆⠀⠀⠀⢠⠤⠇⠀⠀⠙⢟⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠘⢆⠀⠮⠀⠀⠀⠀⠀⠀⠀⠀⡸⠁⠈⠓⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡸⠀⠀⠉⠉⠁⠀⠀⠀⠀⠀⠀⣳⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⣄⠠⠔⠉⠀⠃⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⢤⣊⡀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠉⡆⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠒⠒⠒⠒⠒⠒⠒⠊⠉⠉⠁⠉⠉⠉⠉⠀⠈⠙⣄⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠈⡇⠀⠀⠀⠀⠀⠤
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡆⠒⠛⠓⡆⠀⠀⠣⣄⣈⠏⠁⠀⠀⠀⠀⠀⣀⣀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢇⡀⠉
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⡠⠒⠁⠀⠀⠀⠀⠀⠀⡄⠀⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡸⠈⠉⠉⠉⡆⠀⠀⠀⠀⠀⠀⠉⠉⠧⣀⡠⢆⣀⠔
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠁⢀⡠⠖⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠉⠁⢀⠤⠊⠈⡆⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡃⠀⠰⠂⠁⠀⡠⠎⠀⠀⠀⠈⠓⠤⠋⠂⠒⠒⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠇⠀⠀⠀⠴⠋⠉⠉⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣃⠀⠀⠀⠀⢀⣤⡮⠥⠤⠤⡀⠀⠀⠀⠐⠦⠤⠖⠚⠁⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢣⡀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+      </pre>
     </td>
-    <td align="left" width="55%">
-      <table>
-        <tr valign="top">
-          <td align="right" style="padding:0;margin:0">
-            <pre>
-<!-- PON TU ASCII ART AQUÍ
-     Copia el output de tu imagen ASCII y pégalo
-     en este bloque <pre>, reemplazando este comentario.
-     Quedará pegado a la izquierda del fastfetch. -->
-            </pre>
-          </td>
-          <td align="left" style="padding:0;margin:0">
-            <pre>
+    <td align="left" width="50%">
+      <pre>
 miguel@pop-os
 ─────────────────────────
 OS      : Pop!_OS 22.04 LTS
@@ -85,10 +92,26 @@ Memory  : disponible
 Disk    : /dev/sda
 ─────────────────────────
 Dotfiles: github.com/miguelacaceresrios
-            </pre>
-          </td>
-        </tr>
-      </table>
+      </pre>
+      <br>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=miguelacaceresrios&theme=onedark&no-frame=true&row=1&column=4" width="100%" alt="Trofeos">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- ====== SPOTIFY + LANGS ====== -->
+
+<table align="center" width="92%">
+  <tr valign="middle">
+    <td align="center" width="40%">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="100%" alt="Spotify Now Playing">
+      </a>
+    </td>
+    <td align="center" width="60%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&theme=github_dark&hide_border=true&layout=compact&langs_count=12&card_width=600" width="100%" alt="Top Langs">
     </td>
   </tr>
 </table>
@@ -142,22 +165,10 @@ App móvil con **geolocalización en tiempo real** que conecta parejas y sugiere
 
 Herramienta de **monitoreo y auditoría de actividad** en sistemas locales. Logging visual, captura de pantalla programática y almacenamiento estructurado para análisis forense o control parental empresarial.
 
-![Python](https://img.shields.io/badge/Python-202020?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-202020?style=flat-square&logo=opencv&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-202020?style=flat-square&logo=sqlite&logoColor=white)
-![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-202020?style=flat-square&logo=python&logoColor=white)
 
 [![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelacaceresrios/ojo-de-sauron)
-
----
-
-<!-- ====== LENGUAJES ====== -->
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&theme=github_dark&hide_border=true&layout=compact&langs_count=12&card_width=900)
-
-</div>
 
 ---
 
@@ -172,10 +183,6 @@ Herramienta de **monitoreo y auditoría de actividad** en sistemas locales. Logg
 [![SQL Nivel II](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sql-nivel-2.svg)](https://udemy.com/curso-sql-intermedio)
 
 [![SQL Nivel III](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sql-nivel-3.svg)](https://udemy.com/curso-sql-avanzado)
-
----
-
-<!-- ====== TROFEOS ====== -->
 
 ---
 
@@ -228,7 +235,7 @@ Herramienta de **monitoreo y auditoría de actividad** en sistemas locales. Logg
 ## ✧ Fan Games ✧
 
 <table width="92%">
-  <tr valign="top" align="center">
+  <tr valign="middle" align="center">
     <td width="50%">
       <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/koishi-komeiji.gif" width="200" alt="Koishi GIF"><br><br>
       <h3>💜 Koishi — In Mind We Trust</h3>
