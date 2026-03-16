@@ -8,11 +8,11 @@
 
 <br>
 
-<!-- ====== BIO + SPOTIFY ====== -->
+<!-- ====== BIO ====== -->
 
 <table align="center" width="92%">
   <tr valign="middle">
-    <td align="left" width="60%">
+    <td align="left">
       <h1>Sobre mí</h1>
       <p>
         <b>Desde 2012</b> he enfocado mi vida en el desarrollo de videojuegos, una pasión que nació en mi infancia y definió mi camino profesional.
@@ -24,7 +24,7 @@
         En <b>2023</b> destaqué en mis estudios técnicos y actualmente continúo mi formación universitaria, con la meta de consolidar mi carrera en la industria tecnológica.
       </p>
       <br>
-      <a href="https://www.linkedin.com/in/miguelacaceresrios"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/miguelacaceresrios"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20"></a>
       &nbsp;
       <a href="https://www.youtube.com/@miguelangelcaceresrios-code"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-000?style=flat-square&logo=youtube&logoColor=white"></a>
       &nbsp;
@@ -33,11 +33,62 @@
       <a href="https://buymeacoffee.com/miguelacaca"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Coffee-000?style=flat-square&logo=buymeacoffee&logoColor=white"></a>
       &nbsp;
       <a href="https://www.patreon.com/c/u104187367"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-000?style=flat-square&logo=patreon&logoColor=white"></a>
+      &nbsp;&nbsp;
+      <a href="https://www.codewars.com/users/miguelacaceresrios"><img src="https://www.codewars.com/users/miguelacaceresrios/badges/large" alt="Codewars"></a>
     </td>
-    <td align="center" width="40%">
+  </tr>
+</table>
+
+<!-- ====== TROFEOS ====== -->
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=miguelacaceresrios&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<!-- ====== SPOTIFY + FASTFETCH ====== -->
+
+<table align="center" width="92%">
+  <tr valign="top">
+    <td align="center" width="45%">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="310" alt="Spotify Now Playing">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="100%" alt="Spotify Now Playing">
       </a>
+    </td>
+    <td align="left" width="55%">
+      <table>
+        <tr valign="top">
+          <td align="right" style="padding:0;margin:0">
+            <pre>
+<!-- PON TU ASCII ART AQUÍ
+     Copia el output de tu imagen ASCII y pégalo
+     en este bloque <pre>, reemplazando este comentario.
+     Quedará pegado a la izquierda del fastfetch. -->
+            </pre>
+          </td>
+          <td align="left" style="padding:0;margin:0">
+            <pre>
+miguel@pop-os
+─────────────────────────
+OS      : Pop!_OS 22.04 LTS
+Kernel  : Linux x86_64
+Shell   : bash / zsh
+WM      : GNOME (Wayland)
+Terminal: kitty
+Font    : JetBrains Mono
+Editor  : Neovim / VSCode
+─────────────────────────
+CPU     : Intel Core i5
+GPU     : dedicada
+Memory  : disponible
+Disk    : /dev/sda
+─────────────────────────
+Dotfiles: github.com/miguelacaceresrios
+            </pre>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -46,178 +97,65 @@
 
 <!-- ====== ISOMETRICAL GAME COMPANY ====== -->
 
-<div align="center">
-
-## ISOMETRICAL GAME COMPANY (ദ്ദി˙ᗜ˙)
-
-<table width="92%">
-  <tr valign="middle">
-    <td align="center" width="210">
-      <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/isometrical-blacklogo.webp" width="180" alt="Logo Isometrical">
-    </td>
-    <td align="left">
-      <p>Estudio independiente de videojuegos fundado por mí. Desarrollamos juegos originales, mods, experiencias interactivas y prototipos experimentales con identidad propia. Nos especializamos en perspectivas isométricas combinando arte, tecnología y narrativa.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Game_Development-00C853?style=flat-square&logo=godotengine&logoColor=white">
-        <img src="https://img.shields.io/badge/Mod_Development-00C853?style=flat-square&logo=steam&logoColor=white">
-        <img src="https://img.shields.io/badge/Indie_Studio-00C853?style=flat-square&logo=itch-dot-io&logoColor=white">
-        <img src="https://img.shields.io/badge/Isometric_Art-00C853?style=flat-square&logoColor=white">
-        <br>
-        <img src="https://img.shields.io/badge/Godot_Engine-202020?style=flat-square&logo=godotengine&logoColor=white">
-        <img src="https://img.shields.io/badge/GDScript-202020?style=flat-square&logo=godotengine&logoColor=white">
-        <img src="https://img.shields.io/badge/Pixel_Art-202020?style=flat-square&logoColor=white">
-        <img src="https://img.shields.io/badge/Narrative_Design-202020?style=flat-square&logoColor=white">
-      </p>
-      <a href="https://isometrical-page.vercel.app/"><img src="https://img.shields.io/badge/Página_Oficial-00C853?style=for-the-badge" alt="Página Oficial"></a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- ====== KETO NDOLO ====== -->
-
-<div align="center">
-
-## »»————- ✧　Keto Ndolo‎ 𓆏 ‎✧　————-««
-
-<table width="92%">
-  <tr valign="middle">
-    <td align="center" width="45%">
-      <img src="https://i.postimg.cc/DZ3Z4K3Z/isometrical-poster.png" alt="Keto Ndolo Poster" width="390">
-    </td>
-    <td align="left" width="55%">
-      <h3>📘 Proyecto en desarrollo</h3>
-      <p>
-        <b>Género:</b> Metroidvania / Exploración narrativa<br>
-        <b>Motor:</b> Godot Engine 4.3<br>
-        <b>Estado:</b> Pre-Alpha<br>
-        <b>Rol:</b> Código y estética
-      </p>
-      <blockquote>
-        <i>"Bajo la lluvia eterna, Keto avanza entre raíces que recuerdan su nombre.<br>
-        La selva no lo guía: lo juzga.<br>
-        En su silencio vive la fuerza de quien defiende sin rencor."</i>
-      </blockquote>
-      <p><code>Estudio:</code> Isometrical Game Company &nbsp;·&nbsp; <code>Build:</code> α 0.0.1 &nbsp;·&nbsp; <code>2025</code></p>
-    </td>
-  </tr>
-</table>
-
-</div>
+[![Isometrical Game Company](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/isometrical-game-company.svg)](https://isometrical-page.vercel.app/)
 
 ---
 
 <!-- ====== ISOMETRICAL DIGITAL SOLUTIONS ====== -->
 
-<div align="center">
-
-## ISOMETRICAL DIGITAL SOLUTIONS (⌐■_■)
-
-<table width="92%">
-  <tr valign="middle">
-    <td align="center" width="210">
-      <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/isometrical-blacklogo.webp" width="180" alt="Logo Digital Solutions">
-    </td>
-    <td align="left">
-      <p>Rama de desarrollo de software del ecosistema Isometrical. Páginas web, apps de escritorio, bots y soluciones digitales a medida. Arquitectura sólida y soluciones que funcionan.</p>
-      <p>
-        <img alt="Web" src="https://img.shields.io/badge/Sitios_Web-202020?style=flat-square&logo=google-chrome&logoColor=white">
-        <img alt="Desktop" src="https://img.shields.io/badge/Apps_Escritorio-202020?style=flat-square&logo=electron&logoColor=white">
-        <img alt="Bots" src="https://img.shields.io/badge/Bots_%26_Automatización-202020?style=flat-square&logo=probot&logoColor=white">
-        <img alt="APIs" src="https://img.shields.io/badge/APIs_REST-202020?style=flat-square&logo=fastapi&logoColor=white">
-        <img alt="DB" src="https://img.shields.io/badge/Bases_de_Datos-202020?style=flat-square&logo=sqlite&logoColor=white">
-      </p>
-      <a href="https://isometrical-page.vercel.app/"><img src="https://img.shields.io/badge/Página_Oficial-00C853?style=for-the-badge" alt="Página Oficial"></a>
-    </td>
-  </tr>
-</table>
-
-</div>
+[![Isometrical Digital Solutions](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/isometrical-digital-solutions.svg)](https://isometrical-page.vercel.app/)
 
 ---
 
 <!-- ====== PROYECTOS ====== -->
 
-<div align="center">
-
 ## ✧ Proyectos ✧
 
-<table width="92%">
-  <tr valign="top">
-    <td width="34%" align="center">
-      <h3>🔴 Ojo de Sauron</h3>
-      <p align="left">Sistema de registro visual que actúa como un <b>screen logger</b> para análisis local. Captura y monitorea actividad de pantalla en tiempo real.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Python-202020?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/OpenCV-202020?style=flat-square&logo=opencv&logoColor=white">
-        <img src="https://img.shields.io/badge/SQLite-202020?style=flat-square&logo=sqlite&logoColor=white">
-        <img src="https://img.shields.io/badge/PyAutoGUI-202020?style=flat-square&logo=python&logoColor=white">
-      </p>
-      <p align="left"><i>"Nada escapa a su mirada."</i></p>
-      <a href="https://github.com/miguelacaceresrios/ojo-de-sauron">
-        <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>🔵 Voxcha</h3>
-      <p align="left">App de comunicación en tiempo real inspirada en Discord. Grupos, chats y llamadas vía WebRTC.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Tauri-202020?style=flat-square&logo=tauri&logoColor=white">
-        <img src="https://img.shields.io/badge/React-202020?style=flat-square&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/Socket.io-202020?style=flat-square&logo=socketdotio&logoColor=white">
-        <img src="https://img.shields.io/badge/WebRTC-202020?style=flat-square&logoColor=white">
-      </p>
-      <br>
-      <a href="https://github.com/miguelacaceresrios/Voxcha">
-        <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>💗 Aimai</h3>
-      <p align="left">App de citas para parejas que sugiere planes cercanos según ubicación compartida.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/React_Native-202020?style=flat-square&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/Node.js-202020?style=flat-square&logo=nodedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/Geolocalización-202020?style=flat-square&logo=googlemaps&logoColor=white">
-      </p>
-      <br>
-      <a href="https://github.com/miguelacaceresrios/Aimai">
-        <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-    </td>
+**🕷️ Segestria**
 
-  </tr>
-</table>
+Launcher custom para Minecraft no-premium. Lógica en **Rust** compartida entre escritorio y Android, UI nativa con **Tauri** en PC y **Jetpack Compose** en móvil. Autenticación vía Discord — si estás en el servidor, puedes jugar. Actualizaciones automáticas desde un manifest en la nube: el launcher compara, descarga solo lo que cambió y lanza. Sin Electron, sin cuentas propias, sin complicaciones.
 
-</div>
+![Rust](https://img.shields.io/badge/Rust-202020?style=flat-square&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-202020?style=flat-square&logo=tauri&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-202020?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-202020?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord_Auth-202020?style=flat-square&logo=discord&logoColor=white)
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelacaceresrios/Segestria)
 
 ---
 
-<!-- ====== ESTADÍSTICAS ====== -->
+**💗 Aimai**
+
+App móvil con **geolocalización en tiempo real** que conecta parejas y sugiere experiencias cercanas. Backend REST con autenticación, matching por proximidad y notificaciones push.
+
+![React Native](https://img.shields.io/badge/React_Native-202020?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-202020?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-202020?style=flat-square&logo=postgresql&logoColor=white)
+![Google Maps API](https://img.shields.io/badge/Google_Maps_API-202020?style=flat-square&logo=googlemaps&logoColor=white)
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelacaceresrios/Aimai)
+
+---
+
+**🔴 Ojo de Sauron**
+
+Herramienta de **monitoreo y auditoría de actividad** en sistemas locales. Logging visual, captura de pantalla programática y almacenamiento estructurado para análisis forense o control parental empresarial.
+
+![Python](https://img.shields.io/badge/Python-202020?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-202020?style=flat-square&logo=opencv&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-202020?style=flat-square&logo=sqlite&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-202020?style=flat-square&logo=python&logoColor=white)
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelacaceresrios/ojo-de-sauron)
+
+---
+
+<!-- ====== LENGUAJES ====== -->
 
 <div align="center">
 
-## Oº°'¨ ESTADÍSTICAS ¨'°ºO
-
-<a href="https://www.codewars.com/users/miguelacaceresrios">
-  <img src="https://www.codewars.com/users/miguelacaceresrios/badges/large" alt="Codewars Badge" width="420">
-</a>
-
-<br><br>
-
-<table width="100%">
-  <tr>
-    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelacaceresrios&theme=github_dark" width="100%" alt="Stats"></td>
-    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelacaceresrios&theme=github_dark" width="100%" alt="Repos por lenguaje"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miguelacaceresrios&theme=github_dark" width="100%" alt="Lenguaje más usado"></td>
-    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miguelacaceresrios&theme=github_dark&utcOffset=-5" width="100%" alt="Horario productivo"></td>
-  </tr>
-</table>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&theme=github_dark&hide_border=true&layout=compact&langs_count=12&card_width=900)
 
 </div>
 
@@ -225,109 +163,31 @@
 
 <!-- ====== CURSOS ====== -->
 
-<div align="center">
-
 ## ˗ˏˋ ★ ˎˊ˗ CURSOS Y MATERIAL DE ESTUDIO ˗ˏˋ ★ ˎˊ˗
 
-<img src="https://img.shields.io/badge/────────────────────────%20SQL%20SERIES%20COMPLETA%20────────────────────────-0d0d0d?style=for-the-badge" alt="SQL Series">
+<!-- Sube los 3 SVGs a tu carpeta assets/ y apuntan solos -->
 
-<br><br>
+[![SQL Nivel I](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sql-nivel-1.svg)](https://udemy.com/curso-sql-basico)
 
-<table width="92%">
-  <tr valign="top" align="center">
-    <!-- Nivel 1 -->
-    <td width="32%">
-      <img src="https://img.shields.io/badge/NIVEL_I_%E2%80%94_INICIO-228B22?style=for-the-badge" alt="Nivel 1">
-      <br><img src="https://img.shields.io/badge/●○○-%231a1a1a?style=flat-square&logoColor=white" alt="nivel">
-      <br><br>
-      <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp" width="210" height="118" alt="Curso SQL Básico">
-      <br><br>
-      <b>SQL para los que odian<br>los tecnicismos</b>
-      <br><br>
-      <img src="https://img.shields.io/badge/⏱%2015%20horas-1a1a1a?style=flat-square">
-      <img src="https://img.shields.io/badge/Sin_requisitos-1a1a1a?style=flat-square">
-      <br><br>
-      <p align="left">
-        ✔ Consultas desde cero<br>
-        ✔ SELECT, WHERE, JOIN<br>
-        ✔ Proyectos prácticos<br>
-        ✔ Sin jerga innecesaria
-      </p>
-      <a href="https://udemy.com/curso-sql-basico">
-        <img src="https://img.shields.io/badge/Empezar_aquí_→-228B22?style=for-the-badge&logo=Udemy&logoColor=white">
-      </a>
-    </td>
-    <td width="2%" valign="middle" align="center"><h2>›</h2></td>
-    <!-- Nivel 2 -->
-    <td width="32%">
-      <img src="https://img.shields.io/badge/NIVEL_II_%E2%80%94_DOMINIO-1a7a2a?style=for-the-badge" alt="Nivel 2">
-      <br><img src="https://img.shields.io/badge/●●○-%231a1a1a?style=flat-square&logoColor=white" alt="nivel">
-      <br><br>
-      <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp" width="210" height="118" alt="Curso SQL Intermedio">
-      <br><br>
-      <b>SQL Intermedio</b>
-      <br><br>
-      <img src="https://img.shields.io/badge/⏱%2030%20horas-1a1a1a?style=flat-square">
-      <img src="https://img.shields.io/badge/Nivel_I_recomendado-1a1a1a?style=flat-square">
-      <br><br>
-      <p align="left">
-        ✔ Relaciones entre tablas<br>
-        ✔ Subconsultas y vistas<br>
-        ✔ Índices y rendimiento<br>
-        ✔ Casos reales de negocio
-      </p>
-      <a href="https://udemy.com/curso-sql-intermedio">
-        <img src="https://img.shields.io/badge/Continuar_→-1a7a2a?style=for-the-badge&logo=Udemy&logoColor=white">
-      </a>
-    </td>
-    <td width="2%" valign="middle" align="center"><h2>›</h2></td>
-    <!-- Nivel 3 -->
-    <td width="32%">
-      <img src="https://img.shields.io/badge/NIVEL_III_%E2%80%94_EXPERTO-0d5a1a?style=for-the-badge" alt="Nivel 3">
-      <br><img src="https://img.shields.io/badge/●●●-%231a1a1a?style=flat-square&logoColor=white" alt="nivel">
-      <br><br>
-      <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/image-none.webp" width="210" height="118" alt="Curso SQL Avanzado">
-      <br><br>
-      <b>SQL Avanzado</b>
-      <br><br>
-      <img src="https://img.shields.io/badge/⏱%2050%20horas-1a1a1a?style=flat-square">
-      <img src="https://img.shields.io/badge/Nivel_II_recomendado-1a1a1a?style=flat-square">
-      <br><br>
-      <p align="left">
-        ✔ Diseño profesional de BD<br>
-        ✔ Normalización y triggers<br>
-        ✔ Optimización avanzada<br>
-        ✔ Arquitectura de datos
-      </p>
-      <a href="https://udemy.com/curso-sql-avanzado">
-        <img src="https://img.shields.io/badge/Completar_ruta_→-0d5a1a?style=for-the-badge&logo=Udemy&logoColor=white">
-      </a>
-    </td>
+[![SQL Nivel II](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sql-nivel-2.svg)](https://udemy.com/curso-sql-intermedio)
 
-  </tr>
-</table>
+[![SQL Nivel III](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sql-nivel-3.svg)](https://udemy.com/curso-sql-avanzado)
 
-</div>
+---
+
+<!-- ====== TROFEOS ====== -->
 
 ---
 
 <!-- ====== ARTÍCULOS ====== -->
 
-
-
-
-<div align="center">
-
 ## ٩(ˊᗜˋ )و ARTÍCULOS ٩(ˊᗜˋ )و
-
-</div>
 
 <table align="center" width="90%">
   <tr valign="top">
     <td align="center" width="260">
       <a href="https://www.linkedin.com/pulse/4chan-y-el-d%C3%ADa-que-anonimato-fall%C3%B3-ciberataque-una-caceres-rios-hmi8e">
-        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/1745688717176.webp"
-             alt="Artículo 4chan" width="230">
+        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/1745688717176.webp" alt="Artículo 4chan" width="230">
       </a>
     </td>
     <td align="left" valign="middle">
@@ -336,9 +196,7 @@
           4chan y el Día que el Anonimato Falló
         </a>
       </h3>
-      <p>
-        4chan sufrió una caída masiva y filtración interna, marcando un precedente sobre los límites del anonimato y la seguridad digital.
-      </p>
+      <p>4chan sufrió una caída masiva y filtración interna, marcando un precedente sobre los límites del anonimato y la seguridad digital.</p>
     </td>
   </tr>
 </table>
@@ -346,23 +204,22 @@
 <table align="center" width="90%">
   <tr valign="top">
     <td align="center" width="260">
-      <a href="https://www.linkedin.com/pulse/4chan-y-el-d%C3%ADa-que-anonimato-fall%C3%B3-ciberataque-una-caceres-rios-hmi8e">
-        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/1745688717176.webp"
-             alt="Artículo 4chan" width="230">
+      <a href="https://www.linkedin.com/pulse/lisp-el-lenguaje-que-sembr%C3%B3-las-ra%C3%ADces-de-la-caceres-rios-ozlme/">
+        <img src="https://media.licdn.com/dms/image/v2/D4E12AQFdLEh1NlWbTg/article-cover_image-shrink_720_1280/B4EZi_3itKGwAI-/0/1755565668146?e=1775088000&v=beta&t=74eys5p_jptiHnFCKpYmL8f7NmORsBY4gbOA9AO7CXw" alt="Artículo LISP" width="230">
       </a>
     </td>
     <td align="left" valign="middle">
       <h3>
-        <a href="https://www.linkedin.com/pulse/4chan-y-el-d%C3%ADa-que-anonimato-fall%C3%B3-ciberataque-una-caceres-rios-hmi8e">
-          4chan y el Día que el Anonimato Falló
+        <a href="https://www.linkedin.com/pulse/lisp-el-lenguaje-que-sembr%C3%B3-las-ra%C3%ADces-de-la-caceres-rios-ozlme/">
+          LISP: el Lenguaje que Sembró las Raíces de la IA
         </a>
       </h3>
-      <p>
-        4chan sufrió una caída masiva y filtración interna, marcando un precedente sobre los límites del anonimato y la seguridad digital.
-      </p>
+      <p>LISP no es un lenguaje muerto: es el ancestro silencioso de la inteligencia artificial moderna. Un viaje a los orígenes del pensamiento computacional.</p>
     </td>
   </tr>
-</table
+</table>
+
+---
 
 <!-- ====== FAN GAMES ====== -->
 
@@ -392,7 +249,6 @@
         <img src="https://img.shields.io/badge/RPG-202020?style=flat-square">
       </p>
     </td>
-
   </tr>
 </table>
 
