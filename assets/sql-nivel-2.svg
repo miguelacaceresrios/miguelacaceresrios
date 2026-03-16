@@ -1,0 +1,46 @@
+<svg width="800" height="230" viewBox="0 0 800 230" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', system-ui, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#090c12"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e3a5f"/>
+      <stop offset="100%" style="stop-color:#2d5a8e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="230" rx="8" fill="url(#bg)"/>
+  <rect x="1" y="1" width="798" height="228" rx="8" fill="none" stroke="#1e3a5f" stroke-width="1"/>
+  <rect x="0" y="0" width="800" height="4" rx="2" fill="url(#bar)"/>
+
+  <!-- Badge -->
+  <rect x="20" y="18" width="96" height="26" rx="4" fill="#1e3a5f"/>
+  <text x="68" y="35" fill="#7db3e8" font-size="12" font-weight="bold" text-anchor="middle">NIVEL II</text>
+  <circle cx="130" cy="32" r="5" fill="#2d5a8e"/><circle cx="146" cy="32" r="5" fill="#2d5a8e"/><circle cx="162" cy="32" r="5" fill="#0d1a2e" stroke="#1e3a5f" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="20" y="76" fill="#e8f0f8" font-size="20" font-weight="600">SQL Intermedio</text>
+  <line x1="20" y1="90" x2="780" y2="90" stroke="#1e3a5f" stroke-width="1"/>
+
+  <!-- Meta -->
+  <text x="20" y="112" fill="#4a7aaa" font-size="13">⏱  30 horas  ·  Nivel I recomendado  ·  Udemy</text>
+
+  <!-- Features -->
+  <text x="20"  y="136" fill="#2d5a8e" font-size="13">✔</text>
+  <text x="36"  y="136" fill="#8ba8c8" font-size="13">Relaciones entre tablas</text>
+  <text x="210" y="136" fill="#2d5a8e" font-size="13">✔</text>
+  <text x="226" y="136" fill="#8ba8c8" font-size="13">Subconsultas y vistas</text>
+  <text x="420" y="136" fill="#2d5a8e" font-size="13">✔</text>
+  <text x="436" y="136" fill="#8ba8c8" font-size="13">Índices y rendimiento</text>
+  <text x="604" y="136" fill="#2d5a8e" font-size="13">✔</text>
+  <text x="620" y="136" fill="#8ba8c8" font-size="13">Casos reales de negocio</text>
+
+  <!-- Progress bar -->
+  <rect x="20" y="152" width="760" height="5" rx="2.5" fill="#0d1a2e"/>
+  <rect x="20" y="152" width="507" height="5" rx="2.5" fill="#2d5a8e"/>
+
+  <!-- CTA — prominent -->
+  <rect x="20" y="168" width="760" height="46" rx="6" fill="#1e3a5f"/>
+  <text x="400" y="197" fill="#e8f0f8" font-size="16" font-weight="700" text-anchor="middle">Continuar — Nivel II →</text>
+</svg>
