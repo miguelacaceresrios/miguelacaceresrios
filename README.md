@@ -74,22 +74,21 @@
        gato@nixos
       ───────────────────────────
       ╭─ Hardware
-      │  Host   : custom build
-      │  CPU    : AMD Ryzen 7 · 16 cores
-      │  GPU    : NVIDIA GeForce RTX
+      │  CPU    : 12th Gen Intel(R) i5-12500H
       │  RAM    : 16.00 GiB
       │  Disk   : /dev/nvme0n1
       ╰─
       ╭─ Software
       │  OS     : NixOS (unstable)
-      │  Kernel : Linux 6.x.x-nixos
+      |  pkgs   : 2568
+      │  Kernel : Linux 6.18.6-nixos
       │  WM     : Hyprland (Wayland)
       │  Shell  : bash
       │  Term   : kitty
-      │  Editor : Neovim
+      │  Editor : VsCode
       ╰─
-      ╭─ dotfiles
-      │  github.com/miguelacaceresrios
+      ╭─ 
+      │  ▂▂⌇ ./esp/eng/rus
       ╰─
       </pre>
       <br>
@@ -220,7 +219,7 @@
 
 <!-- ====== FAN GAMES ====== -->
 
-<div align="center">
+<div align="center" >
 
 ## ✧ Fan Games ✧
 
