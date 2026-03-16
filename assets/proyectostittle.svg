@@ -1,0 +1,12 @@
+<svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgTitle" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7d681f"/>
+      <stop offset="50%" stop-color="#be9e44"/>
+      <stop offset="100%" stop-color="#7d681f"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="80" fill="#1a1a1a" rx="10" ry="10"/>
+  <rect x="2" y="2" width="596" height="76" fill="none" stroke="url(#bgTitle)" stroke-width="2" rx="8" ry="8"/>
+  <text x="300" y="48" fill="#be9e44" font-size="28" font-weight="bold" text-anchor="middle" font-family="'Georgia', serif" letter-spacing="2">✧ PROYECTOS ✧</text>
+</svg>
