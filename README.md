@@ -10,7 +10,7 @@
 
 <!-- ====== BIO ====== -->
 
-<table align="center" width="92%">
+<table align="center" width="85%">
   <tr valign="middle">
     <td align="left">
       <h1>Sobre mí</h1>
