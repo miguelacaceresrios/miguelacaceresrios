@@ -38,15 +38,7 @@
 
 <!-- ====== PROYECTOS ====== -->
 
-## ✧ Proyectos ✧
 
-[![Segestria](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/project-segestria.svg)](https://github.com/miguelacaceresrios/Segestria)
-
-[![Aimai](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/project-aimai.svg)](https://github.com/miguelacaceresrios/Aimai)
-
-[![Ojo de Sauron](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/project-ojo-de-sauron.svg)](https://github.com/miguelacaceresrios/ojo-de-sauron)
-
----
 
 <!-- ====== FASTFETCH ====== -->
 
