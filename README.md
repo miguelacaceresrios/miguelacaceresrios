@@ -146,17 +146,6 @@
   </tr>
 </table>
 
-<!-- ====== ISOMETRICAL GAME COMPANY ====== -->
-
-[![Isometrical Game Company](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/isometrical-game-company.svg)](https://isometrical-page.vercel.app/)
-
----
-
-<!-- ====== ISOMETRICAL DIGITAL SOLUTIONS ====== -->
-
-[![Isometrical Digital Solutions](https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/isometrical-digital-solutions.svg)](https://isometrical-page.vercel.app/)
-
----
 
 <!-- ====== ARTÍCULOS ====== -->
 
