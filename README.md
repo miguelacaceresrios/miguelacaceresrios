@@ -55,24 +55,7 @@
 --- 
 <!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 
-<table align="center" width="92%">
-  <tr valign="middle">
-    <!-- Columna izquierda: Spotify (40%) -->
-    <td align="center" width="40%">
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="100%" alt="Spotify Now Playing">
-      </a>
-    </td>
-    <!-- Columna derecha: Discord arriba + Top Langs abajo (60%) -->
-    <td align="center" width="60%">
-      <a href="https://discord.gg/Da6mtxDGdJ">
-        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/codechambers.svg" width="100%" alt="Discord Server">
-      </a>
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&theme=tokyonight&hide_border=true&layout=compact&langs_count=12&card_width=600" width="100%" alt="Top Langs">
-    </td>
-  </tr>
-</table>
+<table align="center" width="92%"><tr valign="middle"><td align="center" width="40%"><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="100%" alt="Spotify Now Playing"></a></td><td align="center" width="60%"><a href="https://discord.gg/Da6mtxDGdJ"><img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/codechambers.svg" width="100%" alt="Discord Server"></a><br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&theme=tokyonight&hide_border=true&layout=compact&langs_count=12&card_width=600" width="100%" alt="Top Langs"></td></tr></table>
 
 <!-- ====== CURSOS ====== -->
 <p align="center"> 
