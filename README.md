@@ -1,7 +1,3 @@
-<!-- ======================================================= -->
-<!--               MIGUEL ÁNGEL CÁCERES RÍOS                 -->
-<!-- ======================================================= -->
-
 <div align="center">
   <img src="https://i.postimg.cc/7ZMmj0Ss/a.webp" width="100%" alt="banner">
 </div>
