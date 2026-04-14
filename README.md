@@ -4,34 +4,40 @@
 
 --- 
 <!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
-
-<table align="center" width="92%"><tr valign="top"><td align="right" width="50%"><pre>
-⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠒⠉⢀⡴⠁⢀⠜⠁⡠⠃
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠎⠀⠀⡴⠉⠀⡠⠃⡠⠏⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠔⠉⣷⠁⠀⠀⠀⠧⠔⢊⠞⠉⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠁⠀⠀⠀⠀⠀⠀⣀⠤⠋⠁⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡔⠁⠀⠀⠀⠀⣰⣋⣁⣀⣀⣀⣀⡀⡀⣀⣀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠄⠤⠎⠀⣀⡤⠤⢄⣀⣃⣀⣀⠤⡲⠀⠀⠀⣀⠤⠋⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⠊⠈⠀⠀⠀⠀⠀⡏⠀⠀⠀⠀⠀⠀⠀⢀⡞⠀⠀⠀⠀⠈⠳⠤⣤⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠁⠀⠀⠀⠀⠀⠀⠀⢀⠄⠀⠀⠀⠀⠀⠀⢀⠔⠁⠀⠤⠤⡀⠀⠀⠐⢇⣀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠃⢀⡴⠚⡽⠃⠀⠀⠀⢸⠀⠀⠀⠀⠔⠒⠉⠀⠀⠀⠀⠀⠀⠘⡄⠀⠀⠀⢠⠞
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠐⠊⠀⠀⢀⣼⡤⠃⠀⠀⠀⠀⠀⠀⠙⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⣝⠂⠀⠀⠀⠉
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠋⠀⠀⠀⣀⡀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠤⠴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⠀⠀⠀⢣⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣀⠔⠋⣀⠠⠤⠒⠊⠁⠀⠀⠀⣀⡀⠀⠀⡖⠉⠉⠁⠀⠀⠀⠀⠀⠀⢀⠆⠀⠀⠀⢠⠤⠇⠀⠀⠙⢟⠀⠀⠀⠀
-⠀⠀⠀⠘⢆⠀⠮⠀⠀⠀⠀⠀⠀⠀⠀⡸⠁⠈⠓⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡸⠀⠀⠉⠉⠁⠀⠀⠀⠀⠀⠀⣳⠀⠀⠀
-⠀⠀⠀⠀⠑⣄⠠⠔⠉⠀⠃⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⢤⣊⡀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠉⡆⠀⠀
-⠀⠀⠀⠀⠀⠀⠙⠒⠒⠒⠒⠒⠒⠒⠊⠉⠉⠁⠉⠉⠉⠉⠀⠈⠙⣄⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠈⡇⠀⠀⠀⠀⠀⠤
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡆⠒⠛⠓⡆⠀⠀⠣⣄⣈⠏⠁⠀⠀⠀⠀⠀⣀⣀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢇⡀⠉
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⡠⠒⠁⠀⠀⠀⠀⠀⠀⡄⠀⡀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡸⠈⠉⠉⠉⡆⠀⠀⠀⠀⠀⠀⠉⠉⠧⣀⡠⢆⣀⠔
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠁⢀⡠⠖⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠉⠁⢀⠤⠊⠈⡆⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡃⠀⠰⠂⠁⠀⡠⠎⠀⠀⠀⠈⠓⠤⠋⠂⠒⠒⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠇⠀⠀⠀⠴⠋⠉⠉⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣃⠀⠀⠀⠀⢀⣤⡮⠥⠤⠤⡀⠀⠀⠀⠐⠦⠤⠖⠚⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢣⡀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-      </pre></td><td align="center" width="50%"><div align="left"><pre>
+<!-- i hate making this-->
+<table align="center" width="92%">  <tr valign="top">  <td align="right" width="50%"> <pre>
+⠀⠀⠀⠀⠀⠀⠀⠀    ⠀⠀      ⢀⣀⣠⣤⣤⠤⠤⣶⣶⣶⡤⠤⠤⠴⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+      ⠀⠀⠀⠀       ⣠⡴⠛⠽⢃⣩⢭⠭⠙⠒⢒⡒⢒⣲⡥⡢⣀⠀⠹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⡏⠀⠠⠊⠀⠀⢸⠁⠀⠀⠇⣀⣀⣀⣈⠉⠢⠁⠀⠻⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀     ⠀⣠⣞⣥⠄⠀⠾⠿⢿⣾⣤⠀⠠⣞⣩⠾⣿⠿⠵⢰⣆⣠⣒⠿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⡟⢻⠽⢲⢲⣤⠆⠀⣸⠇⠀⠀⣈⠀⠀⠈⠓⠒⠚⣋⣧⡈⢳⢸⢹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡮⣒⣼⣇⠀⠔⠾⣅⢀⠠⠶⠍⡿⢁⣁⣤⢶⠟⢉⣼⠟⡜⡸⣸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡆⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⠀⣿⢹⠓⡶⠤⢼⠯⢤⠴⠖⠛⣏⣁⣤⣾⠟⡿⠃⠀⣈⣾⣷⣶⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⡾⠴⠒⠛⠉
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⣿⣿⣿⣷⣶⣾⣶⣾⣶⣶⠾⣿⠋⠁⣸⡞⠁⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀⠀⣀⣤⠴⠚⢉⣡⠼⠖⣲⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡄⠿⣿⣻⡹⡏⠹⡏⠉⣿⠀⣀⣸⡷⠞⡉⣄⠠⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠉⠀⢠⣞⣉⡤⣶⠋⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠁⣀⠊⣉⠛⠻⠿⠿⠿⠛⢉⣉⣥⠢⢕⣮⣷⣿⣿⣿⠟⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⢀⡼⠃⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠗⠩⢀⡠⠤⢌⡩⠬⠍⠘⠛⡈⣉⣴⣿⢿⣿⠟⣺⣿⠏⠀⠀⠘⣿⣿⠹⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠈⠁⢀⣤⢴⡆⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠃⠀⠤⠤⠤⣉⢢⣤⡤⠶⢞⣿⣿⣿⡿⠃⣿⢧⣤⢿⠟⠀⠀⠀⠀⠘⣿⡂⠹⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠈⠰⠋⠀⠀⠀ 
+⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⣀⣀⣀⠀⡇⠀⠀⠀⢸⣿⣿⣿⢱⡏⣸⣿⣿⣷⠁⠀⠀⠀⠀⠰⣎⣿⣹⢿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    
+⠀⠀⠀⠀⠀⠀⢠⠃⠀⠀⠀⠀⠀⢹⠁⠀⠀⠀⢸⣿⣿⡏⡜⢰⣿⣿⣿⣿⡆⠀⠀⠀⠀⣰⣿⣿⣿⣿⣧⠹⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⡴⠦⠀⠀⠀⠀⠀⠀    
+⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠈⠹⡖⠁⠀⠀⠀⠀⢸⣿⣿⡇⣇⢸⡿⠻⣿⣿⡇⠀⠀⠀⠀⣿⣿⣿⣿⣿⠀⢻⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠶⠂⠀⠀⠀⠀⠀⠀     
+⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⣸⠃⠀⠀⠀⠀⠀⢸⣿⣿⠇⠀⠀⢣⣠⣾⡿⠁⠀⠀⠀⠀⢏⠀⣹⣿⡿⠀⣼⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠛⠀⠀⠀⠀⠀⠀⠀      
+⠀ ⠀⠀⠀⢀⠇⠀⠀⠀⡞⠁⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠂⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠈⠛⠿⠋⠁⠀⢸⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      
+⠀    ⡸⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠐⣺⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       
+ ⠀⠀⢀⠇⠀⠀⠀⡆⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⢸⠀⠀⠂⢰⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ⠀⠀⠀⠀  
+  ⠀⠀⢸⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣷⣤⣀⠀⠀⡣⢀⠠⠃⠀⠀⣀⣴⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀  ⠀⠀
+⠀⠀⠀⠀⡇⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⡿⣿⣿⣿⣿⡿⣿⢟⣒⠶⡤⠴⡶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
+⠀⠀⠀⠀⡇⠀⠀⠀⠀⡧⡤⣴⢢⠤⠖⠔⠒⣿⣿⣿⢣⢒⡀⠀⠀⠀⠾⠀⠉⠁⠉⠉⠉⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠉⢳⢨⡆⡇⠀⠀⠀⠿⣿⡇⠀⢏⠥⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⣷⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠘⡄⠀⠀⠀⠀⢀⣿⠘⠇⢸⠀⠀⠀⠀⠹⡇⠀⠈⢎⣥⣀⠀⠀⡆⠀⠀⠀⠀⠀⡆⠀⠀⠘⢿⣿⣿⠏⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠢⠤⢄⣠⣪⣾⠀⠀⢸⠀⠀⠄⠀⡇⠉⠀⠀⠈⢡⢊⡙⠀⡧⠤⠤⢀⡀⡼⠀⠀⠀⣐⠣⣿⢏⠀⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⢸⠀⠐⢸⠀⠀⢸⠀⡇⠀⠀⠀⠀⠈⠣⡑⢄⠸⠀⠀⠀⠠⠃⢰⡲⡞⡱⠹⠃⠈⢳⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⢀⡠⢁⡼⢢⠇⠀⠀⠈⣆⠁⠀⠀⠀⠀⠀⠀⠈⠂⢅⠧⠀⡰⠁⢀⢔⠗⠊⠀⢠⡀⠀⠀⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+      </pre>
+    </td>
+    <td align="center" width="50%">
+      <div align="left">
+        <pre>
        gato@nixos
       ───────────────────────────
       ╭─ Hardware
@@ -50,39 +56,12 @@
       ╭─ 
       │  ▂▂⌇ ./esp/eng
       ╰─
-      </pre><br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelacaceresrios&theme=onedark&no-frame=true&row=1&column=4" width="100%" alt="Trofeos"></a></div></td></tr></table>
-      
---- 
-<!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
+      </pre><br><a href="https://leetcode.com/miguelacaceresrios/"><img src="https://leetcard.jacoblin.cool/miguelacaceresrios?theme=dark&font=Nunito" width="100%" alt="LeetCode Stats"></a></div></td></tr></table>
 
+<!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 <table align="center" width="92%"><tr valign="middle"><td align="center" width="40%"><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="100%" alt="Spotify Now Playing"></a></td><td align="center" width="60%"><a href="https://discord.gg/Da6mtxDGdJ"><img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/codechambers.svg" width="100%" alt="Discord Server"></a><br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&theme=tokyonight&hide_border=true&layout=compact&langs_count=12&card_width=600" width="100%" alt="Top Langs"></td></tr></table>
 
-<!-- ====== CURSOS ====== -->
-<p align="center"> 
-<img  src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/cursos.svg"  width="60%" alt="Cursos" ></p>
-<table align="center" width="100%">
-  <tr valign="top" align="center">
-    <td width="33%">
-      <a href="https://udemy.com/curso-sql-basico">
-        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sql1.svg" width="95%" alt="SQL Nivel I">
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://udemy.com/curso-sql-intermedio">
-        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sqlintermedio.svg" width="95%" alt="SQL Nivel II">
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://udemy.com/curso-sql-avanzado">
-        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/sqlavanzado.svg" width="95%" alt="SQL Nivel III">
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-<!-- ====== ARTÍCULOS ====== -->
-
+<!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 ## ٩(ˊᗜˋ )و ARTÍCULOS ٩(ˊᗜˋ )و
 
 <table align="center" width="90%">
@@ -141,7 +120,7 @@
 
 ---
 
-<!-- ====== FAN GAMES ====== -->
+<!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 
 <div align="center" >
 
@@ -185,3 +164,4 @@
 > No hay fines comerciales — solo amor al arte y respeto a las obras originales.
 
 </div>
+      </pre><br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelacaceresrios&theme=onedark&no-frame=true&row=1&column=4" width="100%" alt="Trofeos"></a></div></td></tr></table>
