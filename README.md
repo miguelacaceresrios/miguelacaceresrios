@@ -33,11 +33,7 @@
 ⠄⠀⠀⠀⠀⠀⠀⠈⠢⠤⢄⣠⣪⣾⠀⠀⢸⠀⠀⠄⠀⡇⠉⠀⠀⠈⢡⢊⡙⠀⡧⠤⠤⢀⡀⡼⠀⠀⠀⣐⠣⣿⢏⠀⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⢸⠀⠐⢸⠀⠀⢸⠀⡇⠀⠀⠀⠀⠈⠣⡑⢄⠸⠀⠀⠀⠠⠃⢰⡲⡞⡱⠹⠃⠈⢳⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⡄⡀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢀⡠⢁⡼⢢⠇⠀⠀⠈⣆⠁⠀⠀⠀⠀⠀⠀⠈⠂⢅⠧⠀⡰⠁⢀⢔⠗⠊⠀⢠⡀⠀⠀⣇⠀⠀⠀⠀⠀
-      </pre>
-    </td>
-    <td align="center" width="50%">
-      <div align="left">
-        <pre>
+      </pre> </td> <td align="center" width="50%"> <div align="left"> <pre>
        gato@nixos
       ───────────────────────────
       ╭─ Hardware
@@ -59,7 +55,30 @@
       </pre><br><a href="https://leetcode.com/miguelacaceresrios/"><img src="https://leetcard.jacoblin.cool/miguelacaceresrios?theme=dark&font=Nunito" width="100%" alt="LeetCode Stats"></a></div></td></tr></table>
 
 <!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
-<table align="center" width="92%"><tr valign="top"><td align="center" width="50%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelacaceresrios&theme=onedark&no-frame=true&row=1&column=4" width="100%" alt="Trofeos"></a><br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&theme=tokyonight&hide_border=true&layout=compact&langs_count=12&card_width=500" width="100%" alt="Top Langs"><br><br><a href="https://discord.gg/Da6mtxDGdJ"><img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/codechambers.svg" width="100%" alt="Discord Server"></a></td><td align="center" width="50%"></td></tr></table>
+<table align="center" width="92%">
+  <tr valign="middle">
+    <!-- IZQUIERDA (60%) -->
+    <td align="center" width="60%">
+      <!-- STATS -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&theme=tokyonight&hide_border=true&layout=compact&langs_count=12" width="100%" />
+      <br><br>
+      <img src="https://github-profile-trophy.vercel.app/?username=miguelacaceresrios&theme=onedark&no-frame=true&row=1&column=4" width="100%" />
+      <br><br>
+      <!-- SVG -->
+      <a href="https://discord.gg/Da6mtxDGdJ">
+        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/codechambers.svg" width="100%" />
+      </a>
+    </td>
+    <!-- DERECHA (40%) -->
+    <td align="center" width="40%">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="100%" />
+      </a>
+    </td>
+
+  </tr>
+</table>
+
 <!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 ## ٩(ˊᗜˋ )و ARTÍCULOS ٩(ˊᗜˋ )و
 
