@@ -56,26 +56,23 @@
 
 <!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 <table align="center" width="92%">
-  <tr valign="middle">
+  <tr valign="middle"> 
     <!-- IZQUIERDA (60%) -->
     <td align="center" width="60%">
-      <!-- STATS -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelacaceresrios&theme=tokyonight&hide_border=true&layout=compact&langs_count=12" width="100%" />
+      <!-- TU NUEVO GRÁFICO DE RADAR FUNCIONAL -->
+      <img src="https://github-radar.vercel.app/api/radar?username=miguelacaceresrios" width="100%" alt="Lenguajes Radar Chart" />
       <br><br>
-      <img src="https://github-profile-trophy.vercel.app/?username=miguelacaceresrios&theme=onedark&no-frame=true&row=1&column=4" width="100%" />
-      <br><br>
-      <!-- SVG -->
+      <!-- SVG DE DISCORD -->
       <a href="https://discord.gg/Da6mtxDGdJ">
         <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/codechambers.svg" width="100%" />
       </a>
     </td>
-    <!-- DERECHA (40%) -->
+    <!-- DERECHA (40%) - TU SPOTIFY ORIGINAL -->
     <td align="center" width="40%">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="100%" />
       </a>
     </td>
-
   </tr>
 </table>
 
