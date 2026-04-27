@@ -54,49 +54,43 @@
       ╰─
       </pre><br><a href="https://leetcode.com/miguelacaceresrios/"><img src="https://leetcard.jacoblin.cool/miguelacaceresrios?theme=dark&font=Nunito" width="100%" alt="LeetCode Stats"></a></div></td></tr></table>
 
-<!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -
-
 <!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 <!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 
-<table align="center" width="92%">
+<table align="center" width="100%">
   <tr valign="middle">
-    <td align="center" width="520" valign="top">
+    <td align="center" width="55%" valign="top">
       <h2 align="center">Artículos Destacados</h2>
       <table align="center" width="100%">
         <tr>
-          <td align="center">
-            <a href="https://www.linkedin.com/pulse/lisp-el-lenguaje-que-sembr%C3%B3-las-ra%C3%ADces-de-la-caceres-rios-ozlme/">
-              <img src="./assets/lisp.webp" width="420" alt="Artículo LISP" />
-            </a>
+          <td align="left" valign="middle">
+            <h4><a href="https://www.linkedin.com/pulse/lisp-el-lenguaje-que-sembr%C3%B3-las-ra%C3%ADces-de-la-caceres-rios-ozlme/">LISP: raíces de la IA</a></h4>
+            <sub>Historia y fundamentos de la IA moderna.</sub>
           </td>
-        </tr>
-        <tr>
-          <td align="left">
-            <h3><a href="https://www.linkedin.com/pulse/lisp-el-lenguaje-que-sembr%C3%B3-las-ra%C3%ADces-de-la-caceres-rios-ozlme/">LISP: las raíces de la IA</a></h3>
-            <p>Un recorrido por el lenguaje que sentó las bases de la inteligencia artificial moderna.</p>
+          <td align="right" valign="middle" width="140">
+            <a href="https://www.linkedin.com/pulse/lisp-el-lenguaje-que-sembr%C3%B3-las-ra%C3%ADces-de-la-caceres-rios-ozlme/">
+              <img src="./assets/lisp.webp" width="90" alt="Artículo LISP" />
+            </a>
           </td>
         </tr>
       </table>
       <table align="center" width="100%">
         <tr>
-          <td align="center">
-            <a href="https://www.linkedin.com/pulse/descubriendo-el-poder-de-wsl-puente-invisible-entre-y-caceres-rios-dzoee/">
-              <img src="./assets/wsl.webp" width="420" alt="Artículo WSL" />
-            </a>
+          <td align="left" valign="middle">
+            <h4><a href="https://www.linkedin.com/pulse/descubriendo-el-poder-de-wsl-puente-invisible-entre-y-caceres-rios-dzoee/">WSL: Windows + Linux</a></h4>
+            <sub>Desarrollo híbrido sin fricciones.</sub>
           </td>
-        </tr>
-        <tr>
-          <td align="left">
-            <h3><a href="https://www.linkedin.com/pulse/descubriendo-el-poder-de-wsl-puente-invisible-entre-y-caceres-rios-dzoee/">WSL: Windows + Linux</a></h3>
-            <p>La integración perfecta entre ambos sistemas para un desarrollo moderno y eficiente.</p>
+          <td align="right" valign="middle" width="140">
+            <a href="https://www.linkedin.com/pulse/descubriendo-el-poder-de-wsl-puente-invisible-entre-y-caceres-rios-dzoee/">
+              <img src="./assets/wsl.webp" width="90" alt="Artículo WSL" />
+            </a>
           </td>
         </tr>
       </table>
     </td>
-    <td align="center" width="320" valign="top">
+    <td align="center" width="20%" valign="middle">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="300" alt="Spotify Profile" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="100%" alt="Spotify Profile" />
       </a>
     </td>
   </tr>
