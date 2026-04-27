@@ -1,8 +1,0 @@
-<svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg" font-family="'Inter', 'Segoe UI', sans-serif">
-  <rect width="600" height="80" fill="#0d1117" rx="8" ry="8"/>
-  <rect x="1" y="1" width="598" height="78" fill="none" stroke="#3d3d3d" stroke-width="1" rx="8" ry="8"/>
-  
-  <line x1="150" y1="60" x2="450" y2="60" stroke="#8b949e" stroke-width="1" opacity="0.3"/>
-  
-  <text x="300" y="48" fill="#c9b37e" font-size="24" font-weight="500" text-anchor="middle" letter-spacing="1">٩(ˊᗜˋ )و ARTÍCULOS ٩(ˊᗜˋ )و</text>
-</svg>
