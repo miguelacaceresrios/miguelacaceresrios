@@ -54,54 +54,50 @@
       ╰─
       </pre><br><a href="https://leetcode.com/miguelacaceresrios/"><img src="https://leetcard.jacoblin.cool/miguelacaceresrios?theme=dark&font=Nunito" width="100%" alt="LeetCode Stats"></a></div></td></tr></table>
 
+<!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -
+
+<!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 <!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 
 <table align="center" width="92%">
-  <tr valign="top">
-    <td align="center" width="60%">
+  <tr valign="middle">
+    <td align="center" width="520" valign="top">
+      <h2 align="center">Artículos Destacados</h2>
       <table align="center" width="100%">
-        <tr valign="top">
-          <td align="center" width="36%">
+        <tr>
+          <td align="center">
             <a href="https://www.linkedin.com/pulse/lisp-el-lenguaje-que-sembr%C3%B3-las-ra%C3%ADces-de-la-caceres-rios-ozlme/">
-              <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/article-lisp.webp" width="100%" alt="Artículo LISP" />
+              <img src="./assets/lisp.webp" width="420" alt="Artículo LISP" />
             </a>
           </td>
-          <td align="left" valign="middle">
+        </tr>
+        <tr>
+          <td align="left">
             <h3><a href="https://www.linkedin.com/pulse/lisp-el-lenguaje-que-sembr%C3%B3-las-ra%C3%ADces-de-la-caceres-rios-ozlme/">LISP: las raíces de la IA</a></h3>
             <p>Un recorrido por el lenguaje que sentó las bases de la inteligencia artificial moderna.</p>
           </td>
         </tr>
       </table>
-      <br>
       <table align="center" width="100%">
-        <tr valign="top">
-          <td align="center" width="36%">
+        <tr>
+          <td align="center">
             <a href="https://www.linkedin.com/pulse/descubriendo-el-poder-de-wsl-puente-invisible-entre-y-caceres-rios-dzoee/">
-              <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/article-wsl.webp" width="100%" alt="Artículo WSL" />
+              <img src="./assets/wsl.webp" width="420" alt="Artículo WSL" />
             </a>
           </td>
-          <td align="left" valign="middle">
+        </tr>
+        <tr>
+          <td align="left">
             <h3><a href="https://www.linkedin.com/pulse/descubriendo-el-poder-de-wsl-puente-invisible-entre-y-caceres-rios-dzoee/">WSL: Windows + Linux</a></h3>
             <p>La integración perfecta entre ambos sistemas para un desarrollo moderno y eficiente.</p>
           </td>
         </tr>
       </table>
-      <br>
-      <a href="https://discord.gg/Da6mtxDGdJ">
-        <img src="https://raw.githubusercontent.com/miguelacaceresrios/miguelacaceresrios/main/assets/codechambers.svg" width="100%" alt="Code Chambers" />
-      </a>
     </td>
-    <td align="center" width="40%" valign="top">
+    <td align="center" width="320" valign="top">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="100%" alt="Spotify Profile" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="300" alt="Spotify Profile" />
       </a>
     </td>
   </tr>
 </table>
-
-```
-
-
-
-
-
