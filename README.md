@@ -61,46 +61,51 @@
 
 <!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 
-<table align="center" width="92%">
+<table align="center" width="90%">
   <tr valign="middle">
     <td align="left" width="60%" valign="top">
-      <h2 align="left">Artículos Destacados</h2>
-      <table align="left" width="100%" cellpadding="10">
+      <div align="left">
+  <h2>Publicaciones y Artículos Destacados</h2>
+  <p><i>Análisis técnicos, ensayos y reflexiones sobre ingeniería de software, arquitectura de sistemas e innovación tecnológica.</i></p>
+</div>
+      <table align="left" width="100%" cellpadding="14">
         <tr>
           <td align="left" valign="top">
-            <h3><a href="https://www.linkedin.com/pulse/lisp-el-lenguaje-que-sembr%C3%B3-las-ra%C3%ADces-de-la-caceres-rios-ozlme/">🔹 LISP: raíces de la IA</a></h3>
-            <sub>Historia y fundamentos de la IA moderna.<br>Un recorrido por el lenguaje que sentó las bases de los sistemas inteligentes actuales.</sub>
+            <h3 style="margin-bottom: 8px; font-size: 20px;"><a href="https://www.linkedin.com/pulse/lisp-el-lenguaje-que-sembr%C3%B3-las-ra%C3%ADces-de-la-caceres-rios-ozlme/">✦ LISP: raíces de la IA</a></h3>
+            <p style="margin-top: 0; line-height: 1.7; font-size: 14px;">Historia y fundamentos de la IA moderna.<br>Un recorrido por el lenguaje que sentó las bases de los sistemas inteligentes actuales.</p>
           </td>
         </tr>
         <tr>
           <td align="left" valign="top">
-            <h3><a href="https://www.linkedin.com/pulse/descubriendo-el-poder-de-wsl-puente-invisible-entre-y-caceres-rios-dzoee/">🔹 WSL: Windows + Linux</a></h3>
-            <sub>Desarrollo híbrido sin fricciones.<br>Linux y Windows integrados para un flujo moderno, eficiente y escalable.</sub>
+            <h3 style="margin-bottom: 8px; font-size: 22px;"><a href="https://www.linkedin.com/pulse/descubriendo-el-poder-de-wsl-puente-invisible-entre-y-caceres-rios-dzoee/">✦ WSL: Windows + Linux</a></h3>
+            <p style="margin-top: 0; line-height: 1.7; font-size: 15px;">Desarrollo híbrido sin fricciones.<br>Linux y Windows integrados para un flujo moderno, eficiente y escalable.</p>
           </td>
         </tr>
               <tr>
           <td align="left" valign="top">
-            <h3>
+            <h3 style="margin-bottom: 8px; font-size: 22px;">
               <a href="#">
-                🔹 Próximamente: nuevo artículo
+                ✦ NixOS y la ingeniería de sistemas moderna
               </a>
             </h3>
-            <sub>
-              Un nuevo análisis técnico está en camino.<br>
-              Próximamente disponible en esta sección.
-            </sub>
+            <p style="margin-top: 0; line-height: 1.7; font-size: 15px;">
+              Automatización, reproducibilidad y control total del entorno.<br>Una mirada al impacto de NixOS en los flujos de desarrollo modernos.
+            </p>
           </td>
         </tr>
       </table>
     </td>
-
-
 <td align="center" width="40%" valign="middle">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="100%" alt="Spotify Profile" />
   </a>
 </td>
 
+<img
+  src="https://leetcode-stats.vercel.app/api?username=miguelacaceresrios&theme=Dark"
+  width="100%"
+  alt="LeetCode Stats"
+/>
 
   </tr>
 </table>
