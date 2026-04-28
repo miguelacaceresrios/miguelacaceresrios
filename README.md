@@ -67,7 +67,6 @@
   </tr>
   <tr>
     <td width="70%" valign="top">
-      <h3>El Ojo de Sauron</h3>
       <p>
         Plataforma de monitoreo y análisis de actividad desarrollada con fines académicos y de investigación en ciberseguridad.
         Diseñada para estudiar telemetría, eventos del sistema, comportamiento de entrada y trazabilidad operativa
