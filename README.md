@@ -61,39 +61,47 @@
 
 
 <!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
-
 <table align="center" width="90%">
   <tr valign="middle">
     <td align="left" width="60%" valign="top">
       <div align="left">
-  <h2>Publicaciones y Artículos Destacados</h2>
-  <p><i>Análisis técnicos, ensayos y reflexiones sobre ingeniería de software, arquitectura de sistemas e innovación tecnológica.</i></p>
-</div>
-      <table align="left" width="100%" cellpadding="14">
+        <h2>Publicaciones y Artículos Destacados</h2>
+        <p><i>Análisis técnicos, ensayos y reflexiones sobre ingeniería de software, arquitectura de sistemas e innovación tecnológica.</i></p>
+      </div>
+      <table align="left" width="100%" cellpadding="18" cellspacing="0">
         <tr>
-          <td align="left" valign="top">
-            <h3 style="margin-bottom: 8px; font-size: 20px;"><a href="https://www.linkedin.com/pulse/lisp-el-lenguaje-que-sembr%C3%B3-las-ra%C3%ADces-de-la-caceres-rios-ozlme/">✦ LISP: raíces de la IA</a></h3>
-            <p style="margin-top: 0; line-height: 1.7; font-size: 14px;">Historia y fundamentos de la IA moderna.<br>Un recorrido por el lenguaje que sentó las bases de los sistemas inteligentes actuales.</p>
-          </td>
-        </tr>
-        <tr>
-          <td align="left" valign="top">
-            <h3 style="margin-bottom: 8px; font-size: 22px;"><a href="https://www.linkedin.com/pulse/descubriendo-el-poder-de-wsl-puente-invisible-entre-y-caceres-rios-dzoee/">✦ WSL: Windows + Linux</a></h3>
-            <p style="margin-top: 0; line-height: 1.7; font-size: 15px;">Desarrollo híbrido sin fricciones.<br>Linux y Windows integrados para un flujo moderno, eficiente y escalable.</p>
-          </td>
-        </tr>
-              <tr>
-          <td align="left" valign="top">
-            <h3 style="margin-bottom: 8px; font-size: 22px;">
-              <a href="#">
-                ✦ NixOS y la ingeniería de sistemas moderna
-              </a>
+          <td align="left" valign="top" style="padding-bottom: 26px;">
+            <h3 style="margin-bottom: 10px; font-size: 20px;">
+              <a href="https://www.linkedin.com/pulse/lisp-el-lenguaje-que-sembr%C3%B3-las-ra%C3%ADces-de-la-caceres-rios-ozlme/">✦ LISP: raíces de la IA</a>
             </h3>
-            <p style="margin-top: 0; line-height: 1.7; font-size: 15px;">
-              Automatización, reproducibilidad y control total del entorno.<br>Una mirada al impacto de NixOS en los flujos de desarrollo modernos.
-            </p>
+            <p style="margin-top: 0; line-height: 1.8; font-size: 14px;">
+              Historia y fundamentos de la IA moderna.<br>
+              Un recorrido por el lenguaje que sentó las bases de los sistemas inteligentes actuales.
+            </p> &nbsp
           </td>
         </tr>
+        <tr>
+          <td align="left" valign="top" style="padding-bottom: 26px;">
+            <h3 style="margin-bottom: 10px; font-size: 20px;">
+              <a href="https://www.linkedin.com/pulse/descubriendo-el-poder-de-wsl-puente-invisible-entre-y-caceres-rios-dzoee/">✦ WSL: Windows + Linux</a>
+            </h3>
+            <p style="margin-top: 0; line-height: 1.8; font-size: 14px;">
+              Desarrollo híbrido sin fricciones.<br>
+              Linux y Windows integrados para un flujo moderno, eficiente y escalable.
+            </p> &nbsp
+          </td>
+        </tr>
+        <tr>
+          <td align="left" valign="top" style="padding-bottom: 40px;">
+            <h3 style="margin-bottom: 10px; font-size: 20px;">
+              <a href="#">✦ NixOS y la ingeniería de sistemas moderna</a>
+            </h3>
+            <p style="margin-top: 0; line-height: 1.8; font-size: 14px;">
+              Automatización, reproducibilidad y control total del entorno.<br>
+              Una mirada al impacto de NixOS en los flujos de desarrollo modernos.
+            </p> &nbsp 
+          </td>
+        </tr> 
       </table>
     </td>
 <td align="center" width="40%" valign="middle">
@@ -105,29 +113,17 @@
 </table>
 
 <!--  ------------------------------------------------------------------------------------------------------------------------------------------------------------>
+<div align="center">
+  <img
+    src="https://gh-stats.com/api/miguelacaceresrios?theme=onyx&widgets=languages"
+    width="59%"
+    alt="Top Languages"
+  />
+  <img
+    src="https://gh-stats.com/api/miguelacaceresrios?theme=onyx&widgets=grade"
+    width="39%"
+    alt="Developer Grade"
+  />
+</div>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="34%" align="center">
-      <img
-        src="https://gh-stats.com/api/miguelacaceresrios?theme=onyx&widgets=impact"
-        width="100%"
-        alt="Impact"
-      />
-    </td>
-    <td width="33%" align="center">
-      <img
-        src="https://gh-stats.com/api/miguelacaceresrios?theme=onyx&widgets=languages"
-        width="100%"
-        alt="Languages"
-      />
-    </td>
-    <td width="33%" align="center">
-      <img
-        src="https://gh-stats.com/api/miguelacaceresrios?theme=onyx&widgets=grade"
-        width="100%"
-        alt="Grade"
-      />
-    </td>
-  </tr>
-</table>
+
