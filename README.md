@@ -5,6 +5,7 @@
 --- 
 <!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 <!-- i hate making this-->
+<!-- i fix that lol-->
 <table align="center" width="92%">  <tr valign="top">  <td align="right" width="50%"> <pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -100,12 +101,33 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="100%" alt="Spotify Profile" />
   </a>
 </td>
+  </tr>
+</table>
 
-<img
-  src="https://leetcode-stats.vercel.app/api?username=miguelacaceresrios&theme=Dark"
-  width="100%"
-  alt="LeetCode Stats"
-/>
+<!--  ------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
+<table align="center" width="100%">
+  <tr>
+    <td width="34%" align="center">
+      <img
+        src="https://gh-stats.com/api/miguelacaceresrios?theme=onyx&widgets=impact"
+        width="100%"
+        alt="Impact"
+      />
+    </td>
+    <td width="33%" align="center">
+      <img
+        src="https://gh-stats.com/api/miguelacaceresrios?theme=onyx&widgets=languages"
+        width="100%"
+        alt="Languages"
+      />
+    </td>
+    <td width="33%" align="center">
+      <img
+        src="https://gh-stats.com/api/miguelacaceresrios?theme=onyx&widgets=grade"
+        width="100%"
+        alt="Grade"
+      />
+    </td>
   </tr>
 </table>
