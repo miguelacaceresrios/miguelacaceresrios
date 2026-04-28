@@ -25,8 +25,7 @@
     </filter>
   </defs>
 
-  <!-- Fondo negro -->
-  <rect width="1000" height="200" fill="#0a0a0a"/>
+  <!-- Fondo: eliminado (ahora transparente) -->
 
   <!-- Texto centrado con degradado animado y glow -->
   <text x="500" y="115" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="56" font-weight="bold" fill="url(#sauronGradient)" text-anchor="middle" letter-spacing="8" filter="url(#glow)">OJO DE SAURON</text>
