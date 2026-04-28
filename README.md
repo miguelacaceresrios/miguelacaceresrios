@@ -37,7 +37,7 @@
        gato@nixos
       ───────────────────────────
       ╭─ Hardware
-      │  CPU    : 12th Gen i5-12500H
+      │  CPU    : 12th Gen i5-12500
       │  RAM    : 16.00 GiB
       ╰─
       ╭─ Software
@@ -52,7 +52,7 @@
       ╭─ 
       │  ▂▂⌇ ./esp/eng
       ╰─
-      </pre><br><a href="https://leetcode.com/miguelacaceresrios/"><img src="https://leetcard.jacoblin.cool/miguelacaceresrios?theme=dark&font=Nunito" width="90%" alt="LeetCode Stats"></a></div></td></tr></table>
+      </pre><br><a href="https://leetcode.com/miguelacaceresrios/"><img src="https://leetcard.jacoblin.cool/miguelacaceresrios?theme=dark&font=Nunito" width="100%" alt="LeetCode Stats"></a></div></td></tr></table>
 
 
 <!--  ----------------------------------------------------------------------------------------------------------------------------------------------------------  -->
