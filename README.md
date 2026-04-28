@@ -62,7 +62,7 @@
 <table width="100%">
   <tr>
     <td colspan="2">
-      <img src="https://placehold.co/1200x280?text=El+Ojo+de+Sauron" width="100%" alt="El Ojo de Sauron Banner" />
+      <img src=./sauron.svg width="100%" alt="El Ojo de Sauron Banner" />
     </td>
   </tr>
   <tr>
