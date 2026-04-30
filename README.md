@@ -62,7 +62,7 @@
       <h1>Experiencia</h1>
       <p><b>Desde 2012</b> he enfocado mi vida en el desarrollo de videojuegos. Autodidacta desde el inicio, sin herramientas ni guía, mis primeros pasos fueron de ensayo y error, pero esa pasión definió mi camino profesional.</p>
       <p>En <b>2014</b> comencé a trabajar con distintos motores (Unity, Unreal, Godot) y lenguajes (C#, C++, Python), creando mis primeros prototipos. Con los años desarrollé mejores hábitos, dominio técnico y una visión completa de la ingeniería de software.</p>
-      <p><b>2023:</b> Destaco en mis estudios técnicos. Actualmente curso una carrera universitaria y mi meta es consolidarme en la industria tecnológica con una experiencia sólida que abarca más de una década de evolución constante.</p>
+      <p><b>2023:</b> Destaco en mis estudios técnicos. Actualmente curso una carrera universitaria y mi meta es consolidarme en la industria tecnológica con una experiencia sólida que abarca más de una década de evolución constante.</p>&nbsp;
     </td>
   </tr>
 </table>
@@ -74,10 +74,10 @@
 <table align="center" width="85%">
   <tr valign="middle">
     <td align="left">
-      <h1>Experiencia</h1>
+      <h1>Educacion</h1>
       <p><b>Desde 2012</b> he enfocado mi vida en el desarrollo de videojuegos. Autodidacta desde el inicio, sin herramientas ni guía, mis primeros pasos fueron de ensayo y error, pero esa pasión definió mi camino profesional.</p>
       <p>En <b>2014</b> comencé a trabajar con distintos motores (Unity, Unreal, Godot) y lenguajes (C#, C++, Python), creando mis primeros prototipos. Con los años desarrollé mejores hábitos, dominio técnico y una visión completa de la ingeniería de software.</p>
-      <p><b>2023:</b> Destaco en mis estudios técnicos. Actualmente curso una carrera universitaria y mi meta es consolidarme en la industria tecnológica con una experiencia sólida que abarca más de una década de evolución constante.</p>
+      <p><b>2023:</b> Destaco en mis estudios técnicos. Actualmente curso una carrera universitaria y mi meta es consolidarme en la industria tecnológica con una experiencia sólida que abarca más de una década de evolución constante.</p> &nbsp;
     </td>
   </tr>
 </table>
