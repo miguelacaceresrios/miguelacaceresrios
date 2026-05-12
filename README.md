@@ -38,19 +38,20 @@
 ⢺⣥⢿⠾⠿⠿⠿⡿⠚⢋⣠⠯⣿⢉⢉⠻⠾⠛⢿⣿⠻⠿⢛⢋⣤⣯⣭⠽⠶⣾⣻⢿⣻⢿⠶⢛⣻⡿⢽⠄
       </pre> </td> <td align="center" width="50%"> <div align="left"> <pre>&nbsp;
        gato@nixos
-      ───────────────────────────
+      ───────────────────────────────────────────────
       ╭─ Hardware
-      │  CPU    : 12th Gen i5-12500
-      │  RAM    : 16.00 GiB
+      │  CPU    : Intel i5-1135G7 (8) @ 4.20 GHz
+      │  RAM    : 7.51 GiB (disponible)
+      │  Disk   : 232.69 GiB (ext4)
       ╰─
       ╭─ Software
-      │  OS     : NixOS (unstable)
-      |  pkgs   : 2568
-      │  Kernel : Linux 6.18.6-nixos
+      │  OS     : NixOS 25.11 (Xantusia)
+      │  pkgs   : 1770 (sistema + usuario)
+      │  Kernel : Linux 6.12.83
       │  WM     : Hyprland (Wayland)
-      │  Shell  : bash
+      │  Shell  : bash 5.3.3
       │  Term   : kitty
-      │  Editor : VsCode
+      │  Editor : VSCode
       ╰─
       ╭─ 
       │  ▂▂⌇ ./esp/eng
