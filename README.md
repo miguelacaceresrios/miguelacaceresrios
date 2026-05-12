@@ -1,5 +1,5 @@
 <div align="center"><img src="https://i.postimg.cc/7ZMmj0Ss/a.webp" width="100%" alt="banner"></div><br>
-<table align="center" width="85%"><tr valign="middle"><td align="left"><h1>Sobre mí</h1><p><b>Desde 2012</b> he enfocado mi vida en el desarrollo de videojuegos, una pasión que nació en mi infancia y definió mi camino profesional. Sin contar con herramientas ni guía, mis primeros pasos fueron autodidactas y llenos de ensayo y error.</p><p>En <b>2014</b> comencé a trabajar con distintos motores y lenguajes de programación, creando mis primeros prototipos. Con el tiempo desarrollé mejores hábitos, dominio técnico y una visión más completa de la ingeniería de software. En <b>2023</b> destaqué en mis estudios técnicos y actualmente continúo mi formación universitaria, con la meta de consolidar mi carrera en la industria tecnológica.</p><br><a href="https://www.reddit.com/user/miguelacaceresrios"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;<a href="https://buymeacoffee.com/miguelacaca"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy_Me_a_Coffee-000?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>&nbsp;<a href="https://www.curseforge.com/members/miguelacaceresrios/projects"><img alt="CurseForge" src="https://img.shields.io/badge/CurseForge-000?style=for-the-badge&logo=curseforge&logoColor=white"></a> &nbsp; <a href="https://www.codewars.com/users/miguelacaceresrios"><img src="https://www.codewars.com/users/miguelacaceresrios/badges/large" alt="Codewars"></a></td></tr></table>
+<table align="center" width="85%"><tr valign="middle"><td align="left"><h1>Sobre mí</h1><p><b>Desde 2012</b> he enfocado mi vida en el desarrollo de videojuegos, una pasión que nació en mi infancia y definió mi camino profesional. Sin contar con herramientas ni guía, mis primeros pasos fueron autodidactas y llenos de ensayo y error.</p><p>En <b>2014</b> comencé a trabajar con distintos motores y lenguajes de programación, creando mis primeros prototipos. Con el tiempo desarrollé mejores hábitos, dominio técnico y una visión más completa de la ingeniería de software. En <b>2023</b> destaqué en mis estudios técnicos y actualmente continúo mi formación universitaria, con la meta de consolidar mi carrera en la industria tecnológica.</p></td></tr></table>
 
 --- 
 
@@ -56,7 +56,8 @@
       ╭─ 
       │  ▂▂⌇ ./esp/eng
       ╰─
-      </pre><br><a href="https://leetcode.com/miguelacaceresrios/"><img src="https://leetcard.jacoblin.cool/miguelacaceresrios?theme=dark&font=Nunito" width="100%" alt="LeetCode Stats"></a></div></td></tr></table> 
+</pre> <a href="https://www.codewars.com/users/miguelacaceresrios"><img src="https://www.codewars.com/users/miguelacaceresrios/badges/large" alt="Codewars"> </a>
+<br><a href="https://leetcode.com/miguelacaceresrios/"><img src="https://leetcard.jacoblin.cool/miguelacaceresrios?theme=dark&font=Nunito" width="100%" alt="LeetCode Stats"></a></div></td></tr></table> 
 <!--  ------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
 ---
