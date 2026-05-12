@@ -57,6 +57,9 @@
       ╰─
       </pre><br><a href="https://leetcode.com/miguelacaceresrios/"><img src="https://leetcard.jacoblin.cool/miguelacaceresrios?theme=dark&font=Nunito" width="100%" alt="LeetCode Stats"></a></div></td></tr></table> 
 <!--  ------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+---
+
 <table align="center" width="85%">
   <tr valign="middle">
     <td align="left">
@@ -68,8 +71,6 @@
   </tr>
 </table>
 
----
-
  <table align="center" width="85%">
   <tr valign="middle">
     <td align="left">
@@ -80,6 +81,9 @@
     </td>
   </tr>
 </table>
+
+---
+
 <!-- spoty y articulos -->
 
 <table align="center" width="90%"><tr valign="middle">
