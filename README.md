@@ -38,7 +38,7 @@
 ⢺⣥⢿⠾⠿⠿⠿⡿⠚⢋⣠⠯⣿⢉⢉⠻⠾⠛⢿⣿⠻⠿⢛⢋⣤⣯⣭⠽⠶⣾⣻⢿⣻⢿⠶⢛⣻⡿⢽⠄
       </pre> </td> <td align="center" width="50%"> <div align="left"> <pre>&nbsp;
        gato@nixos
-      ───────────────────────────────────────────────
+      ──────────────────────────────────────────
       ╭─ Hardware
       │  CPU    : Intel i5-1135G7 (8) @ 4.20 GHz
       │  RAM    : 7.51 GiB (disponible)
