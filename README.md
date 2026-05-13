@@ -3,6 +3,77 @@
 
 --- 
 
+
+
+<!-- ====================== CLAPTRAP + SPOTIFY ====================== -->
+
+<table align="center" width="92%">
+<tr valign="top">
+
+<td width="60%" valign="top">
+
+<table width="100%">
+<tr valign="middle">
+
+<td width="28%" align="center">
+<img src="https://i.imgur.com/MuK4B7L.png" width="130" style="border-radius:50%;" alt="claptrap">
+</td>
+
+<td width="72%" align="left">
+
+<h3>@claptrap</h3>
+
+<p>
+Bot modular orientado a traducción global, administración y automatización
+para comunidades multilenguaje.
+</p>
+
+<p>
+• traducción en tiempo real<br>
+• moderación<br>
+• comandos utilitarios<br>
+• herramientas administrativas
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<pre>
+status   : online
+uptime   : 99.97%
+langs    : es / en / fr
+runtime  : nodejs
+</pre>
+
+<blockquote>
+Asistente inspirado en Claptrap para comunidades globales y gestión distribuida.
+</blockquote>
+
+</td>
+</tr>
+
+</table>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark" width="100%" alt="Spotify">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+
+
 <!-- i hate making this --> <!-- i fix that lol -->
 <table align="center" width="92%">  <tr valign="top">  <td align="right" width="50%"> <pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -56,7 +127,7 @@
       ╭─ 
       │  ▂▂⌇ ./esp/eng
       ╰─
-</pre> <a href="https://www.codewars.com/users/miguelacaceresrios"><img src="https://www.codewars.com/users/miguelacaceresrios/badges/large" alt="Codewars"> </a>
+</pre> <a href="https://www.codewars.com/users/miguelacaceresrios"><img src="https://www.codewars.com/users/miguelacaceresrios/badges/large" width="100%" alt="Codewars"> </a>
 <br><a href="https://leetcode.com/miguelacaceresrios/"><img src="https://leetcard.jacoblin.cool/miguelacaceresrios?theme=dark&font=Nunito" width="100%" alt="LeetCode Stats"></a></div></td></tr></table> 
 <!--  ------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
