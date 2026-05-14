@@ -2,73 +2,49 @@
 <table align="center" width="85%"><tr valign="middle"><td align="left"><h1>Sobre mí</h1><p><b>Desde 2012</b> he enfocado mi vida en el desarrollo de videojuegos, una pasión que nació en mi infancia y definió mi camino profesional. Sin contar con herramientas ni guía, mis primeros pasos fueron autodidactas y llenos de ensayo y error.</p><p>En <b>2014</b> comencé a trabajar con distintos motores y lenguajes de programación, creando mis primeros prototipos. Con el tiempo desarrollé mejores hábitos, dominio técnico y una visión más completa de la ingeniería de software. En <b>2023</b> destaqué en mis estudios técnicos y actualmente continúo mi formación universitaria, con la meta de consolidar mi carrera en la industria tecnológica.</p></td></tr></table>
 
 --- 
-
-
-
-<!-- ====================== CLAPTRAP + SPOTIFY ====================== -->
-
-<table align="center" width="92%">
-<tr valign="top">
-
-<td width="60%" valign="top">
-
-<table width="100%">
-<tr valign="middle">
-
-<td width="28%" align="center">
-<img src="https://i.imgur.com/MuK4B7L.png" width="130" style="border-radius:50%;" alt="claptrap">
-</td>
-
-<td width="72%" align="left">
-
-<h3>@claptrap</h3>
-
-<p>
-Bot modular orientado a traducción global, administración y automatización
-para comunidades multilenguaje.
-</p>
-
-<p>
-• traducción en tiempo real<br>
-• moderación<br>
-• comandos utilitarios<br>
-• herramientas administrativas
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-<pre>
-status   : online
-uptime   : 99.97%
-langs    : es / en / fr
-runtime  : nodejs
-</pre>
-
-<blockquote>
-Asistente inspirado en Claptrap para comunidades globales y gestión distribuida.
-</blockquote>
-
-</td>
-</tr>
-
+<table width="100%" border="0" cellpadding="10" cellspacing="0" align="center">
+  <tr valign="top">
+    <!-- Columna del bot: 60% -->
+    <td width="60%">
+      <table border="0" cellpadding="4" cellspacing="0" width="100%">
+        <tr valign="middle">
+          <td width="60" align="center">
+            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='48' fill='%23555'/%3E%3Ctext x='50' y='72' font-size='55' text-anchor='middle' fill='white' font-family='monospace'%3EX%3C/text%3E%3C/svg%3E" width="48" height="48" alt="icon">
+          </td>
+          <td><b>traductor</b></td>
+        </tr>
+        <tr>
+          <td colspan="2"><hr noshade size="1"></td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            herramienta de traducción<br>
+            + utilidades generales para Discord
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <blockquote>
+              "Traduce más de 100 idiomas,<br>
+              programa recordatorios, consulta el clima,<br>
+              calcula expresiones y obtén definiciones<br>
+              sin salir del chat. Todo en un bot<br>
+              minimalista sin distracciones visuales."
+            </blockquote>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Columna de Spotify: 40% -->
+    <td width="40%" align="center">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="100%" alt="Spotify Profile">
+      </a>
+    </td>
+  </tr>
 </table>
 
-</td>
 
-<td width="40%" align="center" valign="middle">
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark" width="100%" alt="Spotify">
-</a>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
