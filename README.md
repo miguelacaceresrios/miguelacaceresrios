@@ -1,15 +1,10 @@
 <div align="center"><img src="https://i.postimg.cc/7ZMmj0Ss/a.webp" width="100%" alt="banner"></div><br>
-<table align="center" width="85%"><tr valign="middle"><td align="left"><h1>Sobre mí</h1><p><b>Desde 2012</b> he enfocado mi vida en el desarrollo de videojuegos, una pasión que nació en mi infancia y definió mi camino profesional. Sin contar con herramientas ni guía, mis primeros pasos fueron autodidactas y llenos de ensayo y error.</p><p>En <b>2014</b> comencé a trabajar con distintos motores y lenguajes de programación, creando mis primeros prototipos. Con el tiempo desarrollé mejores hábitos, dominio técnico y una visión más completa de la ingeniería de software. En <b>2023</b> destaqué en mis estudios técnicos y actualmente continúo mi formación universitaria, con la meta de consolidar mi carrera en la industria tecnológica.</p></td></tr></table>
+<table align="center" width="85%"><tr valign="middle"><td align="left"><h1>Sobre mí</h1><p><b>Desde 2012</b> he enfocado mi vida en el desarrollo de videojuegos, una pasión que nació en mi infancia y definió mi camino profesional. Sin contar con herramientas ni guía, mis primeros pasos fueron autodidactas y llenos de ensayo y error.</p><p>En <b>2014</b> comencé a trabajar con distintos motores y lenguajes de programación, creando mis primeros prototipos. Con el tiempo desarrollé mejores hábitos, dominio técnico y una visión más completa de la ingeniería de software. En <b>2023</b> destaqué en mis estudios técnicos y actualmente continúo mi formación universitaria, con la meta de consolidar mi carrera en la industria tecnológica. <br> </br> </p> </td> </tr> </table>
 
 --- 
 
-# yep im fixing this ignore pls kisses :C im kinda shy stop
----
-
-
-<table width="100%" border="0" cellpadding="10" cellspacing="0" align="center">
-  <tr valign="top">
-    <!-- Columna izquierda: Bot -->
+<table width="100%" border="0" cellpadding="10" cellspacing="0" align="center"> <tr valign="top">  
+<!-- Columna izquierda: Bot -->
     <td>
       <table border="0" cellpadding="4" cellspacing="0" width="100%">
         <tr valign="middle">
@@ -134,6 +129,18 @@
 </table>
 
 ---
+
+ <table align="center" width="85%">
+  <tr valign="middle">
+    <td align="left">
+      <h1>Bad crashes </h1>
+      <p><b>lp</b> content</p>
+      <p>En <b>2014</b> comencé a trabajar con distintos motores (Unity, Unreal, Godot) y lenguajes (C#, C++, Python), creando mis primeros prototipos. Con los años desarrollé mejores hábitos, dominio técnico y una visión completa de la ingeniería de software.</p>
+      <p><b>2023:</b> Destaco en mis estudios técnicos. Actualmente curso una carrera universitaria y mi meta es consolidarme en la industria tecnológica con una experiencia sólida que abarca más de una década de evolución constante.</p> &nbsp;
+    </td>
+  </tr>
+</table>
+
 
 <!-- spoty y articulos -->
 
