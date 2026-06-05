@@ -3,6 +3,27 @@
 
 --- 
 
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://via.placeholder.com/400x400/0d0d0d/e5e5e5?text=DATURA" alt="DATURA" width="100%" style="border-radius: 4px;" />
+    </td>
+    <td width="60%" style="vertical-align: top; padding-left: 20px;">
+      <h1 style="margin-top: 0;">DATURA</h1>
+      <hr style="border: 1px solid #000; margin: 10px 0;">
+      <p style="font-size: 1.1em; line-height: 1.5;">
+        LP conceptual de hardcore, gabber y acid disociativo. Cinco etapas de un brote psicótico 
+        inspiradas en los subtipos clásicos de esquizofrenia. Del delirio paranoide a la cáscara 
+        residual, pasando por el quiebre catatónico y la desorganización total. Grabado en vivo 
+        con Strudel REPL. Sonido para una mente en ruinas.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+
 <table width="100%" border="0" cellpadding="10" cellspacing="0" align="center"> <tr valign="top">  
 <!-- Columna izquierda: Bot -->
     <td>
@@ -34,14 +55,7 @@
         </tr>
       </table>
     </td>
-    <!-- Columna derecha: Spotify -->
-    <td width="260" align="center">
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="250" alt="Spotify Profile">
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 ---
 
