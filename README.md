@@ -5,21 +5,29 @@
 ---
 
 <!---  fruit ----->
-<table> <tr> <td width="100" align="center"> <img src="./fruit.png" width="%100" height="%100" alt="Fruit Punch Logo"> </td> <td>
+<table> <tr> <td width="15%" align="center"> <img src="./assets/fruit.png" width="100%" height="100%" alt="Fruit Punch Logo"> </td> <td>
 
 ### Discord Translation & Utility Bot
-
 Bot desarrollado para facilitar la comunicación entre comunidades multilingües mediante traducción automática de mensajes y herramientas básicas de administración.
+
 </td> </tr> </table>
 
 > "Conectando comunidades sin importar el idioma."
 
-| Módulo        | Función                                                    |
-|---------------|------------------------------------------------------------|
-| Traducción    | Traducción automática de conversaciones en tiempo real.    |
-| Recordatorios | Gestión de recordatorios y avisos programados.             |
-| Moderación    | Herramientas básicas para la administración de servidores. |
-| Utilidades    | Funciones complementarias para el uso diario.              |
+| comandos       | Función                                                    |
+|----------------|------------------------------------------------------------|
+| /Traducción    | Traducción automática de conversaciones en tiempo real.    |
+| /Recordatorios | Gestión de recordatorios y avisos programados.             |
+| /Moderación    | Herramientas básicas para la administración de servidores. |
+| /Utilidades    | Funciones complementarias para el uso diario.              |
+| /Traducción    | Traducción automática de conversaciones en tiempo real.    |
+| /Recordatorios | Gestión de recordatorios y avisos programados.             |
+| /Moderación    | Herramientas básicas para la administración de servidores. |
+| /Utilidades    | Funciones complementarias para el uso diario.              |
+| /Traducción    | Traducción automática de conversaciones en tiempo real.    |
+| /Recordatorios | Gestión de recordatorios y avisos programados.             |
+| /Moderación    | Herramientas básicas para la administración de servidores. |
+| /Utilidades    | Funciones complementarias para el uso diario.              |
 
 ---
 
