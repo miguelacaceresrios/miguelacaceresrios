@@ -146,25 +146,7 @@ Bot desarrollado para facilitar la comunicación entre comunidades multilingües
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="25%">
-      <strong><a href="#">01. PARANOIDE</a></strong><br>
-      <em>Mirada fija, latido amenazante, todo conspira.</em>
-    </td>
-    <td width="25%">
-      <strong><a href="#">02. DESORGANIZADA</a></strong><br>
-      <em>Lenguaje roto, acid errático, pensamientos que se astillan.</em>
-    </td>
-    <td width="25%">
-      <strong><a href="#">03. CATATÓNICA</a></strong><br>
-      <em>Explosión reprimida, gabber a 200 bpm que se congela.</em>
-    </td>
-    <td width="25%">
-      <strong><a href="#">04. INDIFERENCIADA</a></strong><br>
-      <em>Mezcla de todos los síntomas, ruido y fragmentos sin forma.</em>
-    </td>
-  </tr>
+
 
 </table>
 
