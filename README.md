@@ -3,6 +3,55 @@
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+<table align="center" width="85%">
+  <tr valign="middle">
+    <td align="left" colspan="3">
+      <h1>Publicaciones</h1>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="33%" align="center">
+      <img src="https://placehold.co/180x100/0d0d0d/f0f0f0?text=LISP" width="100%"/><br><br>
+      <b><a href="https://www.linkedin.com/pulse/lisp-el-lenguaje-que-sembr%C3%B3-las-ra%C3%ADces-de-la-caceres-rios-ozlme/">LISP: raíces de la IA</a></b><br>
+      <sub>Historia y fundamentos del lenguaje que sentó las bases de los sistemas inteligentes actuales.</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://placehold.co/180x100/0d0d0d/f0f0f0?text=WSL" width="100%"/><br><br>
+      <b><a href="https://www.linkedin.com/pulse/descubriendo-el-poder-de-wsl-puente-invisible-entre-y-caceres-rios-dzoee/">WSL: Windows + Linux</a></b><br>
+      <sub>Linux y Windows integrados para un flujo moderno, eficiente y escalable.</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://placehold.co/180x100/0d0d0d/f0f0f0?text=NixOS" width="100%"/><br><br>
+      <b>NixOS e ingeniería moderna</b><br>
+      <sub>Automatización, reproducibilidad y control total del entorno de desarrollo.</sub>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <table align="center" width="85%">
   <tr valign="middle">
     <td align="left">
