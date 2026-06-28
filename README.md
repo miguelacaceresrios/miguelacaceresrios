@@ -139,7 +139,6 @@
 
 <!--  ------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
-
 <table>
   <tr>
     <td width="40%">
@@ -156,21 +155,50 @@
   </tr>
 </table>
 
-
-
+<table>
+  <tr>
+    <td width="25%">
+      <strong><a href="#">01. PARANOIDE</a></strong><br>
+      <em>Mirada fija, latido amenazante, todo conspira.</em>
+    </td>
+    <td width="25%">
+      <strong><a href="#">02. DESORGANIZADA</a></strong><br>
+      <em>Lenguaje roto, acid errático, pensamientos que se astillan.</em>
+    </td>
+    <td width="25%">
+      <strong><a href="#">03. CATATÓNICA</a></strong><br>
+      <em>Explosión reprimida, gabber a 200 bpm que se congela.</em>
+    </td>
+    <td width="25%">
+      <strong><a href="#">04. INDIFERENCIADA</a></strong><br>
+      <em>Mezcla de todos los síntomas, ruido y fragmentos sin forma.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%">
+      <strong><a href="#">05. RESIDUAL</a></strong><br>
+      <em>Lo que queda cuando el yo se apaga, drone final.</em>
+    </td>
+    <td width="25%">
+      <strong><a href="#">06. HIOSCINA</a></strong><br>
+      <em>Delirio pasivo, sombras que se mueven, amnesia química.</em>
+    </td>
+    <td width="25%">
+      <strong><a href="#">07. ATROPINA</a></strong><br>
+      <em>Taquicardia, pupilas dilatadas, excitación seca.</em>
+    </td>
+    <td width="25%">
+      <strong><a href="#">08. HIOSCIAMINA</a></strong><br>
+      <em>Raíz del tropano, veneno original de la datura.</em>
+    </td>
+  </tr>
 </table>
+
 
 
 <!----- fruit patch  ------>
 
 
-
-
-
-
-
-
-<!--- fruit ----->
 <table>
 <tr>
 <td width="15%" align="center">
@@ -191,50 +219,26 @@ Bot desarrollado para facilitar la comunicación entre comunidades multilingües
 <table>
 <tr>
 
-<td width="60%" valign="top">
+
+
+<!-- datura  -->
+
+
 
 <table>
-<tr>
-<th>Comandos</th>
-<th>Función</th>
-</tr>
-
-<tr><td>/Traducción</td><td>Traducción automática de conversaciones en tiempo real.</td></tr>
-<tr><td>/Recordatorios</td><td>Gestión de recordatorios y avisos programados.</td></tr>
-<tr><td>/Moderación</td><td>Herramientas básicas para la administración de servidores.</td></tr>
-<tr><td>/Utilidades</td><td>Funciones complementarias para el uso diario.</td></tr>
-
-<tr><td>/Traducción</td><td>Traducción automática de conversaciones en tiempo real.</td></tr>
-<tr><td>/Recordatorios</td><td>Gestión de recordatorios y avisos programados.</td></tr>
-<tr><td>/Moderación</td><td>Herramientas básicas para la administración de servidores.</td></tr>
-<tr><td>/Utilidades</td><td>Funciones complementarias para el uso diario.</td></tr>
-
-<tr><td>/Traducción</td><td>Traducción automática de conversaciones en tiempo real.</td></tr>
-<tr><td>/Recordatorios</td><td>Gestión de recordatorios y avisos programados.</td></tr>
-<tr><td>/Moderación</td><td>Herramientas básicas para la administración de servidores.</td></tr>
-<tr><td>/Utilidades</td><td>Funciones complementarias para el uso diario.</td></tr>
-
+  <tr>
+    <td width="25%">
+      <strong><a href="#">01. PARANOIDE</a></strong><br>
+      <em>Mirada fija, latido amenazante, todo conspira.</em>
+    </td>
+  </tr>
 </table>
 
-</td>
 
-<td width="35%" align="center" valign="top">
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true">
-<img
-src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark"
-width="100%"
-alt="Spotify Profile"/>
-</a>
-
-</td>
-
-</tr>
-</table>
 
 <!-- footer con frase -->
 
-----
+---
 
 <br> </br>
 
