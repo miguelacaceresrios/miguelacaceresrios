@@ -3,16 +3,6 @@
 
 ---
 
-
-
-
-
-
-
-
-
-
-
 <table align="center" width="85%">
   <tr valign="middle">
     <td align="left" colspan="3">
@@ -40,15 +30,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
+---
 
 
 
@@ -64,6 +46,10 @@
 </table>
 
 ---
+
+
+
+
 
 <!-- i hate making this --> <!-- i fix that lol -->
 <table align="center" width="92%">  <tr valign="top">  <td align="right" width="50%"> <pre>
@@ -150,17 +136,7 @@
 
 ---
 
-<!-- spoty y articulos -->
 
-<table align="center" width="90%"><tr valign="middle">
-<td align="left" width="60%" valign="top"><div align="left"><h1> Publicaciones y Artículos Destacados </h1>
-
-<blockquote><p><i>Análisis técnicos, ensayos y reflexiones sobre ingeniería de software, arquitectura de sistemas e innovación tecnológica.</i></p></blockquote>
-
-</div><table align="left" width="100%" cellspacing="0"><tr><td align="left" valign="top">
-
-<h3> <a href="https://www.linkedin.com/pulse/lisp-el-lenguaje-que-sembr%C3%B3-las-ra%C3%ADces-de-la-caceres-rios-ozlme/"> ✦ LISP: raíces de la IA </a></h3>
-<p>Historia y fundamentos de la IA moderna.<br> Un recorrido por el lenguaje que sentó las bases de los sistemas inteligentes actuales.</p></td></tr><tr><td align="left" valign="top" style="padding: 4px 28px 18px 28px;"><h3 style="margin: 0 0 10px 0; font-size: 18px;"><a href="https://www.linkedin.com/pulse/descubriendo-el-poder-de-wsl-puente-invisible-entre-y-caceres-rios-dzoee/">✦ WSL: Windows + Linux</a></h3><p style="margin: 0 0 12px 0; line-height: 1.5; font-size: 14px;">Desarrollo híbrido sin fricciones.<br>Linux y Windows integrados para un flujo moderno, eficiente y escalable.</p></td></tr><tr><td align="left" valign="top" style="padding: 4px 28px 18px 28px;"><h3 style="margin: 0 0 10px 0; font-size: 18px;"><a href="#">✦ NixOS y la ingeniería de sistemas moderna</a></h3><p style="margin: 0 0 12px 0; line-height: 1.5; font-size: 14px;">Automatización, reproducibilidad y control total del entorno.<br>Una mirada al impacto de NixOS en los flujos de desarrollo modernos.</p></td></tr> nbsp; </table></td><td align="center" width="40%" valign="middle"><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=macaceres0905-co&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanityfalse&mode=dark" width="100%" alt="Spotify Profile" /></a></td></tr></table>
 <!--  ------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
 
@@ -183,6 +159,13 @@
 
 
 </table>
+
+
+<!----- fruit patch  ------>
+
+
+
+
 
 
 
