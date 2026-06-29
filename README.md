@@ -68,31 +68,33 @@
        mis primeros pasos fueron de ensayo y error, pero esa pasión definió mi camino profesional.</p><p>En<b>2014</b> comencé a trabajar con distintos motores (Unity, Unreal, Godot) y lenguajes (C#, C++, Python), creando mis primeros prototipos. Con los años desarrollé mejores hábitos, dominio técnico y una visión completa de la ingeniería de software.</p><p><b>2023</b> Destaco en mis estudios técnicos. Actualmente curso una carrera universitaria y mi meta es consolidarme en la industria tecnológica con una experiencia sólida que abarca más de una década de evolución constante.</p>
   </table> </tr> </td>
 
+<!-- DATURA -->
 ---
 
-<!-- DATURA -->
-
-<table> <tr>
-<td width="40%"><img src="https://via.placeholder.com/400x400/0d0d0d/e5e5e5?text=DATURA" alt="DATURA" width="100%" /></td>
-<td width="60%" style="vertical-align: top; padding-left: 20px;"><p>LP conceptual de hardcore, gabber y acid disociativo. Cinco etapas.</p></td></tr>
-    <td width="25%">
+<table width="100%">
+  <tr>
+    <td width="40%" rowspan="2"><img src="https://via.placeholder.com/400x400/0d0d0d/e5e5e5?text=DATURA" alt="DATURA" width="100%" /></td>
+    <td colspan="3" width="60%"><p>LP conceptual de hardcore, gabber y acid disociativo. Cinco etapas.</p></td>
+  </tr>
+  <tr>
+    <td width="20%">
       <strong><a href="#">06. HIOSCINA</a></strong><br>
       <em>genere</em>
     </td>
-    <td width="25%">
+    <td width="20%">
       <strong><a href="#">07. ATROPINA</a></strong><br>
       <em>genere</em>
     </td>
-    <td width="25%">
+    <td width="20%">
       <strong><a href="#">08. HIOSCIAMINA</a></strong><br>
       <em>genere</em>
     </td>
-</tr> </table>
+  </tr>
+</table>
 
 <!--  ------------------   EDUCACION  ----------------------->
 ---
-
- <table align="center" width="85%">
+<table align="center" width="85%">
   <tr valign="middle">
     <td align="left">
       <h1>Educacion</h1>
@@ -105,11 +107,8 @@
 
 <!--  ------------------  PUBLICACIONES  ----------------------->
 ---
-
 <table align="center" width="85%">
   <tr valign="middle">
-    <td align="left" colspan="3">
-      <h1>Publicaciones</h1>
     </td>
   </tr>
   <tr valign="top">
