@@ -71,7 +71,7 @@
 <!-- DATURA -->
 ---
 
-<table width="100%">
+<table width="850%">
   <tr>
     <td width="40%" rowspan="2"><img src="https://via.placeholder.com/400x400/0d0d0d/e5e5e5?text=DATURA" alt="DATURA" width="100%" /></td>
     <td colspan="3" width="60%"><p>LP conceptual de hardcore, gabber y acid disociativo. Cinco etapas.</p></td>
