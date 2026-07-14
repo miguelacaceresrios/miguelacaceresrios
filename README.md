@@ -40,15 +40,15 @@
        gato@nixos
       ──────────────────────────────────────────
       ╭─ Hardware
-      │  CPU    : Intel i5-1135G7 (8)
-      │  RAM    : 7.51 GiB (disponible)
-      │  Disk   : 232.69 GiB (ext4)
+      │  CPU    : Intel i5-1135G7 
+      │  RAM    : 7.51 GiB 
+      │  Disk   : 232.69 GiB 
       ╰─
       ╭─ Software
-      │  OS     : NixOS 25.11 (Xantusia)
-      │  pkgs   : 1770 (sistema + usuario)
+      │  OS     : NixOS 25.11 
+      │  pkgs   : 1770 
       │  Kernel : Linux 6.12.83
-      │  WM     : Hyprland (Wayland)
+      │  WM     : Hyprland 
       │  Shell  : bash 5.3.3
       │  Term   : kitty
       │  Editor : VSCode
