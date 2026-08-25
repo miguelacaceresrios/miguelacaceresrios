@@ -65,81 +65,33 @@
   <tr valign="middle">
     <td align="left">
       <h1>Experiencia</h1>
-       mis primeros pasos fueron de ensayo y error, pero esa pasión definió mi camino profesional.</p><p>En<b>2014</b> comencé a trabajar con distintos motores (Unity, Unreal, Godot) y lenguajes (C#, C++, Python), creando mis primeros prototipos. Con los años desarrollé mejores hábitos, dominio técnico y una visión completa de la ingeniería de software.</p><p><b>2023</b> Destaco en mis estudios técnicos. Actualmente curso una carrera universitaria y mi meta es consolidarme en la industria tecnológica con una experiencia sólida que abarca más de una década de evolución constante.</p>
+<pExperiencia
+
+Isometrical · Fundador y Desarrollador (2018 — hoy)
+Estudio propio con dos frentes: un sello indie que lleva videojuegos simples a comunidades, y una unidad de software que desarrolla aplicaciones web y de escritorio a la medida para negocios. Dirijo cada proyecto de punta a punta —diseño, backend, arquitectura y entrega— con C#/.NET y buenas prácticas de ingeniería.
+
+Freelance · Desarrollador de Software independiente
+Software a la medida y proyectos de seguridad informática para clientes externos, con control de versiones, documentación y revisión de código en cada entrega.
+
+Formador de Programación · Comunidades propias
+Años enseñando programación desde cero a jóvenes de forma independiente, más soporte técnico y mentoría voluntaria a proyectos de la comunidad.></p>
   </table> </tr> </td>
 
-<!-- DATURA -->
----
 
-<table align="center" width="85%">
-  <tr valign="middle">
-    <td width="40%" rowspan="2" align="center"><img src="https://placehold.co/400x400/0d0d0d/e5e5e5?text=DATURA" alt="DATURA" width="100%" /></td>
-    <td colspan="3" width="60%"><p>LP conceptual de hardcore, gabber y acid disociativo hecho enteramente en código con Strudel. Cinco etapas.</p></td>
-  </tr>
-  <tr>
-    <td width="20%">
-      <strong><a href="#">06. HIOSCINA</a></strong><br>
-      <em>genere</em>
-    </td>
-    <td width="20%">
-      <strong><a href="#">07. ATROPINA</a></strong><br>
-      <em>genere</em>
-    </td>
-    <td width="20%">
-      <strong><a href="#">08. HIOSCIAMINA</a></strong><br>
-      <em>genere</em>
-    </td>
-  </tr>
-</table>
 
 <!--  ------------------   EDUCACION  ----------------------->
 ---
+
 <table align="center" width="85%">
   <tr valign="middle">
     <td align="left">
       <h1>Educacion</h1>
-      <p><b>Desde #</b> content</p>
-      <p>En <b>2014</b> comencé a trabajar con distintos motores (Unity, Unreal, Godot) y lenguajes (C#, C++, Python), creando mis primeros prototipos. Con los años desarrollé mejores hábitos, dominio técnico y una visión completa de la ingeniería de software.</p>
-      <p><b>2023:</b> Destaco en mis estudios técnicos. Actualmente curso una carrera universitaria y mi meta es consolidarme en la industria tecnológica con una experiencia sólida que abarca más de una década de evolución constante.</p> &nbsp;
+<p>Ingeniería de Sistemas · Universidad Piloto de Colombia (en curso)
+Técnico en Aplicaciones y Servicios en la Nube · SENA
+Formación continua · Certificaciones en distintas áreas de la programación — Coursera y otras plataformas</p>
     </td>
-  </tr>
+  </tr> <br>
 </table>
-
-<!--  ------------------  PUBLICACIONES  ----------------------->
----
-<table align="center" width="85%">
-  <tr valign="middle">
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="33%" align="center">
-      <img src="https://placehold.co/180x100/0d0d0d/f0f0f0?text=LISP" width="100%"/><br><br>
-      <b><a href="https://www.linkedin.com/pulse/lisp-el-lenguaje-que-sembr%C3%B3-las-ra%C3%ADces-de-la-caceres-rios-ozlme/">LISP: raíces de la IA</a></b><br>
-      <sub>Historia y fundamentos del lenguaje que sentó las bases de los sistemas inteligentes actuales.</sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://placehold.co/180x100/0d0d0d/f0f0f0?text=WSL" width="100%"/><br><br>
-      <b><a href="https://www.linkedin.com/pulse/descubriendo-el-poder-de-wsl-puente-invisible-entre-y-caceres-rios-dzoee/">WSL: Windows + Linux</a></b><br>
-      <sub>Linux y Windows integrados para un flujo moderno, eficiente y escalable.</sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://placehold.co/180x100/0d0d0d/f0f0f0?text=NixOS" width="100%"/><br><br>
-      <b>NixOS e ingeniería moderna</b><br>
-      <sub>Automatización, reproducibilidad y control total del entorno de desarrollo.</sub>
-    </td>
-  </tr>
-</table>
-
-<!---------------- footer ------------------------------->
-
-<br>
 
 ---
 
-<p align="center">
-  <i>"suffering is the origin of consciousness"</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/miguelacaceresrios">↑ back to top</a>
-</p>
