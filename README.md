@@ -86,7 +86,8 @@ Años enseñando programación desde cero a jóvenes de forma independiente, má
   <tr valign="middle">
     <td align="left">
       <h1>Educacion</h1>
-<p>Ingeniería de Sistemas · Universidad Piloto de Colombia (en curso)
+<p>Ingeniería de Sistemas · Universidad Piloto de Colombia 
+
 Técnico en Aplicaciones y Servicios en la Nube · SENA
 Formación continua · Certificaciones en distintas áreas de la programación — Coursera y otras plataformas</p>
     </td>
