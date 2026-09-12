@@ -78,7 +78,6 @@ Años enseñando programación desde cero a jóvenes de forma independiente, má
   </table> </tr> </td>
 
 
-
 <!--  ------------------   EDUCACION  ----------------------->
 ---
 
