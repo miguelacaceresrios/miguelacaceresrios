@@ -31,6 +31,3 @@ Años enseñando programación desde cero a jóvenes de forma independiente, má
 Técnico en Aplicaciones y Servicios en la Nube · SENA
 Formación continua · Certificaciones en distintas áreas de la programación — Coursera y otras plataformas</p>
 </td> </tr> <br> </table>
-
----
-
