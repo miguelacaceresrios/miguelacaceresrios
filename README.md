@@ -1,8 +1,6 @@
 <table align="center" width="85%"><tr valign="middle"><td align="left"><h1>Sobre mí</h1><p><b>Desde 2012</b> he enfocado mi vida en el desarrollo de videojuegos, una pasión que nació en mi infancia y definió mi camino profesional. Sin contar con herramientas ni guía, mis primeros pasos fueron autodidactas y llenos de ensayo y error.</p><p>En <b>2014</b> comencé a trabajar con distintos motores y lenguajes de programación, creando mis primeros prototipos. Con el tiempo desarrollé mejores hábitos, dominio técnico y una visión más completa de la ingeniería de software. En <b>2023</b> destaqué en mis estudios técnicos y actualmente continúo mi formación universitaria, con la meta de consolidar mi carrera en la industria tecnológica. <br> </br> </p> </td> </tr> </table>
 
 ---
-<!------------------------------ EXPERIENCIA ------------------------------------->
----
 
 <table align="center" width="85%">
   <tr valign="middle">
@@ -20,9 +18,9 @@ Formador de Programación · Comunidades propias
 Años enseñando programación desde cero a jóvenes de forma independiente, más soporte técnico y mentoría voluntaria a proyectos de la comunidad.></p>
   </table> </tr> </td>
 
-
-<!--  ------------------   EDUCACION  ----------------------->
 ---
+
+
 
 <table align="center" width="85%">
   <tr valign="middle">
@@ -32,9 +30,7 @@ Años enseñando programación desde cero a jóvenes de forma independiente, má
 
 Técnico en Aplicaciones y Servicios en la Nube · SENA
 Formación continua · Certificaciones en distintas áreas de la programación — Coursera y otras plataformas</p>
-    </td>
-  </tr> <br>
-</table>
+</td> </tr> <br> </table>
 
 ---
 
