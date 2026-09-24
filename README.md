@@ -3,6 +3,8 @@
 ---
 
 
+<!-- plataforma de eventos -->
+
 
 ---
 <table align="center" width="85%"><tr valign="middle"> <td align="left">
@@ -21,7 +23,9 @@ Años enseñando programación desde cero a jóvenes de forma independiente, má
 ---
 
 
+<!-- extensiones --> 
 
+---
 <table align="center" width="85%">
   <tr valign="middle">
     <td align="left">
