@@ -68,9 +68,14 @@ Una o dos frases: qué resuelve, tu rol y lo que lo hace técnicamente interesan
 
 <table align="center" width="85%"><tr valign="middle"><td align="left">
 
-### Desarrollador de Software · Independiente
+### Isometrical · Fundador y Desarrollador
 
-Aplicaciones web y de escritorio a la medida para negocios de distintos sectores, del diseño a la entrega. Diseño de arquitectura, backend y modelo de datos; control de versiones, documentación y revisión de código en cada entrega.
+Estudio propio de software. Desarrollo aplicaciones web y de escritorio a la medida para negocios, de punta a punta: diseño, backend, arquitectura y entrega, con C#/.NET y SQL Server.
+<sub>2018 — hoy</sub>
+
+### Isometrical Games · Fundador
+
+Sello indie que lleva videojuegos simples a comunidades: diseño, desarrollo y publicación de los títulos.
 <sub>2018 — hoy</sub>
 
 ### Formador de Programación y Mentor
@@ -89,8 +94,22 @@ Enseñanza de programación desde cero a jóvenes, en comunidades propias. Prepa
 <table align="center" width="85%"><tr valign="middle"><td align="left">
 
 **Ingeniería de Sistemas** · Universidad Piloto de Colombia <sub>— en curso</sub>  
-**Técnico en Aplicaciones y Servicios en la Nube** · SENA  
-**Formación continua** · Certificaciones en distintas áreas de la programación — Coursera y otras plataformas
+**Técnico en Aplicaciones y Servicios en la Nube** · SENA
+
+<br> </br>
+
+</td></tr></table>
+
+---
+
+<h1 align="center">Cursos y certificaciones</h1>
+
+<table align="center" width="85%"><tr valign="middle"><td align="left">
+
+Formación continua en distintas áreas de la programación a través de **Coursera** y otras plataformas.
+
+- CURSO / CERTIFICACIÓN — plataforma
+- CURSO / CERTIFICACIÓN — plataforma
 
 <br> </br>
 
