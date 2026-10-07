@@ -1,7 +1,7 @@
 <table align="center" width="85%"><tr valign="middle"><td align="left">
 
 <h1>Miguel Ángel Cáceres Ríos</h1>
-
+ 
 <b>Desarrollador backend y web full-stack.</b> Más de una década construyendo software: empecé en <b>2012</b> de forma autodidacta y, con los años, pasé de los prototipos a diseñar y entregar aplicaciones de negocio de punta a punta. Trabajo sobre todo con <b>C#, .NET y SQL Server</b>, y lo que más disfruto es el backend — APIs, modelo de datos y arquitectura — junto a los servicios en la nube.
 
 Me interesa el software que resiste producción: código revisado, versionado y documentado. Actualmente curso Ingeniería de Sistemas y busco integrarme a un equipo donde el backend sea el centro del trabajo.
