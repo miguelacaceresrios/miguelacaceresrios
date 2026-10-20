@@ -1,24 +1,11 @@
 <table align="center" width="85%"><tr valign="middle"><td align="left">
 
-<h1>Miguel Ángel Cáceres Ríos</h1>
- 
-<b>Desarrollador backend y web full-stack.</b> Más de una década construyendo software: empecé en <b>2012</b> de forma autodidacta y, con los años, pasé de los prototipos a diseñar y entregar aplicaciones de negocio de punta a punta. Trabajo sobre todo con <b>C#, .NET y SQL Server</b>, y lo que más disfruto es el backend — APIs, modelo de datos y arquitectura — junto a los servicios en la nube.
 
-Me interesa el software que resiste producción: código revisado, versionado y documentado. Actualmente curso Ingeniería de Sistemas y busco integrarme a un equipo donde el backend sea el centro del trabajo.
+<b>Desarrollador backend y web full-stack.</b> Programo desde <b>2012</b>, primero de forma autodidacta y hoy como fundador de mi propia empresa de software. En ese tiempo pasé de los prototipos a diseñar, desplegar y mantener sistemas que cobran dinero y atienden usuarios reales.
+
+Lo que más disfruto es el servidor: modelo de datos, APIs, pagos, despliegue y todo lo que mantiene a un sistema en pie cuando nadie lo está mirando. Cursando Ingeniería de Sistemas y buscando un equipo donde el backend sea el centro del trabajo.
 
 <br> </br>
-
-</td></tr></table>
-
----
-
-<table align="center" width="85%"><tr valign="middle"><td align="left">
-
-Diseño y construyo el lado servidor de aplicaciones de negocio: APIs, modelo de datos y arquitectura, hasta el despliegue en la nube. El frontend lo manejo cuando el proyecto lo pide.
-
-<p align="center">
-<code>C#</code>&nbsp;·&nbsp;<code>.NET</code>&nbsp;·&nbsp;<code>SQL Server</code>&nbsp;·&nbsp;<code>Astro</code>&nbsp;·&nbsp;<code>Azure</code>&nbsp;·&nbsp;<code>Linux</code>
-</p>
 
 </td></tr></table>
 
@@ -28,60 +15,74 @@ Diseño y construyo el lado servidor de aplicaciones de negocio: APIs, modelo de
 
 <table align="center" width="85%"><tr valign="top"><td align="left">
 
-### ▌ Lunaris — E-commerce
+### ▌ Champion Sport Events — Plataforma de eventos deportivos
 
-Tienda en línea completa: catálogo, carrito, gestión de pedidos y panel de administración. Reconstrucción de un proyecto real de cliente, ahora como pieza de portafolio con arquitectura limpia y código versionado.
+Plataforma en producción, con dominio propio, para publicar eventos, inscribir atletas y cobrar en línea.
 
-`.NET` `SQL Server` `Astro`
+- La inscripción pasa de `pendiente` a `pagada` solo cuando el webhook de Stripe lo confirma.
+- Los montos se guardan en centavos para evitar errores de redondeo.
+- El acceso está separado por roles y permisos.
+- Sin framework de servidor: HTTP nativo de Node, para controlar cada capa.
 
-[&nbsp;Repositorio&nbsp;→](https://github.com/miguelacaceresrios/lunaris)
+`Node.js` `SQLite` `Stripe Checkout` `HTML/CSS/JS`
 
-</td></tr></table>
-
-<table align="center" width="85%"><tr valign="top"><td align="left">
-
-### ▌ NOMBRE DEL PROYECTO — categoría
-
-Una o dos frases: qué resuelve, tu rol y lo que lo hace técnicamente interesante (decisión de arquitectura, reto de datos, escala).
-
-`stack` `stack` `stack`
-
-[&nbsp;Repositorio&nbsp;→](https://github.com/miguelacaceresrios/REPO)
+[&nbsp;Sitio en vivo&nbsp;→](https://TU-DOMINIO.com) &nbsp;·&nbsp; [&nbsp;Repositorio&nbsp;→](https://github.com/miguelacaceresrios/TU-REPO-CHAMPION)
 
 </td></tr></table>
 
 <table align="center" width="85%"><tr valign="top"><td align="left">
 
-### ▌ NOMBRE DEL PROYECTO — categoría
+### ▌ Apus — Automatización de Git + extensión de VS Code
 
-Una o dos frases: qué resuelve, tu rol y lo que lo hace técnicamente interesante.
+Herramienta para quien trabaja con muchos repositorios a la vez.
 
-`stack` `stack` `stack`
+- Encadena `add`, `commit` y `push` en un solo paso, con modo manual y automático.
+- Muestra qué se ejecuta en cada etapa.
+- Núcleo en Go y extensión de VS Code en TypeScript, en un solo monorepo.
 
-[&nbsp;Repositorio&nbsp;→](https://github.com/miguelacaceresrios/REPO)
+> **`apus-guard`** &nbsp;<kbd>en desarrollo</kbd><br>
+> Escaneo de secretos con reglas para .NET, Azure y SQL Server que bloquea el push ante hallazgos críticos y oculta el valor detectado en la salida.
+
+`Go` `TypeScript` `VS Code Extension API` `Git`
+
+[&nbsp;Repositorio&nbsp;→](https://github.com/miguelacaceresrios/Apus)
 
 </td></tr></table>
 
 ---
 
-<h1 align="center">Experiencia</h1>
+<h1 align="center">Empresa</h1>
 
 <table align="center" width="85%"><tr valign="middle"><td align="left">
 
-### Isometrical · Fundador y Desarrollador
+### Isometrical Digital Solutions · Fundador y Desarrollador
 
-Estudio propio de software. Desarrollo aplicaciones web y de escritorio a la medida para negocios, de punta a punta: diseño, backend, arquitectura y entrega, con C#/.NET y SQL Server.
-<sub>2018 — hoy</sub>
+<kbd>2018 — hoy</kbd>
 
-### Isometrical Games · Fundador
+Desarrollo de software a la medida para empresas: aplicaciones web y de escritorio, de punta a punta, desde el diseño y el backend hasta la entrega. Trabajamos sobre una base propia reutilizable, con dos modalidades:
 
-Sello indie que lleva videojuegos simples a comunidades: diseño, desarrollo y publicación de los títulos.
-<sub>2018 — hoy</sub>
+- Sistemas con cobro mensual.
+- Paquetes de páginas web a precio fijo.
 
-### Formador de Programación y Mentor
+### Isometrical Game Company · Fundador
 
-Enseñanza de programación desde cero a jóvenes, en comunidades propias. Preparación de personas para entrevistas técnicas y mentoría voluntaria a proyectos de la comunidad.
-<sub>Varios años</sub>
+<kbd>2018 — hoy</kbd>
+
+Sello indie de videojuegos: diseño, desarrollo y publicación de títulos propios.
+
+<br> </br>
+
+</td></tr></table>
+
+---
+
+<h1 align="center">Mentoría</h1>
+
+<table align="center" width="85%"><tr valign="middle"><td align="left">
+
+- **Enseño programación desde cero** a jóvenes en comunidades propias.
+- **Preparo personas** para entrevistas técnicas.
+- **Acompaño de forma voluntaria** proyectos de la comunidad.
 
 <br> </br>
 
@@ -93,8 +94,11 @@ Enseñanza de programación desde cero a jóvenes, en comunidades propias. Prepa
 
 <table align="center" width="85%"><tr valign="middle"><td align="left">
 
-**Ingeniería de Sistemas** · Universidad Piloto de Colombia <sub>— en curso</sub>  
-**Técnico en Aplicaciones y Servicios en la Nube** · SENA
+#### Ingeniería de Sistemas &nbsp;<kbd>en curso</kbd>
+Universidad Piloto de Colombia
+
+#### Técnico en Aplicaciones y Servicios en la Nube
+SENA
 
 <br> </br>
 
@@ -106,14 +110,9 @@ Enseñanza de programación desde cero a jóvenes, en comunidades propias. Prepa
 
 <table align="center" width="85%"><tr valign="middle"><td align="left">
 
-Formación continua en distintas áreas de la programación a través de **Coursera** y otras plataformas.
-
-- CURSO / CERTIFICACIÓN — plataforma
-- CURSO / CERTIFICACIÓN — plataforma
+- CERTIFICACIÓN — plataforma · año
+- CERTIFICACIÓN — plataforma · año
 
 <br> </br>
 
-</td></tr></table>
-
-
-  
+    </td></tr></table>
