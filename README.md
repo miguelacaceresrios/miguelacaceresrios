@@ -36,9 +36,7 @@ Herramienta para quien trabaja con muchos repositorios a la vez. Núcleo en Go y
 - Muestra qué se ejecuta en cada etapa.
 - **apus-guard** (en desarrollo): escanea secretos con reglas para .NET, Azure y SQL Server, bloquea el push ante hallazgos críticos y nunca imprime el valor detectado.
 
-`Go` `TypeScript` `VS Code Extension API` `Git`
 
-[Repositorio →](https://github.com/miguelacaceresrios/Apus)
 
 <br><br>
 </td></tr></table>
