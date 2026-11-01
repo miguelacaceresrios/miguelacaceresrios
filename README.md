@@ -1,4 +1,4 @@
-<table align="center" width="85%"><tr valign="middle"><td align="left">
+<table align="center" width="85%"><tr valign="middle"><td align="left"> 
 
 <h1>Sobre mí</h1>
 
