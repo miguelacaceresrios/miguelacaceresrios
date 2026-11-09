@@ -11,7 +11,6 @@ Lo que más disfruto es el servidor: modelo de datos, APIs, pagos, despliegue y 
 
 ---
 
-
 <table align="center" width="85%"><tr valign="middle"><td align="left">
 
 <h1>Proyectos destacados</h1>
