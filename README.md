@@ -2,7 +2,7 @@
 
 <h1>Sobre mí</h1>
 
-<b>Desarrollador backend y web full-stack.</b> Programo desde <b>2012</b>, primero de forma autodidacta y hoy como fundador de mi propia empresa de software. Pasé de los prototipos a diseñar, desplegar y mantener sistemas que cobran dinero y atienden usuarios reales.
+<b>Desarrollador web full-stack.</b> Programo desde <b>2012</b>, primero de forma autodidacta y hoy como fundador de mi propia empresa de software. Pasé de los prototipos a diseñar, desplegar y mantener sistemas que cobran dinero y atienden usuarios reales.
 
 Lo que más disfruto es el servidor: modelo de datos, APIs, pagos, despliegue y todo lo que mantiene a un sistema en pie cuando nadie lo está mirando. Cursando Ingeniería de Sistemas y buscando un equipo donde el backend sea el centro del trabajo.
 
